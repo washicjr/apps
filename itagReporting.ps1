@@ -47,6 +47,7 @@ function retHighLevelCapability([string]$oldStr) {
         $newStr = $oldStr
     }
     return $newStr
+    
 }
 
 function importData {
