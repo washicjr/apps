@@ -230,7 +230,7 @@ function exportConsolidated {
 
             $oRsReq.Close()
             $oReqDbConn.Close()
-    $oRsDec.MoveNext()
+            $oRsDec.MoveNext()
     }
     until ($oRsDec.EOF -eq $True)
 
