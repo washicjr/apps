@@ -306,6 +306,12 @@
         "sTitle":  "Supervisor Data Management"
     },
     {
+        "nID":  "109",
+        "sRequesters":  "Whitley, Brad",
+        "sRequesterDepartment":  "Infrastructure Services",
+        "sTitle":  "Sr Manager IT Services"
+    },
+    {
         "nID":  "113",
         "sRequesters":  "Payne, Ian",
         "sRequesterDepartment":  "Platform Support",
@@ -889,7 +895,7 @@
     },
     {
         "nID":  "329",
-        "sRequesters":  "Wood, Grant",
+        "sRequesters":  "Wood, Grant (Term)",
         "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
         "sTitle":  "Sr Supervisor IT Services"
     },
@@ -1192,5 +1198,23 @@
         "sRequesters":  "O\u0027Brien, Joshua (Contract)",
         "sRequesterDepartment":  "Integrated Geoscience",
         "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "430",
+        "sRequesters":  "Nicolotti, Daniel",
+        "sRequesterDepartment":  "Finance \u0026 Accounting and Corp Reporting",
+        "sTitle":  "Manager Business Analysis"
+    },
+    {
+        "nID":  "432",
+        "sRequesters":  "Lanphear, Nicole",
+        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "436",
+        "sRequesters":  "Roche, Eryn",
+        "sRequesterDepartment":  "Procurement - Corporate",
+        "sTitle":  "Supply Chain Professional"
     }
 ]

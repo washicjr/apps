@@ -1,5 +1,59 @@
 [
     {
+        "nSubmissionID":  "144",
+        "sItagID":  "AIGB027.2017",
+        "dDateReviewed":  "5/18/2017",
+        "sItagGovernanceType":  "Application",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "139",
+        "sItagID":  "AIGB028.2017",
+        "dDateReviewed":  "5/18/2017",
+        "sItagGovernanceType":  "Application",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "142",
+        "sItagID":  "TGB016.2017",
+        "dDateReviewed":  "5/11/2017",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "145",
+        "sItagID":  "TGB017.2017",
+        "dDateReviewed":  "5/11/2017",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "140",
+        "sItagID":  "TGB017.2017",
+        "dDateReviewed":  "5/11/2017",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "136",
+        "sItagID":  "TGB018.2017",
+        "dDateReviewed":  "5/11/2017",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
         "nSubmissionID":  "138",
         "sItagID":  "AIGB024.2017",
         "dDateReviewed":  "5/4/2017",
