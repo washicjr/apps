@@ -72,7 +72,6 @@ function exportDecisions {
     write-host "%"
 
     $csv = $csvDir + "decisions.csv"
-    $json = $jsonDir +  "decisions.json"
     $qryString = "select * from DecisionRegistry"
 
     $command.CommandText = $qryString
@@ -81,7 +80,7 @@ function exportDecisions {
     $adapter.Fill($dataset)
     $dataset.Tables[0] | export-csv $tempCsv -NoTypeInformation
 
-    Import-Csv $tempCsv | select @{Name = "nSubmissionID"; Expression = {$_."Submission ID"}},
+    Import-Csv $tempCsv | Select-Object @{Name = "nSubmissionID"; Expression = {$_."Submission ID"}},
         @{Name = "sItagID"; Expression = {$_."ITAG ID"}},
         @{Name = "dDateReviewed"; Expression = {retConvertDate($_."Date Reviewed")}},
         @{Name = "sItagGovernanceType"; Expression = {$_."ITAG Governance Type"}},
@@ -100,7 +99,6 @@ function exportDevonContacts {
     write-host "%"
 
     $csv = $csvDir + "contacts.csv"
-    $json = $jsonDir + "contacts.json"
     $qryString = "select * from UserInfo"
 
     $command.CommandText = $qryString
@@ -109,7 +107,7 @@ function exportDevonContacts {
     $adapter.Fill($dataset)
     $dataset.Tables[0] | export-csv $tempCsv -NoTypeInformation
 
-    Import-Csv $tempCsv | select @{Name = "nID"; Expression = {$_."ID"}},
+    Import-Csv $tempCsv | Select-Object  @{Name = "nID"; Expression = {$_."ID"}},
         @{Name = "sRequesters"; Expression = {$_."Name"}},
         @{Name = "sRequesterDepartment"; Expression = {$_."Department"}},
         @{Name = "sTitle"; Expression = {$_."Title"}} | Export-csv $csv -NoTypeInformation
@@ -125,7 +123,6 @@ function exportRequests {
     write-host "%"
 
     $csv = $csvDir + "requests.csv"
-    $json = $jsonDir + "requests.json"
 
     $qryString = "Select * from [RequestRegistry]"
     $command.CommandText = $qryString
@@ -134,7 +131,7 @@ function exportRequests {
     $adapter.Fill($dataset)
     $dataset.Tables[0] | export-csv $tempCsv -NoTypeInformation
 
-    Import-Csv $tempCsv | select @{Name = "nID"; Expression = {$_."ID"}},
+    Import-Csv $tempCsv | Select-Object @{Name = "nID"; Expression = {$_."ID"}},
         @{Name = "sContentType"; Expression = {$_."Content Type"}},
         @{Name = "sProductManufacturer"; Expression = {$_."Product Manufacturer"}},
         @{Name = "sProductName"; Expression = {$_."Product Name"}},
@@ -170,7 +167,6 @@ function exportConsolidated {
     write-host "%"
 
     $csv = $csvDir + "consolidated.csv"
-    $json = $jsonDir + "consolidated.json"
 
     $qryString = "Select * from [DecisionRegistry]"
     $oDecDbConn = New-Object -comobject ADODB.Connection
@@ -196,7 +192,6 @@ function exportConsolidated {
             $oRsReq = New-Object -comobject ADODB.Recordset
             $oRsReq.Open($qryStrRequest, $oReqDbConn,$adOpenStatic,$adLockOptimistic)
 
-            $nID = $oRsReq.Fields.Item("ID").Value ;
             $sContentType = $oRsReq.Fields.Item("Content Type").Value ;
             $sProductManufacturer = $oRsReq.Fields.Item("Product Manufacturer").Value ;
             $sProductName = $oRsReq.Fields.Item("Product Name").Value ;
@@ -219,7 +214,6 @@ function exportConsolidated {
                 ElseIf ($sITCapability -ne "") {$sITClass = retHighLevelCapability($sITCapability)}
                 Else {$sITClass = retHighLevelCapability($sBusinessCapability)}
 
-            $bCurrentAppWithCapabilities = $oRsReq.Fields.Item("Does Devon Currently License Any Applications that Have Similar ").Value ;
             $sTargetSystem = $oRsReq.Fields.Item("Proposed Target Application or System").Value ;
             $sProductNameWithManufacture = $oRsReq.Fields.Item("Product Name with Product Manufacturer").Value ;
             $bOpenSource = $oRsReq.Fields.Item("Is This Product Open Source?").Value ;
@@ -246,7 +240,6 @@ function exportUserMapping {
     write-host "%"
 
     $csv = $csvDir + "userInfo.csv"
-    $json = $jsonDir + "userInfo.json"
 
      $csvContent = [char]34 + "nID" + [char]34 + "," + [char]34 + "sRequesters" + [char]34 + "," + [char]34 + "sRequesterDepartment" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sTechnologyHostingModel" + [char]34 + "," + [char]34 + "sApplicationHostingModel" + [char]34 + "," + [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sITCapability" + [char]34 + "," + [char]34 + "sBusinessCapability" + [char]34 + $crlf
 
