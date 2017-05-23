@@ -72,8 +72,8 @@ function exportDecisions {
     write-host "%"
 
     $csv = $csvDir + "decisions.csv"
+    
     $qryString = "select * from DecisionRegistry"
-
     $command.CommandText = $qryString
     $adapter = New-Object -TypeName System.Data.OleDb.OleDbDataAdapter $command
     $dataset = New-Object -TypeName System.Data.DataSet
@@ -99,8 +99,8 @@ function exportDevonContacts {
     write-host "%"
 
     $csv = $csvDir + "contacts.csv"
+    
     $qryString = "select * from UserInfo"
-
     $command.CommandText = $qryString
     $adapter = New-Object -TypeName System.Data.OleDb.OleDbDataAdapter $command
     $dataset = New-Object -TypeName System.Data.DataSet
@@ -241,7 +241,7 @@ function exportUserMapping {
 
     $csv = $csvDir + "userInfo.csv"
 
-     $csvContent = [char]34 + "nID" + [char]34 + "," + [char]34 + "sRequesters" + [char]34 + "," + [char]34 + "sRequesterDepartment" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sTechnologyHostingModel" + [char]34 + "," + [char]34 + "sApplicationHostingModel" + [char]34 + "," + [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sITCapability" + [char]34 + "," + [char]34 + "sBusinessCapability" + [char]34 + $crlf
+    $csvContent = [char]34 + "nID" + [char]34 + "," + [char]34 + "sRequesters" + [char]34 + "," + [char]34 + "sRequesterDepartment" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sTechnologyHostingModel" + [char]34 + "," + [char]34 + "sApplicationHostingModel" + [char]34 + "," + [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sITCapability" + [char]34 + "," + [char]34 + "sBusinessCapability" + [char]34 + $crlf
 
     $qryStrRequest = "Select * from [RequestRegistry]"
     $oReqDbConn = New-Object -comobject ADODB.Connection
