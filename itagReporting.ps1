@@ -20,9 +20,11 @@ $command = $connection.CreateCommand()
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Functions  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function retConvertDate([string]$dateVal) {
-    $newDate = $dateVal.split(" ")
-    return $newDate[0]
+function retConvertDate($dateVal) {
+    $newDate = [datetime]$dateVal
+    $newDate = '{0:M/d/yyyy}' -f $newDate
+    $newDate = [string]$newDate
+    return $newDate
 }
 
 function retNormTaxonomy([string]$oldStr) {
