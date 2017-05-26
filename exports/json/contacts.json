@@ -258,6 +258,12 @@
         "sTitle":  "Application Services Professional"
     },
     {
+        "nID":  "86",
+        "sRequesters":  "Tisdale, Matt",
+        "sRequesterDepartment":  "",
+        "sTitle":  ""
+    },
+    {
         "nID":  "88",
         "sRequesters":  "Chiba, Ken",
         "sRequesterDepartment":  "Platform Support",
@@ -732,6 +738,12 @@
         "sTitle":  "IT Services Professional"
     },
     {
+        "nID":  "281",
+        "sRequesters":  "Moore, Scott",
+        "sRequesterDepartment":  "Internal Audit",
+        "sTitle":  "IT Audit Professional"
+    },
+    {
         "nID":  "283",
         "sRequesters":  "Minor, Sharon",
         "sRequesterDepartment":  "Integrated Geoscience",
@@ -1002,6 +1014,12 @@
         "sTitle":  "Sr Supervisor IT Services"
     },
     {
+        "nID":  "357",
+        "sRequesters":  "Beahan, Brad",
+        "sRequesterDepartment":  "G\u0026G Application Solutions",
+        "sTitle":  "IT Services Professional"
+    },
+    {
         "nID":  "359",
         "sRequesters":  "Shelden, Lisa",
         "sRequesterDepartment":  "Solution Support",
@@ -1216,5 +1234,17 @@
         "sRequesters":  "Roche, Eryn",
         "sRequesterDepartment":  "Procurement - Corporate",
         "sTitle":  "Supply Chain Professional"
+    },
+    {
+        "nID":  "440",
+        "sRequesters":  "Bowie, Chris",
+        "sRequesterDepartment":  "Integrated Geoscience",
+        "sTitle":  "Geologist"
+    },
+    {
+        "nID":  "441",
+        "sRequesters":  "Pace, Katie",
+        "sRequesterDepartment":  "Strategic Geoscience",
+        "sTitle":  "Geosciences Technologist"
     }
 ]

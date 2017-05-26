@@ -1,5 +1,32 @@
 [
     {
+        "nSubmissionID":  "131",
+        "sItagID":  "TGB019.2017",
+        "dDateReviewed":  "5/25/2017",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "143",
+        "sItagID":  "TGB020.2017",
+        "dDateReviewed":  "5/25/2017",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "147",
+        "sItagID":  "TGB021.2017",
+        "dDateReviewed":  "5/25/2017",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "True"
+    },
+    {
         "nSubmissionID":  "144",
         "sItagID":  "AIGB027.2017",
         "dDateReviewed":  "5/18/2017",
