@@ -53,11 +53,11 @@ function retHighLevelCapability([string]$oldStr) {
 
 function echoStatus([string]$statusMsg) {
     $msg = "% " + $statusMsg
-    write-host -foregroundcolor cyan ""
+    write-host ""
     write-host -foregroundcolor cyan "%"
     write-host -foregroundcolor cyan $msg
     write-host -foregroundcolor cyan "%"
-    write-host -foregroundcolor cyan ""
+    write-host ""
 }
 
 function importData {
