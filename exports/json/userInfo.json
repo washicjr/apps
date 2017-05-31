@@ -720,21 +720,6 @@
         "sBusinessCapability":  ""
     },
     {
-        "nID":  "30",
-        "sRequesters":  "Wood, Grant",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "EQUINIX",
-        "sProductName":  "Cloud Exchange",
-        "dDateRequested":  "12/15/2016",
-        "sTechnologyHostingModel":  "On-Premises Infrastructure",
-        "sApplicationHostingModel":  "",
-        "sDeploymentType":  "Production",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Network Transport",
-        "sBusinessCapability":  ""
-    },
-    {
         "nID":  "31",
         "sRequesters":  "Miley, Thorin",
         "sRequesterDepartment":  "Desktop, ITAM, Mobility",
@@ -1787,7 +1772,7 @@
     {
         "nID":  "86",
         "sRequesters":  "Pfau, Ken",
-        "sRequesterDepartment":  "New Ventures - Exploration",
+        "sRequesterDepartment":  "Integrated Geoscience",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "LMKR",
         "sProductName":  "GeoGraphix PRIZM",
@@ -2790,21 +2775,6 @@
         "sBusinessCapability":  ""
     },
     {
-        "nID":  "130",
-        "sRequesters":  "Grant Wood",
-        "sRequesterDepartment":  "",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "ExtraHop",
-        "sProductName":  "ExtraHop Discover Appliance",
-        "dDateRequested":  "4/19/2017",
-        "sTechnologyHostingModel":  "On-Premises Infrastructure",
-        "sApplicationHostingModel":  "",
-        "sDeploymentType":  "Proof of Concept/Technology",
-        "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Network Based Forensics :: Network Packet Analytics",
-        "sBusinessCapability":  ""
-    },
-    {
         "nID":  "131",
         "sRequesters":  "Tidwell, Andrew",
         "sRequesterDepartment":  "Digital Security",
@@ -3238,5 +3208,35 @@
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Geoscience :: Asset Exploration :: Exploration Strategy"
+    },
+    {
+        "nID":  "150",
+        "sRequesters":  "Pedersen, Finn",
+        "sRequesterDepartment":  "G\u0026G Data \u0026 App Solutions",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Schlumberger",
+        "sProductName":  "Schlumberger Cloud Solution Pilot",
+        "dDateRequested":  "5/26/2017",
+        "sTechnologyHostingModel":  "",
+        "sApplicationHostingModel":  "Cloud Hosted Software as a Service (SaaS)",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Geoscience"
+    },
+    {
+        "nID":  "151",
+        "sRequesters":  "Graham, Shane",
+        "sRequesterDepartment":  "Asset Management",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Prometheus Group",
+        "sProductName":  "Budgeting add on",
+        "dDateRequested":  "6/15/2017",
+        "sTechnologyHostingModel":  "",
+        "sApplicationHostingModel":  "On-Premises Hosted Application",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Capital Project Management/Budget :: Planning and Budgeting"
     }
 ]

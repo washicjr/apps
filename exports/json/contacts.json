@@ -260,8 +260,8 @@
     {
         "nID":  "86",
         "sRequesters":  "Tisdale, Matt",
-        "sRequesterDepartment":  "",
-        "sTitle":  ""
+        "sRequesterDepartment":  "Digital Security",
+        "sTitle":  "IT Services Professional"
     },
     {
         "nID":  "88",
@@ -584,7 +584,7 @@
     {
         "nID":  "230",
         "sRequesters":  "Pfau, Ken",
-        "sRequesterDepartment":  "New Ventures - Exploration",
+        "sRequesterDepartment":  "Integrated Geoscience",
         "sTitle":  "Geologist"
     },
     {
@@ -840,12 +840,6 @@
         "sTitle":  "Supervisor IT Services"
     },
     {
-        "nID":  "318",
-        "sRequesters":  "Wood, Grant",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
-        "sTitle":  "Sr Supervisor IT Services"
-    },
-    {
         "nID":  "319",
         "sRequesters":  "Marks, Tom",
         "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
@@ -904,12 +898,6 @@
         "sRequesters":  "Griffin, Chris",
         "sRequesterDepartment":  "Digital Security",
         "sTitle":  "IT Services Professional"
-    },
-    {
-        "nID":  "329",
-        "sRequesters":  "Wood, Grant (Term)",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
-        "sTitle":  "Sr Supervisor IT Services"
     },
     {
         "nID":  "330",
@@ -1050,6 +1038,12 @@
         "sTitle":  "Application Services Professional"
     },
     {
+        "nID":  "369",
+        "sRequesters":  "Pedersen, Finn",
+        "sRequesterDepartment":  "G\u0026G Data \u0026 App Solutions",
+        "sTitle":  "Sr Supervisor Application Services"
+    },
+    {
         "nID":  "370",
         "sRequesters":  "Coles, Todd",
         "sRequesterDepartment":  "GIS",
@@ -1126,12 +1120,6 @@
         "sRequesters":  "Biddy, Michael",
         "sRequesterDepartment":  "Desktop, ITAM, Mobility",
         "sTitle":  "IT Services Professional"
-    },
-    {
-        "nID":  "408",
-        "sRequesters":  "Grant Wood",
-        "sRequesterDepartment":  "",
-        "sTitle":  ""
     },
     {
         "nID":  "409",
@@ -1246,5 +1234,11 @@
         "sRequesters":  "Pace, Katie",
         "sRequesterDepartment":  "Strategic Geoscience",
         "sTitle":  "Geosciences Technologist"
+    },
+    {
+        "nID":  "444",
+        "sRequesters":  "Graham, Shane",
+        "sRequesterDepartment":  "Asset Management",
+        "sTitle":  "Sr Supervisor Production"
     }
 ]
