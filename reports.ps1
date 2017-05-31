@@ -302,3 +302,9 @@ exportDevonContacts
 exportRequests
 exportConsolidated
 exportUserMapping
+
+    write-host -foregroundcolor green ""
+    write-host -foregroundcolor green "%"
+    write-host -foregroundcolor green "% Script execution completed."
+    write-host -foregroundcolor green "%"
+    write-host -foregroundcolor green ""
