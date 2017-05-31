@@ -52,11 +52,11 @@ function retHighLevelCapability([string]$oldStr) {
 }
 
 function importData {
-    write-host ""
-    write-host "%"
-    write-host "% Refreshing Access Databases from ITAG Team Site Content"
-    write-host "%"
-    write-host ""
+    write-host -foregroundcolor cyan ""
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan "% Refreshing Access Databases from ITAG Team Site Content"
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan ""
 
     $accessApp = New-Object -com Access.Application
     $accessApp.OpenCurrentDatabase($dbPath)
@@ -67,11 +67,11 @@ function importData {
 }
 
 function exportDecisions {
-    write-host ""
-    write-host "%"
-    write-host "% Exporting ITAG Decisions Information to CSV and JSON"
-    write-host "%"
-    write-host ""
+    write-host -foregroundcolor cyan ""
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan "% Exporting ITAG Decisions Information to CSV and JSON"
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan ""
 
 
     $csv = $csvDir + "decisions.csv"
@@ -95,11 +95,11 @@ function exportDecisions {
 }
 
 function exportDevonContacts {
-    write-host ""
-    write-host "%"
-    write-host "% Exporting ITAG Sharepoint Site Contact Information to CSV and JSON"
-    write-host "%"
-    write-host ""
+    write-host -foregroundcolor cyan ""
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan "% Exporting ITAG Sharepoint Site Contact Information to CSV and JSON"
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan ""
 
     $csv = $csvDir + "contacts.csv"
     
@@ -119,11 +119,11 @@ function exportDevonContacts {
 }
 
 function exportRequests {
-    write-host ""
-    write-host "%"
-    write-host "% Exporting ITAG Submissions Information to CSV and JSON"
-    write-host "%"
-    write-host ""
+    write-host -foregroundcolor cyan ""
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan "% Exporting ITAG Submissions Information to CSV and JSON"
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan ""
 
     $csv = $csvDir + "requests.csv"
 
@@ -163,11 +163,11 @@ function exportRequests {
 }
 
 function exportConsolidated {
-    write-host ""
-    write-host "%"
-    write-host "% Merging Decisions and Submissions Information, then Exporting Information to CSV and JSON"
-    write-host "%"
-    write-host ""
+    write-host -foregroundcolor cyan ""
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan "% Merging Decisions and Submissions Information, then Exporting Information to CSV and JSON"
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan ""
 
     $csv = $csvDir + "consolidated.csv"
 
@@ -236,11 +236,11 @@ function exportConsolidated {
 }
 
 function exportUserMapping {
-    write-host ""
-    write-host "%"
-    write-host "% Merging User Information with Submissions, then Exporting Information to CSV and JSON"
-    write-host "%"
-    write-host ""
+    write-host -foregroundcolor cyan ""
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan "% Merging User Information with Submissions, then Exporting Information to CSV and JSON"
+    write-host -foregroundcolor cyan "%"
+    write-host -foregroundcolor cyan ""
 
     $csv = $csvDir + "userInfo.csv"
 
