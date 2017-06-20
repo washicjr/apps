@@ -144,6 +144,12 @@
         "sTitle":  "Architecture Professional"
     },
     {
+        "nID":  "42",
+        "sRequesters":  "Ruby, Steven",
+        "sRequesterDepartment":  "Compute Services \u0026 Automation",
+        "sTitle":  "IT Services Professional"
+    },
+    {
         "nID":  "46",
         "sRequesters":  "Harper, Matt",
         "sRequesterDepartment":  "IT Security \u0026 Risk Management",
@@ -278,7 +284,7 @@
     {
         "nID":  "95",
         "sRequesters":  "Nguyen, John",
-        "sRequesterDepartment":  "Desktop, ITAM, Mobility",
+        "sRequesterDepartment":  "Enterprise End User Solutions",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -618,6 +624,12 @@
         "sTitle":  "Application Services Professional"
     },
     {
+        "nID":  "244",
+        "sRequesters":  "Gross, Jonathon",
+        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sTitle":  "IT Services Professional"
+    },
+    {
         "nID":  "246",
         "sRequesters":  "McAuliff, Michelle",
         "sRequesterDepartment":  "IT Security \u0026 Risk Management",
@@ -830,7 +842,7 @@
     {
         "nID":  "316",
         "sRequesters":  "Miley, Thorin",
-        "sRequesterDepartment":  "Desktop, ITAM, Mobility",
+        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
         "sTitle":  "Sr Supervisor IT Services"
     },
     {
@@ -1023,7 +1035,7 @@
         "nID":  "362",
         "sRequesters":  "Satterfield, Heath",
         "sRequesterDepartment":  "E\u0026P Solutions",
-        "sTitle":  "Sr. Manager Continuous Improvement"
+        "sTitle":  "Sr Manager Continuous Improvement"
     },
     {
         "nID":  "365",
@@ -1118,7 +1130,7 @@
     {
         "nID":  "404",
         "sRequesters":  "Biddy, Michael",
-        "sRequesterDepartment":  "Desktop, ITAM, Mobility",
+        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -1246,5 +1258,11 @@
         "sRequesters":  "Nedrow, Matt",
         "sRequesterDepartment":  "Governance, Risk, Compliance",
         "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "459",
+        "sRequesters":  "Le, Vu",
+        "sRequesterDepartment":  "Marketing Solutions",
+        "sTitle":  "Application Services Professional"
     }
 ]
