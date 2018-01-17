@@ -50,7 +50,7 @@
     {
         "nID":  "16",
         "sRequesters":  "Taylor, Stephen",
-        "sRequesterDepartment":  "Architecture \u0026 Platform Engineering",
+        "sRequesterDepartment":  "Information Delivery",
         "sTitle":  "Manager Application Services"
     },
     {
@@ -76,6 +76,12 @@
         "sRequesters":  "Grimes, Lane",
         "sRequesterDepartment":  "Platform Support",
         "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "21",
+        "sRequesters":  "Leong, Christopher",
+        "sRequesterDepartment":  "CDN Production \u0026 Real Time Data",
+        "sTitle":  "Business Analysis Professional"
     },
     {
         "nID":  "22",
@@ -114,12 +120,6 @@
         "sTitle":  "Manager Data Management"
     },
     {
-        "nID":  "29",
-        "sRequesters":  "Williams, Ben",
-        "sRequesterDepartment":  "Information Technology",
-        "sTitle":  "VP \u0026 CIO"
-    },
-    {
         "nID":  "32",
         "sRequesters":  "Baker, Alana",
         "sRequesterDepartment":  "Platform Support",
@@ -128,7 +128,7 @@
     {
         "nID":  "36",
         "sRequesters":  "Judd, Steven",
-        "sRequesterDepartment":  "IT Operations",
+        "sRequesterDepartment":  "Advanced Analytics Solutions",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -194,7 +194,7 @@
     {
         "nID":  "62",
         "sRequesters":  "Solis, Luis",
-        "sRequesterDepartment":  "US BU Operations - Midl\u0026 Basin",
+        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
         "sTitle":  "Business Analysis Professional"
     },
     {
@@ -246,6 +246,12 @@
         "sTitle":  "Manager Business Analysis"
     },
     {
+        "nID":  "77",
+        "sRequesters":  "Patolia, Amit",
+        "sRequesterDepartment":  "Storage and Data Center Services",
+        "sTitle":  "IT Services Professional"
+    },
+    {
         "nID":  "78",
         "sRequesters":  "Hale, Lane",
         "sRequesterDepartment":  "IT Corporate Support",
@@ -278,19 +284,19 @@
     {
         "nID":  "91",
         "sRequesters":  "Isaac, Sunil",
-        "sRequesterDepartment":  "US BU Operations - Midl\u0026 Basin",
+        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
         "sTitle":  "Business Analysis Professional"
     },
     {
-        "nID":  "95",
-        "sRequesters":  "Nguyen, John",
-        "sRequesterDepartment":  "Enterprise End User Solutions",
-        "sTitle":  "IT Services Professional"
+        "nID":  "96",
+        "sRequesters":  "Davis, Troy",
+        "sRequesterDepartment":  "G\u0026G Data \u0026 App Solutions",
+        "sTitle":  "Application Services Professional"
     },
     {
         "nID":  "98",
         "sRequesters":  "Kerr, Bill",
-        "sRequesterDepartment":  "US BU Operations - Midl\u0026 Basin",
+        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
         "sTitle":  "Sr Supervisor Business Analysis"
     },
     {
@@ -306,12 +312,6 @@
         "sTitle":  "Manager Data Management"
     },
     {
-        "nID":  "104",
-        "sRequesters":  "Sears, Dave",
-        "sRequesterDepartment":  "Solution Support",
-        "sTitle":  "Talent Mgmt/Development Professional"
-    },
-    {
         "nID":  "105",
         "sRequesters":  "Fritsch, Andy",
         "sRequesterDepartment":  "Engineering Analytics \u0026 Data Management",
@@ -322,6 +322,12 @@
         "sRequesters":  "Whitley, Brad",
         "sRequesterDepartment":  "Infrastructure Services",
         "sTitle":  "Sr Manager IT Services"
+    },
+    {
+        "nID":  "112",
+        "sRequesters":  "Shiever, Mitch",
+        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sTitle":  "IT Services Professional"
     },
     {
         "nID":  "113",
@@ -350,8 +356,8 @@
     {
         "nID":  "120",
         "sRequesters":  "Cummins, Billy",
-        "sRequesterDepartment":  "Architecture \u0026 Platform Engineering",
-        "sTitle":  "Application Services Professional"
+        "sRequesterDepartment":  "Advanced Analytics Solutions",
+        "sTitle":  "Supervisor Application Services"
     },
     {
         "nID":  "121",
@@ -366,10 +372,22 @@
         "sTitle":  "Supervisor Accounts Payable"
     },
     {
+        "nID":  "127",
+        "sRequesters":  "Bennett, Melissa",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "IT Services Professional"
+    },
+    {
         "nID":  "132",
         "sRequesters":  "Graham, Nate",
         "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
         "sTitle":  "Sr Manager IT Services"
+    },
+    {
+        "nID":  "134",
+        "sRequesters":  "Williams, Caleb",
+        "sRequesterDepartment":  "Digital Security",
+        "sTitle":  "Business Analysis Professional"
     },
     {
         "nID":  "135",
@@ -400,6 +418,12 @@
         "sRequesters":  "Kaur, Mandeep (Contract)",
         "sRequesterDepartment":  "Platform Support",
         "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "150",
+        "sRequesters":  "Ray, Charles",
+        "sRequesterDepartment":  "Solution Design \u0026 Development",
+        "sTitle":  "Application Services Professional"
     },
     {
         "nID":  "152",
@@ -434,7 +458,7 @@
     {
         "nID":  "160",
         "sRequesters":  "Burney, Kenneth",
-        "sRequesterDepartment":  "Desktop, ITAM, Mobility",
+        "sRequesterDepartment":  "Database Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -486,6 +510,12 @@
         "sTitle":  "Business Analysis Professional"
     },
     {
+        "nID":  "175",
+        "sRequesters":  "White, Mike",
+        "sRequesterDepartment":  "Enterprise End User Solutions",
+        "sTitle":  "IT Services Professional"
+    },
+    {
         "nID":  "176",
         "sRequesters":  "Jensen, Gunner",
         "sRequesterDepartment":  "SAP PRA \u0026 HR Support",
@@ -498,6 +528,12 @@
         "sTitle":  "Revenue Accountant"
     },
     {
+        "nID":  "179",
+        "sRequesters":  "Thakur, Gharmanshu (Contract)",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "Contractor"
+    },
+    {
         "nID":  "180",
         "sRequesters":  "Mullins, Jeremy",
         "sRequesterDepartment":  "G\u0026G Application Solutions",
@@ -505,12 +541,6 @@
     },
     {
         "nID":  "181",
-        "sRequesters":  "Sikes, Tony",
-        "sRequesterDepartment":  "Compute Services \u0026 Automation",
-        "sTitle":  "Sr Supervisor IT Services"
-    },
-    {
-        "nID":  "182",
         "sRequesters":  "Sikes, Tony",
         "sRequesterDepartment":  "Compute Services \u0026 Automation",
         "sTitle":  "Sr Supervisor IT Services"
@@ -528,6 +558,12 @@
         "sTitle":  "Supervisor IT Services"
     },
     {
+        "nID":  "189",
+        "sRequesters":  "Sing, Sonia (Contract)",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "Contractor"
+    },
+    {
         "nID":  "197",
         "sRequesters":  "Marks, Tom",
         "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
@@ -536,8 +572,8 @@
     {
         "nID":  "198",
         "sRequesters":  "Anders, Becki",
-        "sRequesterDepartment":  "Governance, Risk, Compliance",
-        "sTitle":  "IT Services Professional"
+        "sRequesterDepartment":  "Shared Svcs",
+        "sTitle":  "Project Management Professional"
     },
     {
         "nID":  "200",
@@ -548,7 +584,7 @@
     {
         "nID":  "201",
         "sRequesters":  "Smith, Jeff",
-        "sRequesterDepartment":  "US BU Operations - Midl\u0026 Basin",
+        "sRequesterDepartment":  "SCADA \u0026 Field Data Capture Solutions",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -566,13 +602,13 @@
     {
         "nID":  "212",
         "sRequesters":  "Cummins, Billy",
-        "sRequesterDepartment":  "Architecture \u0026 Platform Engineering",
-        "sTitle":  "Application Services Professional"
+        "sRequesterDepartment":  "Advanced Analytics Solutions",
+        "sTitle":  "Supervisor Application Services"
     },
     {
         "nID":  "213",
         "sRequesters":  "Eaton, Cassondra",
-        "sRequesterDepartment":  "Desktop, ITAM, Mobility",
+        "sRequesterDepartment":  "IT Asset and Datacenter Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -591,7 +627,7 @@
         "nID":  "230",
         "sRequesters":  "Pfau, Ken",
         "sRequesterDepartment":  "Integrated Geoscience",
-        "sTitle":  "Geologist"
+        "sTitle":  "Sr Manager Geosciences"
     },
     {
         "nID":  "231",
@@ -631,7 +667,7 @@
     },
     {
         "nID":  "246",
-        "sRequesters":  "McAuliff, Michelle",
+        "sRequesters":  "Rentschler, Michelle",
         "sRequesterDepartment":  "IT Security \u0026 Risk Management",
         "sTitle":  "Corporate Admin Support"
     },
@@ -663,6 +699,12 @@
         "nID":  "257",
         "sRequesters":  "Menon, Avinash",
         "sRequesterDepartment":  "SAP PRA \u0026 HR Support",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "258",
+        "sRequesters":  "Hollingsworth, Matt",
+        "sRequesterDepartment":  "G\u0026G Data \u0026 App Solutions",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -710,7 +752,7 @@
     {
         "nID":  "268",
         "sRequesters":  "Cassel, Lauren",
-        "sRequesterDepartment":  "Integrated Geoscience",
+        "sRequesterDepartment":  "Reservoir",
         "sTitle":  "Geologist"
     },
     {
@@ -758,14 +800,8 @@
     {
         "nID":  "283",
         "sRequesters":  "Minor, Sharon",
-        "sRequesterDepartment":  "Integrated Geoscience",
+        "sRequesterDepartment":  "Exploration",
         "sTitle":  "Supervisor Geology"
-    },
-    {
-        "nID":  "285",
-        "sRequesters":  "Liu, Jiawen",
-        "sRequesterDepartment":  "Project \u0026 Portfolio Management",
-        "sTitle":  "Business Analysis Professional"
     },
     {
         "nID":  "286",
@@ -776,7 +812,7 @@
     {
         "nID":  "287",
         "sRequesters":  "Wilson, Steven",
-        "sRequesterDepartment":  "Solution Design",
+        "sRequesterDepartment":  "Advanced Analytics Solutions",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -788,7 +824,7 @@
     {
         "nID":  "289",
         "sRequesters":  "Fennel, Jon",
-        "sRequesterDepartment":  "Project Mgmt Office",
+        "sRequesterDepartment":  "Project \u0026 Portfolio Management",
         "sTitle":  "Project Management Professional"
     },
     {
@@ -796,6 +832,12 @@
         "sRequesters":  "Hughes, Kim",
         "sRequesterDepartment":  "Enterprise End User Solutions",
         "sTitle":  "Manager Business Analysis"
+    },
+    {
+        "nID":  "298",
+        "sRequesters":  "Leam, Amanda",
+        "sRequesterDepartment":  "Solution Design",
+        "sTitle":  "Supervisor Application Services"
     },
     {
         "nID":  "303",
@@ -808,6 +850,12 @@
         "sRequesters":  "Eichholz, Christy",
         "sRequesterDepartment":  "Procurement - Corporate",
         "sTitle":  "Supply Chain Professional"
+    },
+    {
+        "nID":  "307",
+        "sRequesters":  "Cory, Janice",
+        "sRequesterDepartment":  "Marketing Solutions",
+        "sTitle":  "Business Analysis Professional"
     },
     {
         "nID":  "308",
@@ -878,7 +926,7 @@
     {
         "nID":  "323",
         "sRequesters":  "Rich, Jamie",
-        "sRequesterDepartment":  "Geophysical Technology",
+        "sRequesterDepartment":  "Integrated Geoscience",
         "sTitle":  "Geophysicist"
     },
     {
@@ -936,12 +984,6 @@
         "sTitle":  "Environment Professional"
     },
     {
-        "nID":  "335",
-        "sRequesters":  "Judd, Ginger",
-        "sRequesterDepartment":  "Project Mgmt Office",
-        "sTitle":  "Project Management Professional"
-    },
-    {
         "nID":  "336",
         "sRequesters":  "Baker, Roy",
         "sRequesterDepartment":  "Domestic Tax",
@@ -980,14 +1022,14 @@
     {
         "nID":  "344",
         "sRequesters":  "Smith, Steve",
-        "sRequesterDepartment":  "Geophysical Technology",
+        "sRequesterDepartment":  "Integrated Geoscience",
         "sTitle":  "Geophysicist"
     },
     {
         "nID":  "345",
         "sRequesters":  "Langton, David",
         "sRequesterDepartment":  "Geophysical Technology",
-        "sTitle":  "Supervisor Geophysics"
+        "sTitle":  "Geophysicist"
     },
     {
         "nID":  "346",
@@ -1014,16 +1056,34 @@
         "sTitle":  "Sr Supervisor IT Services"
     },
     {
+        "nID":  "355",
+        "sRequesters":  "Roark, Aaron",
+        "sRequesterDepartment":  "Accounting - Accounts Payable",
+        "sTitle":  "Manager Accounts Payable"
+    },
+    {
+        "nID":  "356",
+        "sRequesters":  "Ervin, Harriet",
+        "sRequesterDepartment":  "Supply Chain \u0026 EHS Solutions",
+        "sTitle":  "Business Analysis Professional"
+    },
+    {
         "nID":  "357",
         "sRequesters":  "Beahan, Brad",
         "sRequesterDepartment":  "G\u0026G Application Solutions",
-        "sTitle":  "IT Services Professional"
+        "sTitle":  "Application Services Professional"
     },
     {
         "nID":  "359",
         "sRequesters":  "Shelden, Lisa",
         "sRequesterDepartment":  "Solution Support",
         "sTitle":  "Supervisor Application Services"
+    },
+    {
+        "nID":  "360",
+        "sRequesters":  "Baskind, Darryl",
+        "sRequesterDepartment":  "G\u0026G Application Solutions",
+        "sTitle":  "Application Services Professional"
     },
     {
         "nID":  "361",
@@ -1034,20 +1094,14 @@
     {
         "nID":  "362",
         "sRequesters":  "Satterfield, Heath",
-        "sRequesterDepartment":  "E\u0026P Solutions",
-        "sTitle":  "Sr Manager Continuous Improvement"
+        "sRequesterDepartment":  "Supply Chain",
+        "sTitle":  "Sr Manager Supply Chain"
     },
     {
         "nID":  "365",
         "sRequesters":  "Hirsch, Karen",
         "sRequesterDepartment":  "CDN Production \u0026 Real Time Data",
         "sTitle":  "Business Analysis Professional"
-    },
-    {
-        "nID":  "368",
-        "sRequesters":  "Storm, Todd",
-        "sRequesterDepartment":  "CDN Production \u0026 Real Time Data",
-        "sTitle":  "Application Services Professional"
     },
     {
         "nID":  "369",
@@ -1068,6 +1122,12 @@
         "sTitle":  "Manager Data Management"
     },
     {
+        "nID":  "372",
+        "sRequesters":  "Boyle, Danny",
+        "sRequesterDepartment":  "SCADA \u0026 Field Data Capture Solutions",
+        "sTitle":  "Application Services Professional"
+    },
+    {
         "nID":  "374",
         "sRequesters":  "Nguyen, Nathan",
         "sRequesterDepartment":  "Governance, Risk, Compliance",
@@ -1076,7 +1136,7 @@
     {
         "nID":  "379",
         "sRequesters":  "Bruffett, Paul",
-        "sRequesterDepartment":  "Architecture \u0026 Platform Engineering",
+        "sRequesterDepartment":  "Advanced Analytics Solutions",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -1104,12 +1164,6 @@
         "sTitle":  "Application Services Professional"
     },
     {
-        "nID":  "391",
-        "sRequesters":  "Washington, Clarence",
-        "sRequesterDepartment":  "IT Security \u0026 Risk Management",
-        "sTitle":  "Architecture Professional"
-    },
-    {
         "nID":  "392",
         "sRequesters":  "Bowers, Michael",
         "sRequesterDepartment":  "IT Operations",
@@ -1122,15 +1176,33 @@
         "sTitle":  "Application Services Professional"
     },
     {
+        "nID":  "394",
+        "sRequesters":  "Dovedan, Nick",
+        "sRequesterDepartment":  "Shared Svcs",
+        "sTitle":  "Project Management Professional"
+    },
+    {
         "nID":  "395",
         "sRequesters":  "Harmon, Mark",
         "sRequesterDepartment":  "Reservoir",
         "sTitle":  "Manager Reservoir Engineering"
     },
     {
+        "nID":  "403",
+        "sRequesters":  "Goree, Mark",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "Application Services Professional"
+    },
+    {
         "nID":  "404",
         "sRequesters":  "Biddy, Michael",
         "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "405",
+        "sRequesters":  "Eaton, Cassondra",
+        "sRequesterDepartment":  "IT Asset and Datacenter Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -1142,7 +1214,7 @@
     {
         "nID":  "410",
         "sRequesters":  "Williams, Kij",
-        "sRequesterDepartment":  "Desktop, ITAM, Mobility",
+        "sRequesterDepartment":  "Database Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -1154,7 +1226,7 @@
     {
         "nID":  "412",
         "sRequesters":  "Williams, Kij",
-        "sRequesterDepartment":  "Desktop, ITAM, Mobility",
+        "sRequesterDepartment":  "Database Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -1195,9 +1267,9 @@
     },
     {
         "nID":  "422",
-        "sRequesters":  "O\u0027Brien, Joshua (Contract)",
+        "sRequesters":  "OBrien, Josh",
         "sRequesterDepartment":  "Integrated Geoscience",
-        "sTitle":  "Contractor"
+        "sTitle":  "Geologist"
     },
     {
         "nID":  "425",
@@ -1215,13 +1287,7 @@
         "nID":  "427",
         "sRequesters":  "O\u0027Brien, Joshua (Contract)",
         "sRequesterDepartment":  "Integrated Geoscience",
-        "sTitle":  "Contractor"
-    },
-    {
-        "nID":  "430",
-        "sRequesters":  "Nicolotti, Daniel",
-        "sRequesterDepartment":  "Finance \u0026 Accounting and Corp Reporting",
-        "sTitle":  "Manager Business Analysis"
+        "sTitle":  "Geologist"
     },
     {
         "nID":  "432",
@@ -1238,13 +1304,13 @@
     {
         "nID":  "440",
         "sRequesters":  "Bowie, Chris",
-        "sRequesterDepartment":  "Integrated Geoscience",
+        "sRequesterDepartment":  "Reservoir Characterization",
         "sTitle":  "Geologist"
     },
     {
         "nID":  "441",
         "sRequesters":  "Pace, Katie",
-        "sRequesterDepartment":  "Strategic Geoscience",
+        "sRequesterDepartment":  "Integrated Geoscience",
         "sTitle":  "Geosciences Technologist"
     },
     {
@@ -1264,5 +1330,245 @@
         "sRequesters":  "Le, Vu",
         "sRequesterDepartment":  "Marketing Solutions",
         "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "464",
+        "sRequesters":  "Jemeyson, Paul",
+        "sRequesterDepartment":  "Enterprise End User Solutions",
+        "sTitle":  "Customer Support Supervisor"
+    },
+    {
+        "nID":  "465",
+        "sRequesters":  "Eason, Russ",
+        "sRequesterDepartment":  "Enterprise End User Solutions",
+        "sTitle":  "Customer Support Professional"
+    },
+    {
+        "nID":  "467",
+        "sRequesters":  "Bales, Allison",
+        "sRequesterDepartment":  "Project Mgmt Office",
+        "sTitle":  "Project Management Professional"
+    },
+    {
+        "nID":  "468",
+        "sRequesters":  "Jeffery, Tara",
+        "sRequesterDepartment":  "EHS - Risk Management",
+        "sTitle":  "EHS Professional"
+    },
+    {
+        "nID":  "473",
+        "sRequesters":  "Busby, Christopher",
+        "sRequesterDepartment":  "Solution Support",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "481",
+        "sRequesters":  "Herrmann, Travis",
+        "sRequesterDepartment":  "Digital Security",
+        "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "485",
+        "sRequesters":  "White, Jonathan",
+        "sRequesterDepartment":  "SCADA \u0026 Field Data Capture Solutions",
+        "sTitle":  "Supervisor Application Services"
+    },
+    {
+        "nID":  "486",
+        "sRequesters":  "Dhounsi, Mandeep",
+        "sRequesterDepartment":  "Solution Design",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "487",
+        "sRequesters":  "Winkleman, James",
+        "sRequesterDepartment":  "Accounting - Accounts Payable",
+        "sTitle":  "Sr Supervisor Accounts Payable"
+    },
+    {
+        "nID":  "490",
+        "sRequesters":  "Irving, Melissa",
+        "sRequesterDepartment":  "Corp Reporting \u0026 Analytics Operations",
+        "sTitle":  "Business Analysis Professional"
+    },
+    {
+        "nID":  "494",
+        "sRequesters":  "Jones, Alina (Contract)",
+        "sRequesterDepartment":  "Solution Support",
+        "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "499",
+        "sRequesters":  "SharePoint Administrator Service Account",
+        "sRequesterDepartment":  "",
+        "sTitle":  ""
+    },
+    {
+        "nID":  "520",
+        "sRequesters":  "Ely, Darrell",
+        "sRequesterDepartment":  "IT Asset and Datacenter Services",
+        "sTitle":  "Supervisor IT Services"
+    },
+    {
+        "nID":  "521",
+        "sRequesters":  "Batley, Nick",
+        "sRequesterDepartment":  "Advanced Analytics Solutions",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "525",
+        "sRequesters":  "Skarda, Scott",
+        "sRequesterDepartment":  "Domestic Tax Mgmt",
+        "sTitle":  "Director Tax"
+    },
+    {
+        "nID":  "534",
+        "sRequesters":  "Kannan, Ashok",
+        "sRequesterDepartment":  "Internal Audit",
+        "sTitle":  "IT Audit Professional"
+    },
+    {
+        "nID":  "541",
+        "sRequesters":  "Patolia, Amit",
+        "sRequesterDepartment":  "Storage and Data Center Services",
+        "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "546",
+        "sRequesters":  "Vreeland, Mark",
+        "sRequesterDepartment":  "Field Network",
+        "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "547",
+        "sRequesters":  "Hand, Richard",
+        "sRequesterDepartment":  "Integrated Geoscience",
+        "sTitle":  "Manager Petrophysics"
+    },
+    {
+        "nID":  "562",
+        "sRequesters":  "Morrison, Don",
+        "sRequesterDepartment":  "Automation",
+        "sTitle":  "Electrical Engineer"
+    },
+    {
+        "nID":  "563",
+        "sRequesters":  "Adler, Michael",
+        "sRequesterDepartment":  "SCADA \u0026 Field Data Capture Solutions",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "569",
+        "sRequesters":  "Kahn, Dan",
+        "sRequesterDepartment":  "Reservoir",
+        "sTitle":  "Geophysicist"
+    },
+    {
+        "nID":  "582",
+        "sRequesters":  "Beahan, Brad",
+        "sRequesterDepartment":  "G\u0026G Application Solutions",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "583",
+        "sRequesters":  "Joyce, Brian",
+        "sRequesterDepartment":  "Corp Reporting \u0026 Analytics Operations",
+        "sTitle":  "Supervisor Business Analysis"
+    },
+    {
+        "nID":  "590",
+        "sRequesters":  "Morgan, Josh",
+        "sRequesterDepartment":  "G\u0026G Application Solutions",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "591",
+        "sRequesters":  "Ferree, Noah",
+        "sRequesterDepartment":  "Well Construction Decision Support Ctr",
+        "sTitle":  "Supervisor WellCon Geology"
+    },
+    {
+        "nID":  "601",
+        "sRequesters":  "Marley, Lee Ann (Contract)",
+        "sRequesterDepartment":  "IT Asset and Datacenter Services",
+        "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "603",
+        "sRequesters":  "Starnes, Tiffany",
+        "sRequesterDepartment":  "Acctg - Financial Reporting/Compliance",
+        "sTitle":  "Financial Accountant"
+    },
+    {
+        "nID":  "604",
+        "sRequesters":  "Walker, Gerald",
+        "sRequesterDepartment":  "Operations Engineering",
+        "sTitle":  "Constr/Facilities Engineer"
+    },
+    {
+        "nID":  "608",
+        "sRequesters":  "Krislock, Heather",
+        "sRequesterDepartment":  "Operations Engineering",
+        "sTitle":  "Manager Production Engineering"
+    },
+    {
+        "nID":  "609",
+        "sRequesters":  "Munoz-Guzman, Sophia",
+        "sRequesterDepartment":  "CDN Production \u0026 Real Time Data",
+        "sTitle":  "Sr Supervisor Business Analysis"
+    },
+    {
+        "nID":  "613",
+        "sRequesters":  "Schwager, Bob",
+        "sRequesterDepartment":  "Reservoir",
+        "sTitle":  "Reservoir Engineer"
+    },
+    {
+        "nID":  "614",
+        "sRequesters":  "Conner, Tyler",
+        "sRequesterDepartment":  "Reservoir Characterization",
+        "sTitle":  "Reservoir Engineer"
+    },
+    {
+        "nID":  "615",
+        "sRequesters":  "Kondapalli, Ram (Contract)",
+        "sRequesterDepartment":  "Advanced Analytics Solutions",
+        "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "624",
+        "sRequesters":  "Allen, Dan",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "Application Services Professional"
+    },
+    {
+        "nID":  "626",
+        "sRequesters":  "Wenzel, Taylor",
+        "sRequesterDepartment":  "Acctg - Financial Reporting/Compliance",
+        "sTitle":  "Financial Accountant"
+    },
+    {
+        "nID":  "627",
+        "sRequesters":  "Sharma, Ganesh (Contract)",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "630",
+        "sRequesters":  "Radu, Andrei (Contract)",
+        "sRequesterDepartment":  "Enterprise End User Solutions",
+        "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "632",
+        "sRequesters":  "Chondropoulos, Nick",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "638",
+        "sRequesters":  "Klundt, Gordon",
+        "sRequesterDepartment":  "Automation",
+        "sTitle":  "Automation Technologist"
     }
 ]

@@ -166,11 +166,11 @@ function exportConsolidated {
     $oRsDec.Open($qryString, $oDecDbConn,$adOpenStatic,$adLockOptimistic)
     $oRsDec.MoveFirst()
 
-    $csvContent = [char]34 + "nSubmissionID" + [char]34 + "," + [char]34 + "sItagID" + [char]34 + "," + [char]34 + "dDateReviewed" + [char]34 + "," + [char]34 + "sItagGovernanceType" + [char]34 + "," + [char]34 + "sDecision" + [char]34 + "," + [char]34 + "bConstraints" + [char]34 + "," + [char]34 + "bActionItems" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sTechnologyHostingModel" + [char]34 + "," + [char]34 + "sApplicationHostingModel" + [char]34 + "," + [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "sPurposeForEngagement" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sITCapability" + [char]34 + "," + [char]34 + "sBusinessCapability" + [char]34 + "," + [char]34 + "bCurrentLicenses" + [char]34 + "," + [char]34 + "sNumberOfUsers" + [char]34 + "," + [char]34 + "bIntegrationRequired" + [char]34 + "," + [char]34 + "sIntegrationMethod" + [char]34 + "," + [char]34 + "bExternalDataSources" + [char]34 + "," + [char]34 + "sDataObjectsInvolvedInIntegration" + [char]34 + "," + [char]34 + "sSourceSystem" + [char]34 + "," + [char]34 + "sTargetSystem" + [char]34 + "," + [char]34 + "sProductNameWithManufacture" + [char]34 + "," + [char]34 + "bOpenSource" + [char]34 + "," + [char]34 + "nEstGaCost" + [char]34 + "," + [char]34 + "nEstCapitalCost" + [char]34 + "," + [char]34 + "sITClass" + [char]34 + $crlf
+    $csvContent = [char]34 + "nSubmissionID" + [char]34 + "," + [char]34 + "sItagID" + [char]34 +  "," + [char]34 + "dDateReviewed" + [char]34 + "," + [char]34 + "sItagGovernanceType" + [char]34 + "," + [char]34 + "sDecision" + [char]34 + "," + [char]34 + "bConstraints" + [char]34 + "," + [char]34 + "bActionItems" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sTechnologyHostingModel" + [char]34 + "," + [char]34 + "sApplicationHostingModel" + [char]34 + "," + [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "sPurposeForEngagement" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sITCapability" + [char]34 + "," + [char]34 + "sBusinessCapability" + [char]34 + "," + [char]34 + "bCurrentLicenses" + [char]34 + "," + [char]34 + "sNumberOfUsers" + [char]34 + "," + [char]34 + "bIntegrationRequired" + [char]34 + "," + [char]34 + "sIntegrationMethod" + [char]34 + "," + [char]34 + "bExternalDataSources" + [char]34 + "," + [char]34 + "sDataObjectsInvolvedInIntegration" + [char]34 + "," + [char]34 + "sSourceSystem" + [char]34 + "," + [char]34 + "sTargetSystem" + [char]34 + "," + [char]34 + "sProductNameWithManufacture" + [char]34 + "," + [char]34 + "bOpenSource" + [char]34 + "," + [char]34 + "nEstGaCost" + [char]34 + "," + [char]34 + "nEstCapitalCost" + [char]34 + "," + [char]34 + "sITClass" + [char]34 + "," + [char]34 + "sITSponsor" + [char]34 + $crlf
 
     do{
         $nSubmissionID = $oRsDec.Fields.Item("Submission ID").Value ;
-		$sItagID = $oRsDec.Fields.Item("ITAG ID").Value ;
+        $sItagID = $oRsDec.Fields.Item("ITAG ID").Value ;
 		$dDateReviewed = retConvertDate($oRsDec.Fields.Item("Date Reviewed").Value) ;
 		$sItagGovernanceType = $oRsDec.Fields.Item("ITAG Governance Type").Value ;
 		$sDecision = $oRsDec.Fields.Item("Decision").Value ;
@@ -210,8 +210,22 @@ function exportConsolidated {
             $bOpenSource = $oRsReq.Fields.Item("Is This Product Open Source?").Value ;
             $nEstGaCost = $oRsReq.Fields.Item("Estimated G&A Cost").Value ;
             $nEstCapitalCost = $oRsReq.Fields.Item("Estimated Capital Cost").Value ;
+            $nITSponsor = $oRsReq.Fields.Item("IT Sponsor").Value ;
+            $sITSponsor = "Not Found"
 
-            $csvContent = $csvContent + [char]34 + $nSubmissionID + [char]34 + "," + [char]34 + $sItagID + [char]34 + "," + [char]34 + $dDateReviewed + [char]34 + "," + [char]34 + $sItagGovernanceType + [char]34 + "," + [char]34 + $sDecision + [char]34 + "," + [char]34 + $bConstraints + [char]34 + "," + [char]34 + $bActionItems + [char]34 + "," + [char]34 + $sContentType + [char]34 + "," + [char]34 + $sProductManufacturer + [char]34 + "," + [char]34 + $sProductName + [char]34 + "," + [char]34 + $dDateRequested + [char]34 + "," + [char]34 + $sTechnologyHostingModel + [char]34 + "," + [char]34 + $sApplicationHostingModel + [char]34 + "," + [char]34 + $sDeploymentType + [char]34 + "," + [char]34 + $sPurposeForEngagement + [char]34 + "," + [char]34 + $bNewITCapability + [char]34 + "," + [char]34 + $sITCapability + [char]34 + "," + [char]34 + $sBusinessCapability + [char]34 + "," + [char]34 + $bCurrentLicenses + [char]34 + "," + [char]34 + $sNumberOfUsers + [char]34 + "," + [char]34 + $bIntegrationRequired + [char]34 + "," + [char]34 + $sIntegrationMethod + [char]34 + "," + [char]34 + $bExternalDataSources + [char]34 + "," + [char]34 + $sDataObjectsInvolvedInIntegration + [char]34 + "," + [char]34 + $sSourceSystem + [char]34 + "," + [char]34 + $sTargetSystem + [char]34 + "," + [char]34 + $sProductNameWithManufacture + [char]34 + "," + [char]34 + $bOpenSource + [char]34 + "," + [char]34 + $nEstGaCost + [char]34 + "," + [char]34 + $nEstCapitalCost + [char]34 + "," + [char]34 + $sITClass + [char]34 + $crlf
+            if ($nITSponsor -ne ""){
+                    $qryString = "Select * from [UserInfo] Where ID = " + $nITSponsor
+                    $oUserDbConn = New-Object -comobject ADODB.Connection
+                    $oUserDbConn.Open("Provider=Microsoft.ACE.OLEDB.12.0; Data Source=" + $dbPath)
+                    $oRsUser = New-Object -comobject ADODB.Recordset
+                    $oRsUser.Open($qryString, $oUserDbConn,$adOpenStatic,$adLockOptimistic)
+                    If ($oRsUser.EOF -ne $True){
+                        $sITSponsor = $oRsUser.Fields.Item("Name").Value ;
+                    }
+                    $oRsUser.Close()
+                }
+    
+            $csvContent = $csvContent + [char]34 + $nSubmissionID + [char]34 + "," + [char]34 + $sItagID + [char]34 + ","  +  [char]34 + $dDateReviewed + [char]34 + "," + [char]34 + $sItagGovernanceType + [char]34 + "," + [char]34 + $sDecision + [char]34 + "," + [char]34 + $bConstraints + [char]34 + "," + [char]34 + $bActionItems + [char]34 + "," + [char]34 + $sContentType + [char]34 + "," + [char]34 + $sProductManufacturer + [char]34 + "," + [char]34 + $sProductName + [char]34 + "," + [char]34 + $dDateRequested + [char]34 + "," + [char]34 + $sTechnologyHostingModel + [char]34 + "," + [char]34 + $sApplicationHostingModel + [char]34 + "," + [char]34 + $sDeploymentType + [char]34 + "," + [char]34 + $sPurposeForEngagement + [char]34 + "," + [char]34 + $bNewITCapability + [char]34 + "," + [char]34 + $sITCapability + [char]34 + "," + [char]34 + $sBusinessCapability + [char]34 + "," + [char]34 + $bCurrentLicenses + [char]34 + "," + [char]34 + $sNumberOfUsers + [char]34 + "," + [char]34 + $bIntegrationRequired + [char]34 + "," + [char]34 + $sIntegrationMethod + [char]34 + "," + [char]34 + $bExternalDataSources + [char]34 + "," + [char]34 + $sDataObjectsInvolvedInIntegration + [char]34 + "," + [char]34 + $sSourceSystem + [char]34 + "," + [char]34 + $sTargetSystem + [char]34 + "," + [char]34 + $sProductNameWithManufacture + [char]34 + "," + [char]34 + $bOpenSource + [char]34 + "," + [char]34 + $nEstGaCost + [char]34 + "," + [char]34 + $nEstCapitalCost + [char]34 + "," + [char]34 + $sITClass + [char]34 + "," +  [char]34 + $sITSponsor + [char]34 + $crlf
 
             $oRsReq.Close()
             $oReqDbConn.Close()
@@ -280,7 +294,7 @@ function exportUserMapping {
 #%%%%%%%%%%%%%%%%%%%%%%%%%%  Script Execution %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-importData
+#importData
 exportDecisions
 exportDevonContacts
 exportRequests
