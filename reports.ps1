@@ -294,7 +294,7 @@ function exportUserMapping {
 #%%%%%%%%%%%%%%%%%%%%%%%%%%  Script Execution %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-#importData
+importData
 exportDecisions
 exportDevonContacts
 exportRequests
