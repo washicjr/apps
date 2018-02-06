@@ -1,5 +1,149 @@
 [
     {
+        "nSubmissionID":  "259",
+        "sItagID":  "TGB008.2018",
+        "dDateReviewed":  "2/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "249",
+        "sItagID":  "TGB009.2018",
+        "dDateReviewed":  "2/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "247",
+        "sItagID":  "TGB009.2018",
+        "dDateReviewed":  "2/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "245",
+        "sItagID":  "TGB009.2018",
+        "dDateReviewed":  "2/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "244",
+        "sItagID":  "TGB009.2018",
+        "dDateReviewed":  "2/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "243",
+        "sItagID":  "TGB009.2018",
+        "dDateReviewed":  "2/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "242",
+        "sItagID":  "TGB009.2018",
+        "dDateReviewed":  "2/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "250",
+        "sItagID":  "AIGB005.2018",
+        "dDateReviewed":  "1/25/2018",
+        "sItagGovernanceType":  "Application",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "240",
+        "sItagID":  "TGB005.2018",
+        "dDateReviewed":  "1/25/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "239",
+        "sItagID":  "TGB006.2018",
+        "dDateReviewed":  "1/25/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "238",
+        "sItagID":  "TGB007.2018",
+        "dDateReviewed":  "1/25/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "236",
+        "sItagID":  "AIGB006.2018",
+        "dDateReviewed":  "1/25/2018",
+        "sItagGovernanceType":  "Integration",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "True"
+    },
+    {
+        "nSubmissionID":  "227",
+        "sItagID":  "TGB001.2018",
+        "dDateReviewed":  "1/18/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "228",
+        "sItagID":  "TGB002.2018",
+        "dDateReviewed":  "1/18/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "229",
+        "sItagID":  "TGB003.2018",
+        "dDateReviewed":  "1/18/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "True"
+    },
+    {
+        "nSubmissionID":  "253",
+        "sItagID":  "TGB004.2018",
+        "dDateReviewed":  "1/18/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "True",
+        "bActionItems":  "False"
+    },
+    {
         "nSubmissionID":  "235",
         "sItagID":  "AIGB001.2018",
         "dDateReviewed":  "1/11/2018",

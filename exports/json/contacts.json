@@ -51,7 +51,7 @@
         "nID":  "16",
         "sRequesters":  "Taylor, Stephen",
         "sRequesterDepartment":  "Information Delivery",
-        "sTitle":  "Manager Application Services"
+        "sTitle":  "Sr Manager Application Services"
     },
     {
         "nID":  "17",
@@ -170,7 +170,7 @@
     {
         "nID":  "58",
         "sRequesters":  "Dawkins, Ryan",
-        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sRequesterDepartment":  "Software Development",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -566,7 +566,7 @@
     {
         "nID":  "197",
         "sRequesters":  "Marks, Tom",
-        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sRequesterDepartment":  "Software Development",
         "sTitle":  "Supervisor Application Services"
     },
     {
@@ -770,13 +770,13 @@
     {
         "nID":  "272",
         "sRequesters":  "Frels, Travis",
-        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sRequesterDepartment":  "Software Development",
         "sTitle":  "Application Services Professional"
     },
     {
         "nID":  "273",
         "sRequesters":  "Martin, Phillip",
-        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sRequesterDepartment":  "Software Development",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -902,7 +902,7 @@
     {
         "nID":  "319",
         "sRequesters":  "Marks, Tom",
-        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sRequesterDepartment":  "Software Development",
         "sTitle":  "Supervisor Application Services"
     },
     {
@@ -938,7 +938,7 @@
     {
         "nID":  "325",
         "sRequesters":  "Laferriere, Michel",
-        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sRequesterDepartment":  "Software Development",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -1172,7 +1172,7 @@
     {
         "nID":  "393",
         "sRequesters":  "Laferriere, Michel",
-        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sRequesterDepartment":  "Software Development",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -1230,6 +1230,12 @@
         "sTitle":  "IT Services Professional"
     },
     {
+        "nID":  "413",
+        "sRequesters":  "Gober, Josh",
+        "sRequesterDepartment":  "Accounting - Accounts Payable",
+        "sTitle":  "AP Accountant"
+    },
+    {
         "nID":  "415",
         "sRequesters":  "Thomas, Clark",
         "sRequesterDepartment":  "G\u0026G Application Solutions",
@@ -1267,7 +1273,7 @@
     },
     {
         "nID":  "422",
-        "sRequesters":  "OBrien, Josh",
+        "sRequesters":  "O\u0027Brien, Josh",
         "sRequesterDepartment":  "Integrated Geoscience",
         "sTitle":  "Geologist"
     },
@@ -1292,7 +1298,7 @@
     {
         "nID":  "432",
         "sRequesters":  "Lanphear, Nicole",
-        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
+        "sRequesterDepartment":  "Software Development",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -1544,8 +1550,8 @@
     {
         "nID":  "626",
         "sRequesters":  "Wenzel, Taylor",
-        "sRequesterDepartment":  "Acctg - Financial Reporting/Compliance",
-        "sTitle":  "Financial Accountant"
+        "sRequesterDepartment":  "Accounting - Revenue",
+        "sTitle":  "Revenue Accountant"
     },
     {
         "nID":  "627",
@@ -1570,5 +1576,29 @@
         "sRequesters":  "Klundt, Gordon",
         "sRequesterDepartment":  "Automation",
         "sTitle":  "Automation Technologist"
+    },
+    {
+        "nID":  "639",
+        "sRequesters":  "Polhemus, Mike",
+        "sRequesterDepartment":  "SAP PRA \u0026 HR Support",
+        "sTitle":  "Business Analysis Professional"
+    },
+    {
+        "nID":  "642",
+        "sRequesters":  "Rostochil, Shari",
+        "sRequesterDepartment":  "Project \u0026 Portfolio Management",
+        "sTitle":  "Project Management Professional"
+    },
+    {
+        "nID":  "643",
+        "sRequesters":  "McMahan, Jason",
+        "sRequesterDepartment":  "Compute Services \u0026 Automation",
+        "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "647",
+        "sRequesters":  "Drain, Josh",
+        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sTitle":  "IT Services Professional"
     }
 ]
