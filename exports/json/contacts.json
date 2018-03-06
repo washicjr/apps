@@ -294,6 +294,12 @@
         "sTitle":  "Application Services Professional"
     },
     {
+        "nID":  "97",
+        "sRequesters":  "Engelbrecht, Sean",
+        "sRequesterDepartment":  "Digital Security",
+        "sTitle":  "IT Services Professional"
+    },
+    {
         "nID":  "98",
         "sRequesters":  "Kerr, Bill",
         "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
@@ -326,7 +332,7 @@
     {
         "nID":  "112",
         "sRequesters":  "Shiever, Mitch",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sRequesterDepartment":  "Network Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -620,7 +626,7 @@
     {
         "nID":  "226",
         "sRequesters":  "Khanagov, William",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sRequesterDepartment":  "Network Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -645,7 +651,7 @@
         "nID":  "233",
         "sRequesters":  "Gilmore, Jamie",
         "sRequesterDepartment":  "Procurement - Corporate",
-        "sTitle":  "Ops Procurement Professional"
+        "sTitle":  "Supply Chain Professional"
     },
     {
         "nID":  "234",
@@ -662,7 +668,7 @@
     {
         "nID":  "244",
         "sRequesters":  "Gross, Jonathon",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sRequesterDepartment":  "Network Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -866,7 +872,7 @@
     {
         "nID":  "310",
         "sRequesters":  "Khounsavath, Michael",
-        "sRequesterDepartment":  "Database Services",
+        "sRequesterDepartment":  "Well Engineering and Enterprise Planning",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -890,7 +896,7 @@
     {
         "nID":  "316",
         "sRequesters":  "Miley, Thorin",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sRequesterDepartment":  "Network Services",
         "sTitle":  "Sr Supervisor IT Services"
     },
     {
@@ -1196,7 +1202,7 @@
     {
         "nID":  "404",
         "sRequesters":  "Biddy, Michael",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sRequesterDepartment":  "Enterprise End User Solutions",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -1208,7 +1214,7 @@
     {
         "nID":  "409",
         "sRequesters":  "Buchholz, Mike",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sRequesterDepartment":  "Network Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -1220,7 +1226,7 @@
     {
         "nID":  "411",
         "sRequesters":  "Buchholz, Mike",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sRequesterDepartment":  "Network Services",
         "sTitle":  "IT Services Professional"
     },
     {
@@ -1368,6 +1374,12 @@
         "sTitle":  "Application Services Professional"
     },
     {
+        "nID":  "476",
+        "sRequesters":  "Howell, Rick",
+        "sRequesterDepartment":  "Automation",
+        "sTitle":  "Manager Automation"
+    },
+    {
         "nID":  "481",
         "sRequesters":  "Herrmann, Travis",
         "sRequesterDepartment":  "Digital Security",
@@ -1491,7 +1503,7 @@
         "nID":  "591",
         "sRequesters":  "Ferree, Noah",
         "sRequesterDepartment":  "Well Construction Decision Support Ctr",
-        "sTitle":  "Supervisor WellCon Geology"
+        "sTitle":  "WellCon Geologist"
     },
     {
         "nID":  "601",
@@ -1598,7 +1610,31 @@
     {
         "nID":  "647",
         "sRequesters":  "Drain, Josh",
-        "sRequesterDepartment":  "Digital Security, Network \u0026 Controls",
+        "sRequesterDepartment":  "Network Services",
         "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "654",
+        "sRequesters":  "Thakur, Gharmanshu (Contract)",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "656",
+        "sRequesters":  "Sutterfield, Jason",
+        "sRequesterDepartment":  "Network Services",
+        "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "663",
+        "sRequesters":  "Reddy, Tirumal",
+        "sRequesterDepartment":  "Platform Support",
+        "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "668",
+        "sRequesters":  "Beeson, Jesse",
+        "sRequesterDepartment":  "Database Services",
+        "sTitle":  "Application Services Professional"
     }
 ]
