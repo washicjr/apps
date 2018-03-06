@@ -1,5 +1,95 @@
 [
     {
+        "nSubmissionID":  "265",
+        "sItagID":  "TGB011.2018",
+        "dDateReviewed":  "3/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "264",
+        "sItagID":  "TGB012.2018",
+        "dDateReviewed":  "3/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "262",
+        "sItagID":  "TGB013.2018",
+        "dDateReviewed":  "3/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "257",
+        "sItagID":  "TGB014.2018",
+        "dDateReviewed":  "3/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "256",
+        "sItagID":  "TGB015.2018",
+        "dDateReviewed":  "3/1/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Pending (Upon Completion of Action Items)",
+        "bConstraints":  "False",
+        "bActionItems":  "True"
+    },
+    {
+        "nSubmissionID":  "260",
+        "sItagID":  "TGB010.2018",
+        "dDateReviewed":  "2/22/2018",
+        "sItagGovernanceType":  "Technology",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "263",
+        "sItagID":  "AIGB009.2018",
+        "dDateReviewed":  "2/22/2018",
+        "sItagGovernanceType":  "Application",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "268",
+        "sItagID":  "AIGB010.2018",
+        "dDateReviewed":  "2/22/2018",
+        "sItagGovernanceType":  "Integration",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "261",
+        "sItagID":  "AIGB007.2018",
+        "dDateReviewed":  "2/8/2018",
+        "sItagGovernanceType":  "Application",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
+        "nSubmissionID":  "255",
+        "sItagID":  "AIGB008.2018",
+        "dDateReviewed":  "2/8/2018",
+        "sItagGovernanceType":  "Application",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False"
+    },
+    {
         "nSubmissionID":  "259",
         "sItagID":  "TGB008.2018",
         "dDateReviewed":  "2/1/2018",
@@ -459,15 +549,6 @@
         "bActionItems":  "False"
     },
     {
-        "nSubmissionID":  "194",
-        "sItagID":  "AIGB040.2017",
-        "dDateReviewed":  "10/5/2017",
-        "sItagGovernanceType":  "Application",
-        "sDecision":  "Pending (Upon Completion of Action Items)",
-        "bConstraints":  "False",
-        "bActionItems":  "True"
-    },
-    {
         "nSubmissionID":  "187",
         "sItagID":  "AIGB041.2017",
         "dDateReviewed":  "10/5/2017",
@@ -729,15 +810,6 @@
         "bActionItems":  "False"
     },
     {
-        "nSubmissionID":  "125",
-        "sItagID":  "AIGB029.2017",
-        "dDateReviewed":  "6/15/2017",
-        "sItagGovernanceType":  "Application",
-        "sDecision":  "No Decision (ITAG Informed Only)",
-        "bConstraints":  "False",
-        "bActionItems":  "False"
-    },
-    {
         "nSubmissionID":  "148",
         "sItagID":  "AIGB030.2017",
         "dDateReviewed":  "6/15/2017",
@@ -958,7 +1030,7 @@
         "sItagID":  "AIGB021.2017",
         "dDateReviewed":  "3/9/2017",
         "sItagGovernanceType":  "Application",
-        "sDecision":  "No Decision (ITAG Informed Only)",
+        "sDecision":  "Approved",
         "bConstraints":  "False",
         "bActionItems":  "False"
     },
@@ -1035,29 +1107,11 @@
         "bActionItems":  "False"
     },
     {
-        "nSubmissionID":  "68",
-        "sItagID":  "TGB004.2017",
-        "dDateReviewed":  "2/2/2017",
-        "sItagGovernanceType":  "Technology",
-        "sDecision":  "Approved",
-        "bConstraints":  "False",
-        "bActionItems":  "False"
-    },
-    {
         "nSubmissionID":  "67",
         "sItagID":  "TGB005.2017",
         "dDateReviewed":  "2/2/2017",
         "sItagGovernanceType":  "Technology",
         "sDecision":  "Approved",
-        "bConstraints":  "False",
-        "bActionItems":  "False"
-    },
-    {
-        "nSubmissionID":  "69",
-        "sItagID":  "TGB006.2017",
-        "dDateReviewed":  "2/2/2017",
-        "sItagGovernanceType":  "Technology",
-        "sDecision":  "No Decision (ITAG Informed Only)",
         "bConstraints":  "False",
         "bActionItems":  "False"
     },
