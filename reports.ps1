@@ -132,11 +132,7 @@ function exportRequests {
         @{Name = "sProductManufacturer"; Expression = {$_."Product Manufacturer"}},
         @{Name = "sProductName"; Expression = {$_."Product Name"}},
         @{Name = "dDateRequested"; Expression = {retConvertDate($_."Date Requested")}},
-<<<<<<< HEAD
-        @{Name = "sHostingModel"; Expression = {$_."Hosting Model"}},
-=======
         @{Name = "sHostingModel"; Expression = {$_."Service Delivery Model"}},
->>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         @{Name = "sDeploymentType"; Expression = {$_."Deployment Type"}},
         @{Name = "sPurposeForEngagement"; Expression = {$_."Purpose for Engaging the Governance Board?"}},
         @{Name = "bNewITCapability"; Expression = {$_."New IT Capability to Devon?"}},
@@ -170,11 +166,7 @@ function exportConsolidated {
     $oRsDec.Open($qryString, $oDecDbConn,$adOpenStatic,$adLockOptimistic)
     $oRsDec.MoveFirst()
 
-<<<<<<< HEAD
-    $csvContent = [char]34 + "nSubmissionID" + [char]34 + "," + [char]34 + "sItagID" + [char]34 +  "," + [char]34 + "dDateReviewed" + [char]34 + "," + [char]34 + "sItagGovernanceType" + [char]34 + "," + [char]34 + "sDecision" + [char]34 + "," + [char]34 + "bConstraints" + [char]34 + "," + [char]34 + "bActionItems" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sHostingModel" + [char]34 + "," +  [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "sPurposeForEngagement" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sITCapability" + [char]34 + "," + [char]34 + "sBusinessCapability" + [char]34 + "," + [char]34 + "bCurrentLicenses" + [char]34 + "," + [char]34 + "sNumberOfUsers" + [char]34 + "," + [char]34 + "bIntegrationRequired" + [char]34 + "," + [char]34 + "sIntegrationMethod" + [char]34 + "," + [char]34 + "bExternalDataSources" + [char]34 + "," + [char]34 + "sDataObjectsInvolvedInIntegration" + [char]34 + "," + [char]34 + "sSourceSystem" + [char]34 + "," + [char]34 + "sTargetSystem" + [char]34 + "," + [char]34 + "sProductNameWithManufacture" + [char]34 + "," + [char]34 + "bOpenSource" + [char]34 + "," + [char]34 + "nEstGaCost" + [char]34 + "," + [char]34 + "nEstCapitalCost" + [char]34 + "," + [char]34 + "sITClass" + [char]34 + "," + [char]34 + "sITSponsor" + [char]34 + $crlf
-=======
     $csvContent = [char]34 + "nSubmissionID" + [char]34 + "," + [char]34 + "sItagID" + [char]34 +  "," + [char]34 + "dDateReviewed" + [char]34 + "," + [char]34 + "sItagGovernanceType" + [char]34 + "," + [char]34 + "sDecision" + [char]34 + "," + [char]34 + "bConstraints" + [char]34 + "," + [char]34 + "bActionItems" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sHostingModel" + [char]34 + "," +  [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "sPurposeForEngagement" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sCapability" + [char]34 + "," + [char]34 + "bCurrentLicenses" + [char]34 + "," + [char]34 + "sNumberOfUsers" + [char]34 + "," + [char]34 + "bIntegrationRequired" + [char]34 + "," + [char]34 + "sIntegrationMethod" + [char]34 + "," + [char]34 + "bExternalDataSources" + [char]34 + "," + [char]34 + "sDataObjectsInvolvedInIntegration" + [char]34 + "," + [char]34 + "sSourceSystem" + [char]34 + "," + [char]34 + "sTargetSystem" + [char]34 + "," + [char]34 + "sProductNameWithManufacture" + [char]34 + "," + [char]34 + "bOpenSource" + [char]34 + "," + [char]34 + "nEstGaCost" + [char]34 + "," + [char]34 + "nEstCapitalCost" + [char]34 + "," + [char]34 + "sITClass" + [char]34 + "," + [char]34 + "sITSponsor" + [char]34 + $crlf
->>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
 
     do{
         $nSubmissionID = $oRsDec.Fields.Item("Submission ID").Value ;
@@ -195,11 +187,7 @@ function exportConsolidated {
             $sProductManufacturer = $oRsReq.Fields.Item("Product Manufacturer").Value ;
             $sProductName = $oRsReq.Fields.Item("Product Name").Value ;
             $dDateRequested = retConvertDate($oRsReq.Fields.Item("Date Requested").Value) ;
-<<<<<<< HEAD
-            $sHostingModel = $oRsReq.Fields.Item("Hosting Model").Value ;
-=======
             $sHostingModel = $oRsReq.Fields.Item("Service Delivery Model").Value ;
->>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
             $sDeploymentType = $oRsReq.Fields.Item("Deployment Type").Value ;
             $sNumberOfUsers = $oRsReq.Fields.Item("How Many Users will be Using this Application?").Value ;
             $bIntegrationRequired = $oRsReq.Fields.Item("Will the Application Either Consume Data From, or Provide Data t").Value ;
@@ -238,11 +226,7 @@ function exportConsolidated {
                     $oRsUser.Close()
                 }
     
-<<<<<<< HEAD
-            $csvContent = $csvContent + [char]34 + $nSubmissionID + [char]34 + "," + [char]34 + $sItagID + [char]34 + ","  +  [char]34 + $dDateReviewed + [char]34 + "," + [char]34 + $sItagGovernanceType + [char]34 + "," + [char]34 + $sDecision + [char]34 + "," + [char]34 + $bConstraints + [char]34 + "," + [char]34 + $bActionItems + [char]34 + "," + [char]34 + $sContentType + [char]34 + "," + [char]34 + $sProductManufacturer + [char]34 + "," + [char]34 + $sProductName + [char]34 + "," + [char]34 + $dDateRequested + [char]34 + "," + [char]34 + $sHostingModel + [char]34  + "," + [char]34 + $sDeploymentType + [char]34 + "," + [char]34 + $sPurposeForEngagement + [char]34 + "," + [char]34 + $bNewITCapability + [char]34 + "," + [char]34 + $sITCapability + [char]34 + "," + [char]34 + $sBusinessCapability + [char]34 + "," + [char]34 + $bCurrentLicenses + [char]34 + "," + [char]34 + $sNumberOfUsers + [char]34 + "," + [char]34 + $bIntegrationRequired + [char]34 + "," + [char]34 + $sIntegrationMethod + [char]34 + "," + [char]34 + $bExternalDataSources + [char]34 + "," + [char]34 + $sDataObjectsInvolvedInIntegration + [char]34 + "," + [char]34 + $sSourceSystem + [char]34 + "," + [char]34 + $sTargetSystem + [char]34 + "," + [char]34 + $sProductNameWithManufacture + [char]34 + "," + [char]34 + $bOpenSource + [char]34 + "," + [char]34 + $nEstGaCost + [char]34 + "," + [char]34 + $nEstCapitalCost + [char]34 + "," + [char]34 + $sITClass + [char]34 + "," +  [char]34 + $sITSponsor + [char]34 + $crlf
-=======
             $csvContent = $csvContent + [char]34 + $nSubmissionID + [char]34 + "," + [char]34 + $sItagID + [char]34 + ","  +  [char]34 + $dDateReviewed + [char]34 + "," + [char]34 + $sItagGovernanceType + [char]34 + "," + [char]34 + $sDecision + [char]34 + "," + [char]34 + $bConstraints + [char]34 + "," + [char]34 + $bActionItems + [char]34 + "," + [char]34 + $sContentType + [char]34 + "," + [char]34 + $sProductManufacturer + [char]34 + "," + [char]34 + $sProductName + [char]34 + "," + [char]34 + $dDateRequested + [char]34 + "," + [char]34 + $sHostingModel + [char]34  + "," + [char]34 + $sDeploymentType + [char]34 + "," + [char]34 + $sPurposeForEngagement + [char]34 + "," + [char]34 + $bNewITCapability + [char]34 + "," + [char]34 + $sCapability + [char]34 + "," + [char]34 + $bCurrentLicenses + [char]34 + "," + [char]34 + $sNumberOfUsers + [char]34 + "," + [char]34 + $bIntegrationRequired + [char]34 + "," + [char]34 + $sIntegrationMethod + [char]34 + "," + [char]34 + $bExternalDataSources + [char]34 + "," + [char]34 + $sDataObjectsInvolvedInIntegration + [char]34 + "," + [char]34 + $sSourceSystem + [char]34 + "," + [char]34 + $sTargetSystem + [char]34 + "," + [char]34 + $sProductNameWithManufacture + [char]34 + "," + [char]34 + $bOpenSource + [char]34 + "," + [char]34 + $nEstGaCost + [char]34 + "," + [char]34 + $nEstCapitalCost + [char]34 + "," + [char]34 + $sITClass + [char]34 + "," +  [char]34 + $sITSponsor + [char]34 + $crlf
->>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
 
             $oRsReq.Close()
             $oReqDbConn.Close()
@@ -259,11 +243,7 @@ function exportUserMapping {
 
     $csv = $csvDir + "userInfo.csv"
 
-<<<<<<< HEAD
-    $csvContent = [char]34 + "nID" + [char]34 + "," + [char]34 + "sRequesters" + [char]34 + "," + [char]34 + "sRequesterDepartment" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sHostingModel" + [char]34 + ","  + [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sITCapability" + [char]34 + "," + [char]34 + "sBusinessCapability" + [char]34 + $crlf
-=======
     $csvContent = [char]34 + "nID" + [char]34 + "," + [char]34 + "sRequesters" + [char]34 + "," + [char]34 + "sRequesterDepartment" + [char]34 + "," + [char]34 + "sContentType" + [char]34 + "," + [char]34 + "sProductManufacturer" + [char]34 + "," + [char]34 + "sProductName" + [char]34 + "," + [char]34 + "dDateRequested" + [char]34 + "," + [char]34 + "sHostingModel" + [char]34 + ","  + [char]34 + "sDeploymentType" + [char]34 + "," + [char]34 + "bNewITCapability" + [char]34 + "," + [char]34 + "sCapability" + [char]34 + $crlf
->>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
 
     $qryStrRequest = "Select * from [RequestRegistry]"
     $oReqDbConn = New-Object -comobject ADODB.Connection
@@ -279,11 +259,7 @@ function exportUserMapping {
         $sProductManufacturer = $oRsReq.Fields.Item("Product Manufacturer").Value ;
         $sProductName = $oRsReq.Fields.Item("Product Name").Value ;
         $dDateRequested = retConvertDate($oRsReq.Fields.Item("Date Requested").Value) ;
-<<<<<<< HEAD
-        $sHostingModel = $oRsReq.Fields.Item("Hosting Model").Value ;
-=======
         $sHostingModel = $oRsReq.Fields.Item("Service Delivery Model").Value ;
->>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         $sDeploymentType = $oRsReq.Fields.Item("Deployment Type").Value ;
         $bNewITCapability = $oRsReq.Fields.Item("New IT Capability to Devon?").Value ;
         $sITCapability = retNormTaxonomy($oRsReq.Fields.Item("What is the Primary IT Capability that this Technology Provides?").Value) ;
@@ -305,11 +281,7 @@ function exportUserMapping {
                         $submitter = $oRsUser.Fields.Item("Name").Value ;
                         $submitterDepartment = $oRsUser.Fields.Item("Department").Value ;
 
-<<<<<<< HEAD
-                        $csvContent = $csvContent + [char]34 + $nID + [char]34 + "," + [char]34 + $submitter + [char]34 + "," + [char]34 + $submitterDepartment + [char]34 + "," + [char]34 + $sContentType + [char]34 + "," + [char]34 + $sProductManufacturer + [char]34 + "," + [char]34 + $sProductName + [char]34 + "," + [char]34 + $dDateRequested + [char]34 + "," + [char]34 + $sHostingModel + [char]34 + "," +  [char]34 + $sDeploymentType + [char]34 + "," + [char]34 + $bNewITCapability + [char]34 + "," + [char]34 + $sITCapability + [char]34 + "," + [char]34 + $sBusinessCapability + [char]34 + $crlf
-=======
                         $csvContent = $csvContent + [char]34 + $nID + [char]34 + "," + [char]34 + $submitter + [char]34 + "," + [char]34 + $submitterDepartment + [char]34 + "," + [char]34 + $sContentType + [char]34 + "," + [char]34 + $sProductManufacturer + [char]34 + "," + [char]34 + $sProductName + [char]34 + "," + [char]34 + $dDateRequested + [char]34 + "," + [char]34 + $sHostingModel + [char]34 + "," +  [char]34 + $sDeploymentType + [char]34 + "," + [char]34 + $bNewITCapability + [char]34 +  "," + [char]34 + $sCapability + [char]34 + $crlf
->>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
                     }
                 $oRsUser.Close()
                 $oUserDbConn.Close()
