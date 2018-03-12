@@ -281,7 +281,7 @@ function exportUserMapping {
                         $submitter = $oRsUser.Fields.Item("Name").Value ;
                         $submitterDepartment = $oRsUser.Fields.Item("Department").Value ;
 
-                        $csvContent = $csvContent + [char]34 + $nID + [char]34 + "," + [char]34 + $submitter + [char]34 + "," + [char]34 + $submitterDepartment + [char]34 + "," + [char]34 + $sContentType + [char]34 + "," + [char]34 + $sProductManufacturer + [char]34 + "," + [char]34 + $sProductName + [char]34 + "," + [char]34 + $dDateRequested + [char]34 + "," + [char]34 + $sHostingModel + [char]34 + "," +  [char]34 + $sDeploymentType + [char]34 + "," + [char]34 + $bNewITCapability + [char]34 +  "," + [char]34 + $sCapability + [char]34 + $crlf
+                        $csvContent = $csvContent + [char]34 + $nID + [char]34 + "," + [char]34 + $submitter + [char]34 + "," + [char]34 + $submitterDepartment + [char]34 + "," + [char]34 + $sContentType + [char]34 + "," + [char]34 + $sProductManufacturer + [char]34 + "," + [char]34 + $sProductName + [char]34 + "," + [char]34 + $dDateRequested + [char]34 + "," + [char]34 + $sHostingModel + [char]34 + "," +  [char]34 + $sDeploymentType + [char]34 + "," + [char]34 + $bNewITCapability + [char]34 + "," + [char]34 + $sCapability + [char]34 + $crlf
                     }
                 $oRsUser.Close()
                 $oUserDbConn.Close()
