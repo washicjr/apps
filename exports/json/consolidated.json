@@ -15,8 +15,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications",
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -29,7 +28,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Corporate :: Corporate Operations",
+        "sITClass":  "Business::Corporate :: Corporate Operations",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -48,8 +47,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety",
+        "sCapability":  "Business :: Environment, Health and Safety",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -62,7 +60,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Environment, Health and Safety",
+        "sITClass":  "Business :: Environment, Health and Safety",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -81,8 +79,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
+        "sCapability":  "Business :: Geoscience",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -95,7 +92,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience",
+        "sITClass":  "Business :: Geoscience",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -114,8 +111,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration",
+        "sCapability":  "Business :: Geoscience :: Asset Exploration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -128,7 +124,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "10000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience :: Asset Exploration",
+        "sITClass":  "Business :: Geoscience :: Asset Exploration",
         "sITSponsor":  "Holmes, Gary"
     },
     {
@@ -147,8 +143,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration",
+        "sCapability":  "Business :: Geoscience :: Asset Exploration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -161,7 +156,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience :: Asset Exploration",
+        "sITClass":  "Business :: Geoscience :: Asset Exploration",
         "sITSponsor":  "Holmes, Gary"
     },
     {
@@ -180,8 +175,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration",
+        "sCapability":  "Business :: Geoscience :: Asset Exploration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "True",
@@ -194,7 +188,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "10000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience :: Asset Exploration",
+        "sITClass":  "Business :: Geoscience :: Asset Exploration",
         "sITSponsor":  "Holmes, Gary"
     },
     {
@@ -213,8 +207,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Project and Program Management :: Project Optimization",
+        "sCapability":  "Business :: Enterprise :: Project and Program Management :: Project Optimization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -227,7 +220,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "72000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Enterprise :: Project and Program Management",
+        "sITClass":  "Business::Enterprise :: Project and Program Management",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -246,8 +239,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Asset :: Asset Management",
+        "sCapability":  "Business :: Asset :: Asset Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -260,7 +252,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "272160",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Asset :: Asset Management",
+        "sITClass":  "Business :: Asset :: Asset Management",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -279,8 +271,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing Management :: User Session Shadowing",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing Management :: User Session Shadowing",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -293,7 +284,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Endpoint Computing",
+        "sITClass":  "Technology::End User Computing :: Endpoint Computing",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -312,8 +303,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -326,7 +316,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Holmes, Gary"
     },
     {
@@ -345,8 +335,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -359,7 +348,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Voice \u0026 Data Communications",
+        "sITClass":  "Technology :: Infrastructure :: Voice \u0026 Data Communications",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -378,8 +367,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Datacenter Computing :: Compute Virtualization :: Hypervisor Virtualization",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Datacenter Computing :: Compute Virtualization :: Hypervisor Virtualization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -392,7 +380,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Datacenter Computing",
+        "sITClass":  "Technology::Infrastructure :: Datacenter Computing",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -411,8 +399,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Application Delivery :: Desktop Presentation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Application Delivery :: Desktop Presentation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -425,7 +412,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Application Delivery",
+        "sITClass":  "Technology::End User Computing :: Application Delivery",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -444,8 +431,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Search :: Search Index Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Search :: Search Index Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -458,7 +444,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Content Delivery",
+        "sITClass":  "Technology::Information Delivery :: Content Delivery",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -477,8 +463,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Team \u0026 Workgroup Collaboration",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Knowledge Management :: Team \u0026 Workgroup Collaboration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -491,7 +476,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Content Delivery",
+        "sITClass":  "Technology::Information Delivery :: Content Delivery",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -510,8 +495,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -524,7 +508,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -543,8 +527,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -557,7 +540,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Ball, Kathy"
     },
     {
@@ -576,8 +559,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -590,7 +572,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -609,8 +591,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -623,7 +604,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -642,8 +623,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -656,7 +636,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Keenze, Jon"
     },
     {
@@ -675,8 +655,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -689,7 +668,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Keenze, Jon"
     },
     {
@@ -708,8 +687,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Network Transport",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Network Transport",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -722,7 +700,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "300000",
         "nEstCapitalCost":  "90000",
-        "sITClass":  "Infrastructure :: Voice \u0026 Data Communications",
+        "sITClass":  "Technology::Infrastructure :: Voice \u0026 Data Communications",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -741,8 +719,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Identity \u0026 Access Management :: Identity Management (IdM)",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management :: Identity Management (IdM)",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -755,7 +732,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "62000",
         "nEstCapitalCost":  "1200000",
-        "sITClass":  "Digital Security :: Identity \u0026 Access Management",
+        "sITClass":  "Technology::Digital Security :: Identity \u0026 Access Management",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -774,8 +751,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -788,7 +764,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -807,8 +783,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Operating Systems",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Operating Systems",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -821,7 +796,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Endpoint Computing",
+        "sITClass":  "Technology::End User Computing :: Endpoint Computing",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -840,8 +815,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Hardware and Peripherals",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Hardware and Peripherals",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -854,7 +828,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Endpoint Computing",
+        "sITClass":  "Technology::End User Computing :: Endpoint Computing",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -873,8 +847,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Worker Productivity Tools",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -887,7 +860,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Worker Productivity Tools",
+        "sITClass":  "Technology :: End User Computing :: Worker Productivity Tools",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -906,8 +879,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Worker Productivity Tools",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -920,7 +892,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Worker Productivity Tools",
+        "sITClass":  "Technology :: End User Computing :: Worker Productivity Tools",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -939,8 +911,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Worker Productivity Tools",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -953,7 +924,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Worker Productivity Tools",
+        "sITClass":  "Technology :: End User Computing :: Worker Productivity Tools",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -972,8 +943,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Business Social",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Knowledge Management :: Business Social",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -986,7 +956,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Content Delivery",
+        "sITClass":  "Technology::Information Delivery :: Content Delivery",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1005,8 +975,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Physical Infrastructure Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Physical Infrastructure Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1019,7 +988,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -1038,8 +1007,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Cloud Management Platform :: Infrastructure Orchestration",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Cloud Management Platform :: Infrastructure Orchestration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1052,7 +1020,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -1071,8 +1039,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Server Services :: Other Application Server Services",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Server Services :: Other Application Server Services",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1085,7 +1052,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -1104,8 +1071,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1118,7 +1084,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1137,8 +1103,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Preventative Security :: Network Access Management \u0026 Control :: Network Firewall Security",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Preventative Security :: Network Access Management \u0026 Control :: Network Firewall Security",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1151,7 +1116,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security :: Preventative Security",
+        "sITClass":  "Technology::Digital Security :: Preventative Security",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1170,8 +1135,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1184,7 +1148,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1203,8 +1167,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Datacenter Computing :: Grid Computing",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Datacenter Computing :: Grid Computing",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1217,7 +1180,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Datacenter Computing",
+        "sITClass":  "Technology::Infrastructure :: Datacenter Computing",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -1236,8 +1199,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources :: Employee Management :: Career Management",
+        "sCapability":  "Business :: Human Resources :: Employee Management :: Career Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -1250,7 +1212,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Human Resources :: Employee Management",
+        "sITClass":  "Business::Human Resources :: Employee Management",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -1269,8 +1231,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Optimization",
+        "sCapability":  "Business :: Operations :: Production Optimization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "True",
@@ -1283,7 +1244,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Operations :: Production Optimization",
+        "sITClass":  "Business :: Operations :: Production Optimization",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -1302,8 +1263,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Optimization",
+        "sCapability":  "Business :: Operations :: Production Optimization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "True",
@@ -1316,7 +1276,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Operations :: Production Optimization",
+        "sITClass":  "Business :: Operations :: Production Optimization",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -1335,8 +1295,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization",
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -1349,7 +1308,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Reservoir Characterization",
+        "sITClass":  "Business :: Engineering :: Reservoir Characterization",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -1368,8 +1327,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1382,7 +1340,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1401,8 +1359,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Geologic Modeling",
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Geologic Modeling",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -1415,7 +1372,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "280000",
         "nEstCapitalCost":  "500000",
-        "sITClass":  "Geoscience :: Asset Exploration",
+        "sITClass":  "Business::Geoscience :: Asset Exploration",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -1434,8 +1391,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization",
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -1448,7 +1404,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "615000",
         "nEstCapitalCost":  "535000",
-        "sITClass":  "Engineering :: Reservoir Characterization",
+        "sITClass":  "Business :: Engineering :: Reservoir Characterization",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -1467,8 +1423,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources",
+        "sCapability":  "Business :: Human Resources",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -1481,7 +1436,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "11490",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Human Resources",
+        "sITClass":  "Business :: Human Resources",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -1500,8 +1455,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Content Management",
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Content Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -1514,7 +1468,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Enterprise :: Data and Information Management",
+        "sITClass":  "Business::Enterprise :: Data and Information Management",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -1533,8 +1487,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Malware Protection",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Malware Protection",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1547,7 +1500,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "45000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security :: Preventative Security",
+        "sITClass":  "Technology::Digital Security :: Preventative Security",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -1562,12 +1515,15 @@
         "sProductManufacturer":  "Vertex, Inc.",
         "sProductName":  "Vertex Indirect Tax O Series  (i.e. Vertex O Series)",
         "dDateRequested":  "3/8/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Management :: Public Relations",
+        "sCapability":  "Business :: Corporate :: Corporate Management :: Public Relations",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -1580,7 +1536,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "21500",
         "nEstCapitalCost":  "148100",
-        "sITClass":  "Corporate :: Corporate Management",
+        "sITClass":  "Business::Corporate :: Corporate Management",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -1599,8 +1555,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
+        "sCapability":  "Business :: Geoscience",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -1613,7 +1568,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "20000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience",
+        "sITClass":  "Business :: Geoscience",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -1632,8 +1587,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Enterprise Content Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1646,7 +1600,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "100000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Content Delivery",
+        "sITClass":  "Technology::Information Delivery :: Content Delivery",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -1661,12 +1615,15 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure IaaS High Frequency Data Collection",
         "dDateRequested":  "3/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1679,7 +1636,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -1698,8 +1655,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1712,7 +1668,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1731,8 +1687,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1745,7 +1700,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1764,8 +1719,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1778,7 +1732,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1797,8 +1751,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1811,7 +1764,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1830,8 +1783,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Predictive Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Predictive Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1844,7 +1796,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1863,8 +1815,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1877,7 +1828,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1896,8 +1847,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1910,7 +1860,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -1929,8 +1879,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Consultation/Guidance",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Capital Project Management/Budget :: Planning and Budgeting",
+        "sCapability":  "Business :: Capital Project Management/Budget :: Planning and Budgeting",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -1943,7 +1892,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Capital Project Management/Budget :: Planning and Budgeting",
+        "sITClass":  "Business :: Capital Project Management/Budget :: Planning and Budgeting",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -1962,8 +1911,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -1976,7 +1924,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -1995,8 +1943,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2009,7 +1956,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -2028,8 +1975,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Consultation/Guidance",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Knowledge Management",
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Knowledge Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -2042,7 +1988,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Enterprise :: Data and Information Management",
+        "sITClass":  "Business::Enterprise :: Data and Information Management",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -2061,8 +2007,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Peripherals :: Printing \u0026 Printer Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Peripherals :: Printing \u0026 Printer Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2075,7 +2020,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Endpoint Computing",
+        "sITClass":  "Technology::End User Computing :: Endpoint Computing",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -2094,8 +2039,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling",
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Drilling",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -2108,7 +2052,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Well Construction",
+        "sITClass":  "Business::Engineering :: Well Construction",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -2127,8 +2071,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Production Asset Facility Development",
+        "sCapability":  "Business :: Engineering :: Production Asset Facility Development",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -2141,7 +2084,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Production Asset Facility Development",
+        "sITClass":  "Business :: Engineering :: Production Asset Facility Development",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -2160,8 +2103,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2174,7 +2116,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology :: Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -2193,8 +2135,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2207,7 +2148,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -2226,8 +2167,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2240,7 +2180,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -2259,8 +2199,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management :: Document Automation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Enterprise Content Management :: Document Automation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2273,7 +2212,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Content Delivery",
+        "sITClass":  "Technology::Information Delivery :: Content Delivery",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -2292,8 +2231,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Measurement",
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Measurement",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -2306,7 +2244,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Operations :: Production Wells and Facilities Operations",
+        "sITClass":  "Business::Operations :: Production Wells and Facilities Operations",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -2325,8 +2263,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Program Management",
+        "sCapability":  "Business :: Environment, Health and Safety :: EHS Program Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Between 25 and 50",
         "bIntegrationRequired":  "False",
@@ -2339,7 +2276,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Environment, Health and Safety :: EHS Program Management",
+        "sITClass":  "Business :: Environment, Health and Safety :: EHS Program Management",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -2358,8 +2295,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Measurement",
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Measurement",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Between 25 and 50",
         "bIntegrationRequired":  "False",
@@ -2372,7 +2308,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Operations :: Production Wells and Facilities Operations",
+        "sITClass":  "Business::Operations :: Production Wells and Facilities Operations",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -2391,8 +2327,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling",
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Drilling",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -2405,7 +2340,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Well Construction",
+        "sITClass":  "Business::Engineering :: Well Construction",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -2424,8 +2359,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration",
+        "sCapability":  "Business :: Geoscience :: Asset Exploration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Between 25 and 50",
         "bIntegrationRequired":  "True",
@@ -2438,7 +2372,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience :: Asset Exploration",
+        "sITClass":  "Business :: Geoscience :: Asset Exploration",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -2457,8 +2391,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2471,7 +2404,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Keenze, Jon"
     },
     {
@@ -2490,8 +2423,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Reporting :: Visualization",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Reporting :: Visualization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2504,7 +2436,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -2523,8 +2455,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2537,7 +2468,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Ball, Kathy"
     },
     {
@@ -2556,8 +2487,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2570,7 +2500,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Ball, Kathy"
     },
     {
@@ -2589,8 +2519,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2603,7 +2532,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Ball, Kathy"
     },
     {
@@ -2622,8 +2551,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2636,7 +2564,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Ball, Kathy"
     },
     {
@@ -2655,8 +2583,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling",
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Drilling",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -2669,7 +2596,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Well Construction",
+        "sITClass":  "Business::Engineering :: Well Construction",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -2688,8 +2615,7 @@
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Consultation/Guidance",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Land",
+        "sCapability":  "Business :: Land",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -2702,7 +2628,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Land",
+        "sITClass":  "Business :: Land",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -2721,8 +2647,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "",
+        "sCapability":  "Integration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2754,8 +2679,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "",
+        "sCapability":  "Integration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -2787,8 +2711,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications",
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -2801,7 +2724,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Corporate :: Corporate Operations",
+        "sITClass":  "Business::Corporate :: Corporate Operations",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -2820,8 +2743,7 @@
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications",
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -2834,7 +2756,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Corporate :: Corporate Operations",
+        "sITClass":  "Business::Corporate :: Corporate Operations",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -2853,8 +2775,7 @@
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications",
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -2867,7 +2788,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Corporate :: Corporate Operations",
+        "sITClass":  "Business::Corporate :: Corporate Operations",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -2886,8 +2807,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications",
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -2900,7 +2820,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Corporate :: Corporate Operations",
+        "sITClass":  "Business::Corporate :: Corporate Operations",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -2919,8 +2839,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications",
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -2933,7 +2852,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Corporate :: Corporate Operations",
+        "sITClass":  "Business::Corporate :: Corporate Operations",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -2952,8 +2871,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration",
+        "sCapability":  "Business :: Geoscience :: Asset Exploration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -2966,7 +2884,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience :: Asset Exploration",
+        "sITClass":  "Business :: Geoscience :: Asset Exploration",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -2985,8 +2903,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
+        "sCapability":  "Business :: Geoscience",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -2999,7 +2916,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "25000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience",
+        "sITClass":  "Business :: Geoscience",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -3018,8 +2935,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Supply Chain :: Transportation and Logistics :: Transportation and Logistics Management",
+        "sCapability":  "Business :: Supply Chain :: Transportation and Logistics :: Transportation and Logistics Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -3032,7 +2948,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "240000",
-        "sITClass":  "Supply Chain :: Transportation and Logistics",
+        "sITClass":  "Business::Supply Chain :: Transportation and Logistics",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -3051,8 +2967,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Information Technology :: IT Planning :: IT Portfolio Management",
+        "sCapability":  "Business :: Information Technology :: IT Planning :: IT Portfolio Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -3065,7 +2980,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "216000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Technology :: IT Planning",
+        "sITClass":  "Business::Information Technology :: IT Planning",
         "sITSponsor":  "Hughes, Kim"
     },
     {
@@ -3080,12 +2995,15 @@
         "sProductManufacturer":  "VMWare",
         "sProductName":  "Airwatch MDM / MAM",
         "dDateRequested":  "2/4/2016",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Mobile Computing Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3098,7 +3016,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Endpoint Computing",
+        "sITClass":  "Technology::End User Computing :: Endpoint Computing",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -3117,8 +3035,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3131,7 +3048,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -3150,8 +3067,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise",
+        "sCapability":  "Business :: Enterprise",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -3164,7 +3080,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Enterprise",
+        "sITClass":  "Business :: Enterprise",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -3179,12 +3095,15 @@
         "sProductManufacturer":  "Rose \u0026 Associates",
         "sProductName":  "ProjectRA",
         "dDateRequested":  "3/21/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization",
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Between 25 and 50",
         "bIntegrationRequired":  "True",
@@ -3197,7 +3116,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Reservoir Characterization",
+        "sITClass":  "Business :: Engineering :: Reservoir Characterization",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -3212,12 +3131,15 @@
         "sProductManufacturer":  "IBM",
         "sProductName":  "BPM Cloud - Bluemix",
         "dDateRequested":  "3/28/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3230,7 +3152,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "20000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -3249,8 +3171,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3263,7 +3184,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -3282,8 +3203,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Preventative Security",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Preventative Security",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3296,7 +3216,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "45000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security :: Preventative Security",
+        "sITClass":  "Technology :: Digital Security :: Preventative Security",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -3315,8 +3235,7 @@
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -3329,7 +3248,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -3348,8 +3267,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Network Based Forensics :: Network Packet Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Detective Security :: Network Based Forensics :: Network Packet Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3362,7 +3280,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "40000",
         "nEstCapitalCost":  "200000",
-        "sITClass":  "Digital Security :: Detective Security",
+        "sITClass":  "Technology::Digital Security :: Detective Security",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -3381,8 +3299,7 @@
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Consultation/Guidance",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3395,7 +3312,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "15000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -3414,8 +3331,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation",
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -3428,7 +3344,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Reservoir Characterization",
+        "sITClass":  "Business::Engineering :: Reservoir Characterization",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -3447,8 +3363,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
+        "sCapability":  "Business :: Geoscience",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -3461,7 +3376,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience",
+        "sITClass":  "Business :: Geoscience",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -3480,8 +3395,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
+        "sCapability":  "Business :: Geoscience",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -3494,7 +3408,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "15000",
         "nEstCapitalCost":  "75000",
-        "sITClass":  "Geoscience",
+        "sITClass":  "Business :: Geoscience",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -3513,8 +3427,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Land",
+        "sCapability":  "Business :: Land",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -3527,7 +3440,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "4320",
         "nEstCapitalCost":  "50000",
-        "sITClass":  "Land",
+        "sITClass":  "Business :: Land",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -3546,8 +3459,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3560,7 +3472,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -3575,12 +3487,15 @@
         "sProductManufacturer":  "RISC Networks",
         "sProductName":  "CloudScape",
         "dDateRequested":  "5/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3593,7 +3508,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -3608,12 +3523,15 @@
         "sProductManufacturer":  "CloudEndure",
         "sProductName":  "LiveMigration",
         "dDateRequested":  "5/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3626,7 +3544,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -3645,8 +3563,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management :: Mobile Application Management (MAM)",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Mobile Computing Management :: Mobile Application Management (MAM)",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3659,7 +3576,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "4335",
         "nEstCapitalCost":  "300",
-        "sITClass":  "End User Computing :: Endpoint Computing",
+        "sITClass":  "Technology::End User Computing :: Endpoint Computing",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -3678,8 +3595,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounting Management",
+        "sCapability":  "Business :: Finance and Accounting :: Accounting Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -3692,7 +3608,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Finance and Accounting :: Accounting Management",
+        "sITClass":  "Business :: Finance and Accounting :: Accounting Management",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -3711,8 +3627,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Training",
+        "sCapability":  "Business :: Environment, Health and Safety :: EHS Training",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -3725,7 +3640,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "8800",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Environment, Health and Safety :: EHS Training",
+        "sITClass":  "Business :: Environment, Health and Safety :: EHS Training",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -3744,8 +3659,7 @@
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Consultation/Guidance",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3758,7 +3672,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "35000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Distributed Compute Platforms",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Distributed Compute Platforms",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -3777,8 +3691,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3791,7 +3704,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -3810,8 +3723,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Automation",
+        "sCapability":  "Business :: Automation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -3824,7 +3736,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "3750",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Automation",
+        "sITClass":  "Business :: Automation",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -3843,8 +3755,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Exploration Strategy",
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Exploration Strategy",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -3857,7 +3768,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience :: Asset Exploration",
+        "sITClass":  "Business::Geoscience :: Asset Exploration",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -3876,8 +3787,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
+        "sCapability":  "Business :: Geoscience",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "True",
@@ -3890,7 +3800,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Geoscience",
+        "sITClass":  "Business :: Geoscience",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -3909,8 +3819,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Capital Project Management/Budget :: Planning and Budgeting",
+        "sCapability":  "Business :: Capital Project Management/Budget :: Planning and Budgeting",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -3923,7 +3832,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "6912",
         "nEstCapitalCost":  "45312",
-        "sITClass":  "Capital Project Management/Budget :: Planning and Budgeting",
+        "sITClass":  "Business :: Capital Project Management/Budget :: Planning and Budgeting",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -3942,8 +3851,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "",
+        "sCapability":  "Integration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -3971,12 +3879,15 @@
         "sProductManufacturer":  "AvePoint  ",
         "sProductName":  "Governance Automation Core for Microsoft SharePoint \u0026 Office 365",
         "dDateRequested":  "6/12/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management :: Content Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Enterprise Content Management :: Content Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -3989,7 +3900,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Content Delivery",
+        "sITClass":  "Technology::Information Delivery :: Content Delivery",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -4008,8 +3919,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Identity \u0026 Access Management :: Authentication :: Authentication Proxy Services",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management :: Authentication :: Authentication Proxy Services",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4022,7 +3932,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security :: Identity \u0026 Access Management",
+        "sITClass":  "Technology::Digital Security :: Identity \u0026 Access Management",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -4041,8 +3951,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Preventative Security",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Preventative Security",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4055,7 +3964,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "45000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security :: Preventative Security",
+        "sITClass":  "Technology :: Digital Security :: Preventative Security",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -4070,12 +3979,15 @@
         "sProductManufacturer":  "General Electric",
         "sProductName":  "3D Facilities Modeling",
         "dDateRequested":  "6/12/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Equip and Tie-In",
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Equip and Tie-In",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "True",
@@ -4088,7 +4000,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Well Construction",
+        "sITClass":  "Business::Engineering :: Well Construction",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -4107,8 +4019,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Basin Analysis",
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Basin Analysis",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -4121,7 +4032,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "5000",
-        "sITClass":  "Geoscience :: Asset Exploration",
+        "sITClass":  "Business::Geoscience :: Asset Exploration",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -4140,8 +4051,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Identity \u0026 Access Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4154,7 +4064,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "22000",
         "nEstCapitalCost":  "107000",
-        "sITClass":  "Digital Security :: Identity \u0026 Access Management",
+        "sITClass":  "Technology :: Digital Security :: Identity \u0026 Access Management",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -4169,12 +4079,15 @@
         "sProductManufacturer":  "Phantom ",
         "sProductName":  "Security Automation and Orchestration (SA\u0026O) Platform ",
         "dDateRequested":  "7/10/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4187,7 +4100,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "105000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security",
+        "sITClass":  "Technology :: Digital Security",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -4206,8 +4119,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Office Services",
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Office Services",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -4220,7 +4132,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "12000",
         "nEstCapitalCost":  "35000",
-        "sITClass":  "Corporate :: Corporate Operations",
+        "sITClass":  "Business::Corporate :: Corporate Operations",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -4235,12 +4147,15 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Surface Hub 55 \u0026 84\"\"",
         "dDateRequested":  "7/17/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Conference Room Management :: Presentation Projection",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Conference Room Management :: Presentation Projection",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4253,7 +4168,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "21000",
-        "sITClass":  "End User Computing :: Endpoint Computing",
+        "sITClass":  "Technology::End User Computing :: Endpoint Computing",
         "sITSponsor":  "Hughes, Kim"
     },
     {
@@ -4272,8 +4187,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4286,7 +4200,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4305,8 +4219,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4319,7 +4232,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4334,12 +4247,15 @@
         "sProductManufacturer":  "ELastic",
         "sProductName":  "Logstash",
         "dDateRequested":  "7/19/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4352,7 +4268,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4371,8 +4287,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Key-Value Database Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Key-Value Database Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4385,7 +4300,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "14000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Database Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Database Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4404,8 +4319,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety",
+        "sCapability":  "Business :: Environment, Health and Safety",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -4418,7 +4332,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "65000",
         "nEstCapitalCost":  "95000",
-        "sITClass":  "Environment, Health and Safety",
+        "sITClass":  "Business :: Environment, Health and Safety",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -4437,8 +4351,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "",
+        "sCapability":  "Integration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4470,8 +4383,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Key-Value Database Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Key-Value Database Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4484,7 +4396,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Database Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Database Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4503,8 +4415,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4517,7 +4428,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "150000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Distributed Compute Platforms",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Distributed Compute Platforms",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4536,8 +4447,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Relational Database Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Relational Database Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4550,7 +4460,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "50000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Database Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Database Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4569,8 +4479,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Relational Database Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Relational Database Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4583,7 +4492,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "40000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Database Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Database Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4602,8 +4511,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4616,7 +4524,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4635,8 +4543,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4649,7 +4556,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "6000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4668,8 +4575,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4682,7 +4588,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology :: Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4701,8 +4607,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Automation \u0026 Orchestration :: Automation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Automation \u0026 Orchestration :: Automation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4715,7 +4620,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "500000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Automation \u0026 Orchestration",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Automation \u0026 Orchestration",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -4734,8 +4639,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Network Based Forensics :: Security Information \u0026 Event Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Detective Security :: Network Based Forensics :: Security Information \u0026 Event Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4748,7 +4652,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "95000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security :: Detective Security",
+        "sITClass":  "Technology::Digital Security :: Detective Security",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -4767,8 +4671,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Host Based Forensics :: Raw Data Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security :: Detective Security :: Host Based Forensics :: Raw Data Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4781,7 +4684,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security :: Detective Security",
+        "sITClass":  "Technology::Digital Security :: Detective Security",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -4796,12 +4699,15 @@
         "sProductManufacturer":  "ManagedIQ.org",
         "sProductName":  "ManagedIQ",
         "dDateRequested":  "9/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Cloud Management Platform",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Cloud Management Platform",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4814,7 +4720,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "12000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -4829,12 +4735,15 @@
         "sProductManufacturer":  "Phantom ",
         "sProductName":  "Security Automation and Orchestration (SA\u0026O) Platform ",
         "dDateRequested":  "7/10/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Digital Security",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4847,7 +4756,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "105000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Digital Security",
+        "sITClass":  "Technology :: Digital Security",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -4866,8 +4775,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Automation",
+        "sCapability":  "Business :: Automation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -4880,7 +4788,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "2000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Automation",
+        "sITClass":  "Business :: Automation",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4899,8 +4807,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources :: Employee Management",
+        "sCapability":  "Business :: Human Resources :: Employee Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -4913,7 +4820,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "139000",
         "nEstCapitalCost":  "900000",
-        "sITClass":  "Human Resources :: Employee Management",
+        "sITClass":  "Business :: Human Resources :: Employee Management",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -4932,8 +4839,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4946,7 +4852,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "60000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4965,8 +4871,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -4979,7 +4884,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -4998,8 +4903,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5012,7 +4916,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -5031,8 +4935,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5045,7 +4948,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "1200",
         "nEstCapitalCost":  "1200",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -5064,8 +4967,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Storage :: Network Attached Storage (NAS) :: Network Filesystem Namespace Virtualization",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Storage :: Network Attached Storage (NAS) :: Network Filesystem Namespace Virtualization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5078,7 +4980,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "480",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Storage",
+        "sITClass":  "Technology::Infrastructure :: Storage",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -5097,8 +4999,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Business Activity Monitoring",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Business Activity Monitoring",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5111,7 +5012,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -5130,8 +5031,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5144,7 +5044,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Infrastructure Management",
+        "sITClass":  "Technology::Infrastructure :: Infrastructure Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -5163,8 +5063,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Spatial Data Management",
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Spatial Data Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -5177,7 +5076,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "4000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Enterprise :: Data and Information Management",
+        "sITClass":  "Business::Enterprise :: Data and Information Management",
         "sITSponsor":  "Keenze, Jon"
     },
     {
@@ -5196,8 +5095,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise",
+        "sCapability":  "Business :: Enterprise",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -5210,7 +5108,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Enterprise",
+        "sITClass":  "Business :: Enterprise",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -5229,8 +5127,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization",
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -5243,7 +5140,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "50000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Reservoir Characterization",
+        "sITClass":  "Business :: Engineering :: Reservoir Characterization",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -5262,8 +5159,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Information Technology",
+        "sCapability":  "Business :: Information Technology",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -5276,7 +5172,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Technology",
+        "sITClass":  "Business :: Information Technology",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -5295,8 +5191,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Configuration",
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Configuration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -5309,7 +5204,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "30000",
         "nEstCapitalCost":  "150000",
-        "sITClass":  "Operations :: Production Wells and Facilities Operations",
+        "sITClass":  "Business::Operations :: Production Wells and Facilities Operations",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -5328,8 +5223,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Configuration",
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Configuration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -5342,7 +5236,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "4000",
         "nEstCapitalCost":  "22000",
-        "sITClass":  "Operations :: Production Wells and Facilities Operations",
+        "sITClass":  "Business::Operations :: Production Wells and Facilities Operations",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -5361,8 +5255,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Search :: Search Index Federation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Search :: Search Index Federation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5375,7 +5268,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "135000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Content Delivery",
+        "sITClass":  "Technology::Information Delivery :: Content Delivery",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -5394,8 +5287,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Reporting",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Reporting",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5408,7 +5300,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "275000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -5427,8 +5319,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5441,7 +5332,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -5460,8 +5351,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5474,7 +5364,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -5493,8 +5383,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5507,7 +5396,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -5522,12 +5411,15 @@
         "sProductManufacturer":  "General Electric",
         "sProductName":  "3D Facilities Modeling",
         "dDateRequested":  "6/12/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Equip and Tie-In",
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Equip and Tie-In",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "True",
@@ -5540,7 +5432,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Well Construction",
+        "sITClass":  "Business::Engineering :: Well Construction",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -5559,8 +5451,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation",
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -5573,7 +5464,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Reservoir Characterization",
+        "sITClass":  "Business::Engineering :: Reservoir Characterization",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -5592,8 +5483,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Completion;Geoscience :: Asset Exploration :: Seismic Modeling",
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Completion;Geoscience :: Asset Exploration :: Seismic Modeling",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "True",
@@ -5606,7 +5496,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering :: Well Construction",
+        "sITClass":  "Business::Engineering :: Well Construction",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -5625,8 +5515,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Office Services",
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Office Services",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -5639,7 +5528,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "12000",
         "nEstCapitalCost":  "35000",
-        "sITClass":  "Corporate :: Corporate Operations",
+        "sITClass":  "Business::Corporate :: Corporate Operations",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -5658,8 +5547,7 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Project and Program Management :: Cost Control",
+        "sCapability":  "Business :: Enterprise :: Project and Program Management :: Cost Control",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -5672,7 +5560,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Enterprise :: Project and Program Management",
+        "sITClass":  "Business::Enterprise :: Project and Program Management",
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -5691,8 +5579,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Legal :: Audit :: Internal Audit;Enterprise :: Data and Information Management",
+        "sCapability":  "Business :: Legal :: Audit :: Internal Audit;Enterprise :: Data and Information Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -5705,7 +5592,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Legal :: Audit",
+        "sITClass":  "Business::Legal :: Audit",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -5724,8 +5611,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounts Payable and Receivable",
+        "sCapability":  "Business :: Finance and Accounting :: Accounts Payable and Receivable",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -5738,7 +5624,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "120000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Finance and Accounting :: Accounts Payable and Receivable",
+        "sITClass":  "Business :: Finance and Accounting :: Accounts Payable and Receivable",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -5757,8 +5643,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5771,7 +5656,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -5790,8 +5675,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Messaging :: Electronic Fascimile",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Messaging :: Electronic Fascimile",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -5804,7 +5688,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "2322",
         "nEstCapitalCost":  "12825",
-        "sITClass":  "End User Computing :: Messaging",
+        "sITClass":  "Technology::End User Computing :: Messaging",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -5823,8 +5707,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Program Management;Environment, Health and Safety :: EHS Impact Management :: EHS Remediation Management",
+        "sCapability":  "Business :: Environment, Health and Safety :: EHS Program Management;Environment, Health and Safety :: EHS Impact Management :: EHS Remediation Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Between 25 and 50",
         "bIntegrationRequired":  "False",
@@ -5837,7 +5720,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Environment, Health and Safety :: EHS Program Management;Environment, Health and Safety",
+        "sITClass":  "Business::Environment, Health and Safety :: EHS Program Management;Environment, Health and Safety",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -5856,8 +5739,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering;Geoscience",
+        "sCapability":  "Business :: Engineering;Geoscience",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Between 25 and 50",
         "bIntegrationRequired":  "True",
@@ -5870,7 +5752,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Engineering;Geoscience",
+        "sITClass":  "Business :: Engineering;Geoscience",
         "sITSponsor":  "Cordeiro, Jody"
     },
     {
@@ -5889,8 +5771,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management",
+        "sCapability":  "Business :: Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -5903,7 +5784,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "35000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management",
+        "sITClass":  "Business :: Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -5922,8 +5803,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Tax Management;Finance and Accounting :: Tax Management :: Tax Management and Reporting",
+        "sCapability":  "Business :: Finance and Accounting :: Tax Management;Finance and Accounting :: Tax Management :: Tax Management and Reporting",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Between 25 and 50",
         "bIntegrationRequired":  "False",
@@ -5936,7 +5816,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "60000",
         "nEstCapitalCost":  "300000",
-        "sITClass":  "Finance and Accounting :: Tax Management;Finance and Accounting",
+        "sITClass":  "Business::Finance and Accounting :: Tax Management;Finance and Accounting",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -5955,8 +5835,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Reporting and Analytics",
+        "sCapability":  "Business :: Enterprise :: Reporting and Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -5969,7 +5848,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "150000",
-        "sITClass":  "Enterprise :: Reporting and Analytics",
+        "sITClass":  "Business :: Enterprise :: Reporting and Analytics",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -5988,8 +5867,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations",
+        "sCapability":  "Business :: Operations",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "True",
@@ -6002,7 +5880,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "360000",
-        "sITClass":  "Operations",
+        "sITClass":  "Business :: Operations",
         "sITSponsor":  "Dolezal, Greg"
     },
     {
@@ -6021,8 +5899,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations",
+        "sCapability":  "Business :: Operations",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -6035,7 +5912,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "1700",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Operations",
+        "sITClass":  "Business :: Operations",
         "sITSponsor":  "Manek, Ben"
     },
     {
@@ -6050,12 +5927,15 @@
         "sProductManufacturer":  "HydroSOLVE, Inc.",
         "sProductName":  "AQTESOLV Pro",
         "dDateRequested":  "12/6/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
+        "sCapability":  "Business :: Geoscience",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "False",
@@ -6068,7 +5948,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "1500",
         "nEstCapitalCost":  "1500",
-        "sITClass":  "Geoscience",
+        "sITClass":  "Business :: Geoscience",
         "sITSponsor":  "Wilkinson, Steve"
     },
     {
@@ -6087,8 +5967,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6101,7 +5980,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "250000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Distributed Compute Platforms",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Distributed Compute Platforms",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -6120,8 +5999,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Server Services;Middleware \u0026 Platform :: Application Platform Services :: Application Server Services :: .NET Application Server Services;Middleware \u0026 Platform :: Application Platform Se",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Server Services;Middleware \u0026 Platform :: Application Platform Services :: Application Server Services :: .NET Application Server Services;Middleware \u0026 Platform :: Application Platform Se",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6134,7 +6012,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "25000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -6153,8 +6031,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Resource Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Resource Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6167,7 +6044,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "50000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Distributed Compute Platforms",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Distributed Compute Platforms",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -6186,8 +6063,7 @@
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6200,7 +6076,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "50000",
         "nEstCapitalCost":  "300000",
-        "sITClass":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
+        "sITClass":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -6219,8 +6095,7 @@
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Content Management",
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Content Management",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -6233,7 +6108,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Enterprise :: Data and Information Management",
+        "sITClass":  "Business::Enterprise :: Data and Information Management",
         "sITSponsor":  "Wempe, Joe"
     },
     {
@@ -6252,8 +6127,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6266,7 +6140,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -6285,8 +6159,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6299,7 +6172,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -6318,8 +6191,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6332,7 +6204,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Taylor, Stephen"
     },
     {
@@ -6351,8 +6223,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "",
+        "sCapability":  "Integration",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6384,8 +6255,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Unified Communications (UC) :: Video Conferencing",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Unified Communications (UC) :: Video Conferencing",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6398,7 +6268,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "75000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Infrastructure :: Voice \u0026 Data Communications",
+        "sITClass":  "Technology::Infrastructure :: Voice \u0026 Data Communications",
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -6417,8 +6287,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6431,7 +6300,7 @@
         "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -6450,8 +6319,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics;Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI)",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics;Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI)",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6464,7 +6332,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -6483,8 +6351,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Application Delivery :: Application Presentation",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: End User Computing :: Application Delivery :: Application Presentation",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6497,7 +6364,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "End User Computing :: Application Delivery",
+        "sITClass":  "Technology::End User Computing :: Application Delivery",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -6516,8 +6383,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI);Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI);Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6530,7 +6396,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -6549,8 +6415,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning;Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Buil",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning;Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Buil",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6563,7 +6428,7 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
@@ -6582,8 +6447,7 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks;Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Appl",
-        "sBusinessCapability":  "",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks;Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Appl",
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6596,10 +6460,75 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
-        "sITClass":  "Middleware \u0026 Platform :: Application Platform Services",
+        "sITClass":  "Technology::Middleware \u0026 Platform :: Application Platform Services",
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
+        "nSubmissionID":  "261",
+        "sItagID":  "AIGB007.2018",
+        "dDateReviewed":  "2/8/2018",
+        "sItagGovernanceType":  "Application",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "OilWare",
+        "sProductName":  "EzTools",
+        "dDateRequested":  "2/2/2018",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Raise Awareness",
+        "bNewITCapability":  "False",
+        "sCapability":  "Business :: Geoscience",
+        "bCurrentLicenses":  "",
+        "sNumberOfUsers":  "Not Known at this Time",
+        "bIntegrationRequired":  "True",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "OilWare | EzTools",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000",
+        "sITClass":  "Business :: Geoscience",
+        "sITSponsor":  "Wilkinson, Steve"
+    },
+    {
+        "nSubmissionID":  "255",
+        "sItagID":  "AIGB008.2018",
+        "dDateReviewed":  "2/8/2018",
+        "sItagGovernanceType":  "Application",
+        "sDecision":  "Approved",
+        "bConstraints":  "False",
+        "bActionItems":  "False",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "CGI",
+        "sProductName":  "PAS (Production Accounting Solution) R16",
+        "dDateRequested":  "1/11/2018",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sCapability":  "Business :: Finance and Accounting :: Accounting Management :: Production Revenue Accounting",
+        "bCurrentLicenses":  "",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "True",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "CGI | PAS (Production Accounting Solution) R16",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "118671",
+        "nEstCapitalCost":  "38050",
+        "sITClass":  "Business::Finance and Accounting :: Accounting Management",
+        "sITSponsor":  "Nicolotti, Daniel"
+    },
+    {
+<<<<<<< HEAD
         "nSubmissionID":  "261",
         "sItagID":  "AIGB007.2018",
         "dDateReviewed":  "2/8/2018",
@@ -6666,6 +6595,8 @@
         "sITSponsor":  "Nicolotti, Daniel"
     },
     {
+=======
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "nSubmissionID":  "260",
         "sItagID":  "TGB010.2018",
         "dDateReviewed":  "2/22/2018",
@@ -6681,8 +6612,12 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "Infrastructure :: Storage :: Network Attached Storage (NAS) :: NAS Storage Appliance Platforms",
         "sBusinessCapability":  "",
+=======
+        "sCapability":  "Technology :: Infrastructure :: Storage :: Network Attached Storage (NAS) :: NAS Storage Appliance Platforms",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6695,7 +6630,11 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "300000",
         "nEstCapitalCost":  "0.0000",
+<<<<<<< HEAD
         "sITClass":  "Infrastructure :: Storage",
+=======
+        "sITClass":  "Technology::Infrastructure :: Storage",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sITSponsor":  "Whitley, Brad"
     },
     {
@@ -6714,8 +6653,12 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "",
         "sBusinessCapability":  "Legal :: Compliance :: Legal anc Compliance Management;Information Technology :: IT Governance :: Risk Management",
+=======
+        "sCapability":  "Business :: Legal :: Compliance :: Legal anc Compliance Management;Information Technology :: IT Governance :: Risk Management",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "Less than  25",
         "bIntegrationRequired":  "True",
@@ -6728,7 +6671,11 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "24300",
         "nEstCapitalCost":  "0.0000",
+<<<<<<< HEAD
         "sITClass":  "Legal :: Compliance",
+=======
+        "sITClass":  "Business::Legal :: Compliance",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -6747,8 +6694,12 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Consultation/Guidance",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "",
         "sBusinessCapability":  "",
+=======
+        "sCapability":  "Integration",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6780,8 +6731,12 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "sBusinessCapability":  "",
+=======
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6794,7 +6749,11 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
+<<<<<<< HEAD
         "sITClass":  "Information Delivery :: Reporting \u0026 Analytics",
+=======
+        "sITClass":  "Technology::Information Delivery :: Reporting \u0026 Analytics",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sITSponsor":  "Hughes, Kim"
     },
     {
@@ -6813,8 +6772,12 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Consultation/Guidance",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Network Traffic Optimization :: Wide Area Network Optimization",
         "sBusinessCapability":  "",
+=======
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Network Traffic Optimization :: Wide Area Network Optimization",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6827,7 +6790,11 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "1800000",
+<<<<<<< HEAD
         "sITClass":  "Infrastructure :: Voice \u0026 Data Communications",
+=======
+        "sITClass":  "Technology::Infrastructure :: Voice \u0026 Data Communications",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -6846,8 +6813,12 @@
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Digital Security :: Identity \u0026 Access Management :: Authorization :: Information Rights Management (IRM)",
         "sBusinessCapability":  "",
+=======
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management :: Authorization :: Information Rights Management (IRM)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6860,7 +6831,11 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
+<<<<<<< HEAD
         "sITClass":  "Digital Security :: Identity \u0026 Access Management",
+=======
+        "sITClass":  "Technology::Digital Security :: Identity \u0026 Access Management",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sITSponsor":  "Graham, Nate"
     },
     {
@@ -6879,8 +6854,12 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Device Management;End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Image Provisioning;End User Computing :: Endpoint Computing :: Mobile Comput",
         "sBusinessCapability":  "",
+=======
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Device Management;End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Image Provisioning;End User Computing :: Endpoint Computing :: Mobile Comput",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6893,7 +6872,11 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
+<<<<<<< HEAD
         "sITClass":  "End User Computing :: Endpoint Computing",
+=======
+        "sITClass":  "Technology::End User Computing :: Endpoint Computing",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sITSponsor":  "Hughes, Kim"
     },
     {
@@ -6912,8 +6895,12 @@
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Disk Level Encryption",
         "sBusinessCapability":  "",
+=======
+        "sCapability":  "Technology :: Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Disk Level Encryption",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentLicenses":  "",
         "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
@@ -6926,7 +6913,11 @@
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000",
+<<<<<<< HEAD
         "sITClass":  "Digital Security :: Preventative Security",
+=======
+        "sITClass":  "Technology::Digital Security :: Preventative Security",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sITSponsor":  "Hughes, Kim"
     }
 ]

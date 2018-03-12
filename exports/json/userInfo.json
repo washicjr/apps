@@ -10,8 +10,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety"
+        "sCapability":  "Business :: Environment, Health and Safety"
     },
     {
         "nID":  "1",
@@ -24,8 +23,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety"
+        "sCapability":  "Business :: Environment, Health and Safety"
     },
     {
         "nID":  "2",
@@ -38,8 +36,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "2",
@@ -52,8 +49,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "2",
@@ -66,8 +62,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "3",
@@ -80,8 +75,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "4",
@@ -94,8 +88,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "4",
@@ -108,8 +101,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "5",
@@ -122,8 +114,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "5",
@@ -136,8 +127,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "5",
@@ -150,8 +140,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "6",
@@ -164,8 +153,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "6",
@@ -178,8 +166,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "6",
@@ -192,8 +179,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "7",
@@ -206,8 +192,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Asset :: Asset Management"
+        "sCapability":  "Business :: Asset :: Asset Management"
     },
     {
         "nID":  "7",
@@ -220,8 +205,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Asset :: Asset Management"
+        "sCapability":  "Business :: Asset :: Asset Management"
     },
     {
         "nID":  "7",
@@ -234,8 +218,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Asset :: Asset Management"
+        "sCapability":  "Business :: Asset :: Asset Management"
     },
     {
         "nID":  "8",
@@ -248,8 +231,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Project and Program Management :: Project Optimization"
+        "sCapability":  "Business :: Enterprise :: Project and Program Management :: Project Optimization"
     },
     {
         "nID":  "10",
@@ -262,8 +244,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Optimization"
+        "sCapability":  "Business :: Operations :: Production Optimization"
     },
     {
         "nID":  "11",
@@ -276,8 +257,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Optimization"
+        "sCapability":  "Business :: Operations :: Production Optimization"
     },
     {
         "nID":  "12",
@@ -290,8 +270,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "13",
@@ -304,8 +283,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Geologic Modeling"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Geologic Modeling"
     },
     {
         "nID":  "14",
@@ -318,8 +296,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "14",
@@ -332,8 +309,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "14",
@@ -346,8 +322,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "15",
@@ -360,8 +335,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources"
+        "sCapability":  "Business :: Human Resources"
     },
     {
         "nID":  "15",
@@ -374,8 +348,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources"
+        "sCapability":  "Business :: Human Resources"
     },
     {
         "nID":  "16",
@@ -388,8 +361,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Capital Project Management/Budget :: Planning and Budgeting"
+        "sCapability":  "Business :: Capital Project Management/Budget :: Planning and Budgeting"
     },
     {
         "nID":  "16",
@@ -402,8 +374,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Capital Project Management/Budget :: Planning and Budgeting"
+        "sCapability":  "Business :: Capital Project Management/Budget :: Planning and Budgeting"
     },
     {
         "nID":  "17",
@@ -416,8 +387,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Content Management"
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Content Management"
     },
     {
         "nID":  "18",
@@ -430,8 +400,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Supply Chain :: Transportation and Logistics :: Transportation and Logistics Management"
+        "sCapability":  "Business :: Supply Chain :: Transportation and Logistics :: Transportation and Logistics Management"
     },
     {
         "nID":  "18",
@@ -444,8 +413,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Supply Chain :: Transportation and Logistics :: Transportation and Logistics Management"
+        "sCapability":  "Business :: Supply Chain :: Transportation and Logistics :: Transportation and Logistics Management"
     },
     {
         "nID":  "19",
@@ -458,8 +426,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources :: Employee Management :: Career Management"
+        "sCapability":  "Business :: Human Resources :: Employee Management :: Career Management"
     },
     {
         "nID":  "20",
@@ -472,8 +439,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Search :: Search Index Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Search :: Search Index Management"
     },
     {
         "nID":  "21",
@@ -486,8 +452,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications"
     },
     {
         "nID":  "23",
@@ -500,8 +465,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Business Social",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Knowledge Management :: Business Social"
     },
     {
         "nID":  "24",
@@ -514,8 +478,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "25",
@@ -528,8 +491,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Team \u0026 Workgroup Collaboration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Knowledge Management :: Team \u0026 Workgroup Collaboration"
     },
     {
         "nID":  "26",
@@ -542,8 +504,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Application Delivery :: Desktop Presentation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Application Delivery :: Desktop Presentation"
     },
     {
         "nID":  "27",
@@ -556,8 +517,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management"
     },
     {
         "nID":  "28",
@@ -570,8 +530,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Hardware and Peripherals",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Hardware and Peripherals"
     },
     {
         "nID":  "31",
@@ -584,8 +543,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Worker Productivity Tools"
     },
     {
         "nID":  "32",
@@ -598,8 +556,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform"
     },
     {
         "nID":  "33",
@@ -612,8 +569,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "34",
@@ -626,8 +582,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management"
     },
     {
         "nID":  "35",
@@ -640,8 +595,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Worker Productivity Tools"
     },
     {
         "nID":  "36",
@@ -654,8 +608,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Worker Productivity Tools"
     },
     {
         "nID":  "37",
@@ -668,8 +621,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Operating Systems",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Operating Systems"
     },
     {
         "nID":  "38",
@@ -682,8 +634,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow"
     },
     {
         "nID":  "39",
@@ -696,8 +647,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow"
     },
     {
         "nID":  "42",
@@ -710,8 +660,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Physical Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Physical Infrastructure Management"
     },
     {
         "nID":  "43",
@@ -724,8 +673,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Identity \u0026 Access Management :: Identity Management (IdM)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management :: Identity Management (IdM)"
     },
     {
         "nID":  "45",
@@ -738,8 +686,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "46",
@@ -752,8 +699,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing"
     },
     {
         "nID":  "47",
@@ -766,8 +712,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Datacenter Computing :: Grid Computing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Datacenter Computing :: Grid Computing"
     },
     {
         "nID":  "48",
@@ -780,8 +725,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Business Social",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Knowledge Management :: Business Social"
     },
     {
         "nID":  "49",
@@ -794,8 +738,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Server Services :: Other Application Server Services",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Server Services :: Other Application Server Services"
     },
     {
         "nID":  "50",
@@ -808,8 +751,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Preventative Security :: Network Access Management \u0026 Control :: Network Firewall Security",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Preventative Security :: Network Access Management \u0026 Control :: Network Firewall Security"
     },
     {
         "nID":  "51",
@@ -822,8 +764,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Cloud Management Platform :: Infrastructure Orchestration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Cloud Management Platform :: Infrastructure Orchestration"
     },
     {
         "nID":  "53",
@@ -836,8 +777,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)"
     },
     {
         "nID":  "53",
@@ -850,8 +790,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)"
     },
     {
         "nID":  "53",
@@ -864,8 +803,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)"
     },
     {
         "nID":  "54",
@@ -878,8 +816,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Datacenter Computing :: Compute Virtualization :: Hypervisor Virtualization",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Datacenter Computing :: Compute Virtualization :: Hypervisor Virtualization"
     },
     {
         "nID":  "55",
@@ -892,8 +829,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing Management :: User Session Shadowing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing Management :: User Session Shadowing"
     },
     {
         "nID":  "55",
@@ -906,8 +842,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing Management :: User Session Shadowing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing Management :: User Session Shadowing"
     },
     {
         "nID":  "56",
@@ -920,8 +855,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Mobile Computing Management"
     },
     {
         "nID":  "56",
@@ -934,8 +868,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Mobile Computing Management"
     },
     {
         "nID":  "56",
@@ -948,8 +881,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Mobile Computing Management"
     },
     {
         "nID":  "59",
@@ -962,8 +894,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management"
     },
     {
         "nID":  "60",
@@ -976,8 +907,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management"
     },
     {
         "nID":  "61",
@@ -990,8 +920,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing"
     },
     {
         "nID":  "62",
@@ -1004,8 +933,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing"
     },
     {
         "nID":  "63",
@@ -1018,8 +946,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration"
     },
     {
         "nID":  "64",
@@ -1032,8 +959,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)"
     },
     {
         "nID":  "65",
@@ -1046,8 +972,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management"
     },
     {
         "nID":  "66",
@@ -1060,8 +985,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Predictive Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Predictive Analytics"
     },
     {
         "nID":  "67",
@@ -1074,8 +998,12 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Malware Protection",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Malware Protection"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "70",
@@ -1088,8 +1016,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Enterprise Content Management"
     },
     {
         "nID":  "70",
@@ -1102,8 +1029,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Enterprise Content Management"
     },
     {
         "nID":  "70",
@@ -1116,8 +1042,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Enterprise Content Management"
     },
     {
         "nID":  "72",
@@ -1127,11 +1052,14 @@
         "sProductManufacturer":  "Vertex, Inc.",
         "sProductName":  "Vertex Indirect Tax O Series  (i.e. Vertex O Series)",
         "dDateRequested":  "3/8/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Management :: Public Relations"
+        "sCapability":  "Business :: Corporate :: Corporate Management :: Public Relations"
     },
     {
         "nID":  "72",
@@ -1141,11 +1069,14 @@
         "sProductManufacturer":  "Vertex, Inc.",
         "sProductName":  "Vertex Indirect Tax O Series  (i.e. Vertex O Series)",
         "dDateRequested":  "3/8/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Management :: Public Relations"
+        "sCapability":  "Business :: Corporate :: Corporate Management :: Public Relations"
     },
     {
         "nID":  "74",
@@ -1155,11 +1086,14 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure IaaS High Frequency Data Collection",
         "dDateRequested":  "3/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration"
     },
     {
         "nID":  "74",
@@ -1169,11 +1103,14 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure IaaS High Frequency Data Collection",
         "dDateRequested":  "3/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration"
     },
     {
         "nID":  "74",
@@ -1183,11 +1120,14 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure IaaS High Frequency Data Collection",
         "dDateRequested":  "3/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration"
     },
     {
         "nID":  "75",
@@ -1200,8 +1140,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "75",
@@ -1214,8 +1153,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "76",
@@ -1228,8 +1166,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration"
     },
     {
         "nID":  "78",
@@ -1242,8 +1179,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management"
     },
     {
         "nID":  "78",
@@ -1256,8 +1192,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management"
     },
     {
         "nID":  "78",
@@ -1270,8 +1205,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management"
     },
     {
         "nID":  "79",
@@ -1284,8 +1218,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "79",
@@ -1298,8 +1231,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "80",
@@ -1312,8 +1244,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Information Technology :: IT Planning :: IT Portfolio Management"
+        "sCapability":  "Business :: Information Technology :: IT Planning :: IT Portfolio Management"
     },
     {
         "nID":  "80",
@@ -1326,8 +1257,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Information Technology :: IT Planning :: IT Portfolio Management"
+        "sCapability":  "Business :: Information Technology :: IT Planning :: IT Portfolio Management"
     },
     {
         "nID":  "80",
@@ -1340,8 +1270,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Information Technology :: IT Planning :: IT Portfolio Management"
+        "sCapability":  "Business :: Information Technology :: IT Planning :: IT Portfolio Management"
     },
     {
         "nID":  "82",
@@ -1354,8 +1283,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise"
+        "sCapability":  "Business :: Enterprise"
     },
     {
         "nID":  "84",
@@ -1368,8 +1296,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Preventative Security",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Preventative Security"
     },
     {
         "nID":  "85",
@@ -1382,8 +1309,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Capital Project Management/Budget :: Planning and Budgeting"
+        "sCapability":  "Business :: Capital Project Management/Budget :: Planning and Budgeting"
     },
     {
         "nID":  "86",
@@ -1396,8 +1322,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "87",
@@ -1410,8 +1335,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "87",
@@ -1424,8 +1348,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "87",
@@ -1438,8 +1361,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "88",
@@ -1452,8 +1374,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "88",
@@ -1466,8 +1387,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "88",
@@ -1480,8 +1400,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "89",
@@ -1494,8 +1413,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "89",
@@ -1508,8 +1426,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "89",
@@ -1522,8 +1439,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "90",
@@ -1536,8 +1452,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "90",
@@ -1550,8 +1465,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "90",
@@ -1564,8 +1478,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "91",
@@ -1578,8 +1491,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "91",
@@ -1592,8 +1504,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "91",
@@ -1606,8 +1517,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Corporate Communications"
     },
     {
         "nID":  "92",
@@ -1620,8 +1530,7 @@
         "sHostingModel":  "Not Applicable",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  ""
+        "sCapability":  "Integration"
     },
     {
         "nID":  "93",
@@ -1634,8 +1543,7 @@
         "sHostingModel":  "Not Applicable",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  ""
+        "sCapability":  "Integration"
     },
     {
         "nID":  "94",
@@ -1648,8 +1556,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources :: Employee Management"
+        "sCapability":  "Business :: Human Resources :: Employee Management"
     },
     {
         "nID":  "95",
@@ -1662,8 +1569,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Land"
+        "sCapability":  "Business :: Land"
     },
     {
         "nID":  "96",
@@ -1676,8 +1582,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Drilling"
     },
     {
         "nID":  "96",
@@ -1690,8 +1595,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Drilling"
     },
     {
         "nID":  "96",
@@ -1704,8 +1608,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Drilling"
     },
     {
         "nID":  "97",
@@ -1718,8 +1621,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "97",
@@ -1732,8 +1634,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "98",
@@ -1746,8 +1647,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics"
     },
     {
         "nID":  "98",
@@ -1760,8 +1660,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics"
     },
     {
         "nID":  "99",
@@ -1774,8 +1673,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics"
     },
     {
         "nID":  "99",
@@ -1788,8 +1686,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics"
     },
     {
         "nID":  "100",
@@ -1802,8 +1699,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining"
     },
     {
         "nID":  "100",
@@ -1816,8 +1712,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining"
     },
     {
         "nID":  "101",
@@ -1830,8 +1725,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Reporting :: Visualization",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Reporting :: Visualization"
     },
     {
         "nID":  "102",
@@ -1844,8 +1738,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "103",
@@ -1858,8 +1751,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration"
     },
     {
         "nID":  "104",
@@ -1872,8 +1764,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Drilling"
     },
     {
         "nID":  "105",
@@ -1886,8 +1777,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Measurement"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Measurement"
     },
     {
         "nID":  "106",
@@ -1900,8 +1790,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Program Management"
+        "sCapability":  "Business :: Environment, Health and Safety :: EHS Program Management"
     },
     {
         "nID":  "106",
@@ -1914,8 +1803,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Program Management"
+        "sCapability":  "Business :: Environment, Health and Safety :: EHS Program Management"
     },
     {
         "nID":  "106",
@@ -1928,8 +1816,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Program Management"
+        "sCapability":  "Business :: Environment, Health and Safety :: EHS Program Management"
     },
     {
         "nID":  "107",
@@ -1942,8 +1829,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Measurement"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Measurement"
     },
     {
         "nID":  "107",
@@ -1956,8 +1842,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Measurement"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Measurement"
     },
     {
         "nID":  "108",
@@ -1970,8 +1855,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management :: Document Automation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Enterprise Content Management :: Document Automation"
     },
     {
         "nID":  "109",
@@ -1984,8 +1868,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)"
     },
     {
         "nID":  "110",
@@ -1998,8 +1881,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining"
     },
     {
         "nID":  "110",
@@ -2012,8 +1894,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining"
     },
     {
         "nID":  "111",
@@ -2026,8 +1907,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management"
     },
     {
         "nID":  "112",
@@ -2040,8 +1920,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Production Asset Facility Development"
+        "sCapability":  "Business :: Engineering :: Production Asset Facility Development"
     },
     {
         "nID":  "113",
@@ -2054,8 +1933,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Drilling"
     },
     {
         "nID":  "114",
@@ -2068,8 +1946,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Peripherals :: Printing \u0026 Printer Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Peripherals :: Printing \u0026 Printer Management"
     },
     {
         "nID":  "115",
@@ -2082,8 +1959,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Knowledge Management"
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Knowledge Management"
     },
     {
         "nID":  "116",
@@ -2096,8 +1972,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Machine Learning"
     },
     {
         "nID":  "116",
@@ -2110,8 +1985,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Machine Learning"
     },
     {
         "nID":  "117",
@@ -2124,8 +1998,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "117",
@@ -2138,8 +2011,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "120",
@@ -2149,11 +2021,14 @@
         "sProductManufacturer":  "VMWare",
         "sProductName":  "Airwatch MDM / MAM",
         "dDateRequested":  "2/4/2016",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Mobile Computing Management"
     },
     {
         "nID":  "121",
@@ -2166,8 +2041,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing"
     },
     {
         "nID":  "122",
@@ -2177,11 +2051,14 @@
         "sProductManufacturer":  "Rose \u0026 Associates",
         "sProductName":  "ProjectRA",
         "dDateRequested":  "3/21/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "122",
@@ -2191,11 +2068,14 @@
         "sProductManufacturer":  "Rose \u0026 Associates",
         "sProductName":  "ProjectRA",
         "dDateRequested":  "3/21/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "124",
@@ -2205,11 +2085,14 @@
         "sProductManufacturer":  "IBM",
         "sProductName":  "BPM Cloud - Bluemix",
         "dDateRequested":  "3/28/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management"
     },
     {
         "nID":  "124",
@@ -2219,11 +2102,14 @@
         "sProductManufacturer":  "IBM",
         "sProductName":  "BPM Cloud - Bluemix",
         "dDateRequested":  "3/28/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management"
     },
     {
         "nID":  "124",
@@ -2233,11 +2119,18 @@
         "sProductManufacturer":  "IBM",
         "sProductName":  "BPM Cloud - Bluemix",
         "dDateRequested":  "3/28/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management",
         "sBusinessCapability":  ""
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+        "bNewITCapability":  "False",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "127",
@@ -2250,8 +2143,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Machine Learning"
     },
     {
         "nID":  "128",
@@ -2264,8 +2156,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Land"
+        "sCapability":  "Business :: Land"
     },
     {
         "nID":  "130",
@@ -2278,8 +2169,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Network Based Forensics :: Network Packet Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Detective Security :: Network Based Forensics :: Network Packet Analytics"
     },
     {
         "nID":  "130",
@@ -2292,8 +2182,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Network Based Forensics :: Network Packet Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Detective Security :: Network Based Forensics :: Network Packet Analytics"
     },
     {
         "nID":  "132",
@@ -2306,8 +2195,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "132",
@@ -2320,8 +2208,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "136",
@@ -2334,8 +2221,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management :: Mobile Application Management (MAM)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Mobile Computing Management :: Mobile Application Management (MAM)"
     },
     {
         "nID":  "136",
@@ -2348,8 +2234,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management :: Mobile Application Management (MAM)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Mobile Computing Management :: Mobile Application Management (MAM)"
     },
     {
         "nID":  "137",
@@ -2362,8 +2247,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "137",
@@ -2376,8 +2260,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "137",
@@ -2390,8 +2273,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "138",
@@ -2404,8 +2286,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
     },
     {
         "nID":  "139",
@@ -2418,8 +2299,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Training"
+        "sCapability":  "Business :: Environment, Health and Safety :: EHS Training"
     },
     {
         "nID":  "140",
@@ -2429,11 +2309,14 @@
         "sProductManufacturer":  "CloudEndure",
         "sProductName":  "LiveMigration",
         "dDateRequested":  "5/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management"
     },
     {
         "nID":  "140",
@@ -2443,11 +2326,14 @@
         "sProductManufacturer":  "CloudEndure",
         "sProductName":  "LiveMigration",
         "dDateRequested":  "5/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management"
     },
     {
         "nID":  "140",
@@ -2457,11 +2343,14 @@
         "sProductManufacturer":  "CloudEndure",
         "sProductName":  "LiveMigration",
         "dDateRequested":  "5/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management"
     },
     {
         "nID":  "142",
@@ -2474,8 +2363,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test"
     },
     {
         "nID":  "142",
@@ -2488,8 +2376,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test"
     },
     {
         "nID":  "143",
@@ -2502,8 +2389,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation"
     },
     {
         "nID":  "143",
@@ -2516,8 +2402,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation"
     },
     {
         "nID":  "144",
@@ -2530,8 +2415,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounting Management"
+        "sCapability":  "Business :: Finance and Accounting :: Accounting Management"
     },
     {
         "nID":  "144",
@@ -2544,8 +2428,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounting Management"
+        "sCapability":  "Business :: Finance and Accounting :: Accounting Management"
     },
     {
         "nID":  "145",
@@ -2555,11 +2438,14 @@
         "sProductManufacturer":  "RISC Networks",
         "sProductName":  "CloudScape",
         "dDateRequested":  "5/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management"
     },
     {
         "nID":  "145",
@@ -2569,11 +2455,14 @@
         "sProductManufacturer":  "RISC Networks",
         "sProductName":  "CloudScape",
         "dDateRequested":  "5/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management"
     },
     {
         "nID":  "145",
@@ -2583,11 +2472,14 @@
         "sProductManufacturer":  "RISC Networks",
         "sProductName":  "CloudScape",
         "dDateRequested":  "5/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management"
     },
     {
         "nID":  "147",
@@ -2600,8 +2492,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration"
     },
     {
         "nID":  "147",
@@ -2614,8 +2505,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration"
     },
     {
         "nID":  "148",
@@ -2628,8 +2518,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Automation"
+        "sCapability":  "Business :: Automation"
     },
     {
         "nID":  "149",
@@ -2642,8 +2531,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Exploration Strategy"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Exploration Strategy"
     },
     {
         "nID":  "149",
@@ -2656,8 +2544,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Exploration Strategy"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Exploration Strategy"
     },
     {
         "nID":  "149",
@@ -2670,8 +2557,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Exploration Strategy"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Exploration Strategy"
     },
     {
         "nID":  "150",
@@ -2684,8 +2570,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "151",
@@ -2698,8 +2583,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Capital Project Management/Budget :: Planning and Budgeting"
+        "sCapability":  "Business :: Capital Project Management/Budget :: Planning and Budgeting"
     },
     {
         "nID":  "152",
@@ -2712,8 +2596,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  ""
+        "sCapability":  "Integration"
     },
     {
         "nID":  "154",
@@ -2723,11 +2606,14 @@
         "sProductManufacturer":  "General Electric",
         "sProductName":  "3D Facilities Modeling",
         "dDateRequested":  "6/12/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Equip and Tie-In"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Equip and Tie-In"
     },
     {
         "nID":  "155",
@@ -2737,11 +2623,14 @@
         "sProductManufacturer":  "AvePoint  ",
         "sProductName":  "Governance Automation Core for Microsoft SharePoint \u0026 Office 365",
         "dDateRequested":  "6/12/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management :: Content Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Enterprise Content Management :: Content Management"
     },
     {
         "nID":  "156",
@@ -2754,8 +2643,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Identity \u0026 Access Management :: Authentication :: Authentication Proxy Services",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management :: Authentication :: Authentication Proxy Services"
     },
     {
         "nID":  "157",
@@ -2768,8 +2656,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Corporate :: Corporate Operations :: Office Services"
+        "sCapability":  "Business :: Corporate :: Corporate Operations :: Office Services"
     },
     {
         "nID":  "158",
@@ -2782,8 +2669,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Basin Analysis"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Basin Analysis"
     },
     {
         "nID":  "158",
@@ -2796,8 +2682,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Basin Analysis"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Basin Analysis"
     },
     {
         "nID":  "158",
@@ -2810,8 +2695,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Basin Analysis"
+        "sCapability":  "Business :: Geoscience :: Asset Exploration :: Basin Analysis"
     },
     {
         "nID":  "159",
@@ -2824,8 +2708,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security :: Identity \u0026 Access Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management"
     },
     {
         "nID":  "161",
@@ -2835,11 +2718,14 @@
         "sProductManufacturer":  "Phantom ",
         "sProductName":  "Security Automation and Orchestration (SA\u0026O) Platform ",
         "dDateRequested":  "7/10/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Digital Security",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security"
     },
     {
         "nID":  "162",
@@ -2852,8 +2738,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Engineering"
+        "sCapability":  "Business :: Engineering :: Reservoir Engineering"
     },
     {
         "nID":  "163",
@@ -2863,11 +2748,14 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Surface Hub 55 \u0026 84\"\"",
         "dDateRequested":  "7/17/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Conference Room Management :: Presentation Projection",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Conference Room Management :: Presentation Projection"
     },
     {
         "nID":  "163",
@@ -2877,11 +2765,14 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Surface Hub 55 \u0026 84\"\"",
         "dDateRequested":  "7/17/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Conference Room Management :: Presentation Projection",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Conference Room Management :: Presentation Projection"
     },
     {
         "nID":  "163",
@@ -2891,11 +2782,14 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Surface Hub 55 \u0026 84\"\"",
         "dDateRequested":  "7/17/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Conference Room Management :: Presentation Projection",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Conference Room Management :: Presentation Projection"
     },
     {
         "nID":  "164",
@@ -2908,8 +2802,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety"
+        "sCapability":  "Business :: Environment, Health and Safety"
     },
     {
         "nID":  "164",
@@ -2922,8 +2815,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety"
+        "sCapability":  "Business :: Environment, Health and Safety"
     },
     {
         "nID":  "164",
@@ -2936,8 +2828,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety"
+        "sCapability":  "Business :: Environment, Health and Safety"
     },
     {
         "nID":  "166",
@@ -2947,11 +2838,14 @@
         "sProductManufacturer":  "ELastic",
         "sProductName":  "Logstash",
         "dDateRequested":  "7/19/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "166",
@@ -2961,11 +2855,14 @@
         "sProductManufacturer":  "ELastic",
         "sProductName":  "Logstash",
         "dDateRequested":  "7/19/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "166",
@@ -2975,11 +2872,14 @@
         "sProductManufacturer":  "ELastic",
         "sProductName":  "Logstash",
         "dDateRequested":  "7/19/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "167",
@@ -2992,8 +2892,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "167",
@@ -3006,8 +2905,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "167",
@@ -3020,8 +2918,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation"
     },
     {
         "nID":  "168",
@@ -3034,8 +2931,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing"
     },
     {
         "nID":  "168",
@@ -3048,8 +2944,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing"
     },
     {
         "nID":  "168",
@@ -3062,8 +2957,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing"
     },
     {
         "nID":  "169",
@@ -3076,8 +2970,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
     },
     {
         "nID":  "169",
@@ -3090,8 +2983,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
     },
     {
         "nID":  "169",
@@ -3104,8 +2996,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
     },
     {
         "nID":  "171",
@@ -3118,8 +3009,12 @@
         "sHostingModel":  "Not Applicable",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Integration"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "173",
@@ -3132,8 +3027,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Key-Value Database Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Key-Value Database Management"
     },
     {
         "nID":  "174",
@@ -3146,8 +3040,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Key-Value Database Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Key-Value Database Management"
     },
     {
         "nID":  "174",
@@ -3160,8 +3053,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Key-Value Database Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Key-Value Database Management"
     },
     {
         "nID":  "176",
@@ -3174,8 +3066,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation"
     },
     {
         "nID":  "176",
@@ -3188,8 +3079,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation"
     },
     {
         "nID":  "177",
@@ -3202,8 +3092,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Relational Database Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Relational Database Management"
     },
     {
         "nID":  "177",
@@ -3216,8 +3105,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Relational Database Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Relational Database Management"
     },
     {
         "nID":  "178",
@@ -3230,8 +3118,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Database Management :: Relational Database Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Database Management :: Relational Database Management"
     },
     {
         "nID":  "179",
@@ -3244,8 +3131,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics"
     },
     {
         "nID":  "180",
@@ -3258,8 +3144,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Storage :: Distributed File Systems",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Storage :: Distributed File Systems"
     },
     {
         "nID":  "181",
@@ -3272,8 +3157,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Machine Learning"
     },
     {
         "nID":  "182",
@@ -3286,8 +3170,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Network Based Forensics :: Security Information \u0026 Event Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Detective Security :: Network Based Forensics :: Security Information \u0026 Event Management"
     },
     {
         "nID":  "183",
@@ -3300,8 +3183,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "184",
@@ -3314,8 +3196,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Automation \u0026 Orchestration :: Automation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Automation \u0026 Orchestration :: Automation"
     },
     {
         "nID":  "184",
@@ -3328,8 +3209,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Automation \u0026 Orchestration :: Automation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Automation \u0026 Orchestration :: Automation"
     },
     {
         "nID":  "185",
@@ -3342,8 +3222,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management"
     },
     {
         "nID":  "185",
@@ -3356,8 +3235,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management"
     },
     {
         "nID":  "186",
@@ -3367,11 +3245,14 @@
         "sProductManufacturer":  "MuleSoft",
         "sProductName":  "MuleSoft Anypoint Platform",
         "dDateRequested":  "9/10/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "186",
@@ -3381,11 +3262,14 @@
         "sProductManufacturer":  "MuleSoft",
         "sProductName":  "MuleSoft Anypoint Platform",
         "dDateRequested":  "9/10/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "186",
@@ -3395,11 +3279,14 @@
         "sProductManufacturer":  "MuleSoft",
         "sProductName":  "MuleSoft Anypoint Platform",
         "dDateRequested":  "9/10/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "187",
@@ -3412,8 +3299,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Automation"
+        "sCapability":  "Business :: Automation"
     },
     {
         "nID":  "187",
@@ -3426,8 +3312,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Automation"
+        "sCapability":  "Business :: Automation"
     },
     {
         "nID":  "189",
@@ -3437,11 +3322,14 @@
         "sProductManufacturer":  "ManagedIQ.org",
         "sProductName":  "ManagedIQ",
         "dDateRequested":  "9/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Cloud Management Platform",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Infrastructure Management :: Cloud Management Platform"
     },
     {
         "nID":  "190",
@@ -3451,11 +3339,14 @@
         "sProductManufacturer":  "SnapLogic",
         "sProductName":  "SnapLogic Enterprise Integration Cloud",
         "dDateRequested":  "9/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "190",
@@ -3465,11 +3356,14 @@
         "sProductManufacturer":  "SnapLogic",
         "sProductName":  "SnapLogic Enterprise Integration Cloud",
         "dDateRequested":  "9/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "190",
@@ -3479,11 +3373,14 @@
         "sProductManufacturer":  "SnapLogic",
         "sProductName":  "SnapLogic Enterprise Integration Cloud",
         "dDateRequested":  "9/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "191",
@@ -3493,11 +3390,14 @@
         "sProductManufacturer":  "Dell",
         "sProductName":  "Dell Boomi",
         "dDateRequested":  "9/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "191",
@@ -3507,11 +3407,14 @@
         "sProductManufacturer":  "Dell",
         "sProductName":  "Dell Boomi",
         "dDateRequested":  "9/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "191",
@@ -3521,11 +3424,14 @@
         "sProductManufacturer":  "Dell",
         "sProductName":  "Dell Boomi",
         "dDateRequested":  "9/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "193",
@@ -3535,11 +3441,14 @@
         "sProductManufacturer":  "Informatica",
         "sProductName":  "Informatica Cloud",
         "dDateRequested":  "9/20/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "193",
@@ -3549,11 +3458,14 @@
         "sProductManufacturer":  "Informatica",
         "sProductName":  "Informatica Cloud",
         "dDateRequested":  "9/20/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "193",
@@ -3563,11 +3475,18 @@
         "sProductManufacturer":  "Informatica",
         "sProductName":  "Informatica Cloud",
         "dDateRequested":  "9/20/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
         "sBusinessCapability":  ""
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "bNewITCapability":  "False",
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "195",
@@ -3580,8 +3499,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test"
     },
     {
         "nID":  "196",
@@ -3594,8 +3512,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources :: Employee Management"
+        "sCapability":  "Business :: Human Resources :: Employee Management"
     },
     {
         "nID":  "197",
@@ -3608,8 +3525,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Host Based Forensics :: Raw Data Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Detective Security :: Host Based Forensics :: Raw Data Analytics"
     },
     {
         "nID":  "197",
@@ -3622,8 +3538,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Detective Security :: Host Based Forensics :: Raw Data Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Detective Security :: Host Based Forensics :: Raw Data Analytics"
     },
     {
         "nID":  "199",
@@ -3636,8 +3551,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Configuration"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Configuration"
     },
     {
         "nID":  "199",
@@ -3650,8 +3564,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Configuration"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Configuration"
     },
     {
         "nID":  "199",
@@ -3664,8 +3577,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Configuration"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Configuration"
     },
     {
         "nID":  "200",
@@ -3678,8 +3590,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Configuration"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Configuration"
     },
     {
         "nID":  "200",
@@ -3692,8 +3603,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Configuration"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Configuration"
     },
     {
         "nID":  "200",
@@ -3706,8 +3616,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations :: Production Wells and Facilities Operations :: Production System Configuration"
+        "sCapability":  "Business :: Operations :: Production Wells and Facilities Operations :: Production System Configuration"
     },
     {
         "nID":  "201",
@@ -3720,8 +3629,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test"
     },
     {
         "nID":  "202",
@@ -3734,8 +3642,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "203",
@@ -3748,8 +3655,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Storage :: Network Attached Storage (NAS) :: Network Filesystem Namespace Virtualization",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Storage :: Network Attached Storage (NAS) :: Network Filesystem Namespace Virtualization"
     },
     {
         "nID":  "203",
@@ -3762,8 +3668,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Storage :: Network Attached Storage (NAS) :: Network Filesystem Namespace Virtualization",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Storage :: Network Attached Storage (NAS) :: Network Filesystem Namespace Virtualization"
     },
     {
         "nID":  "204",
@@ -3776,8 +3681,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Information Technology"
+        "sCapability":  "Business :: Information Technology"
     },
     {
         "nID":  "204",
@@ -3790,8 +3694,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Information Technology"
+        "sCapability":  "Business :: Information Technology"
     },
     {
         "nID":  "205",
@@ -3804,8 +3707,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "205",
@@ -3818,8 +3720,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "205",
@@ -3832,8 +3733,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization"
     },
     {
         "nID":  "206",
@@ -3846,8 +3746,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Business Activity Monitoring",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Business Activity Monitoring"
     },
     {
         "nID":  "206",
@@ -3860,8 +3759,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Business Activity Monitoring",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Business Activity Monitoring"
     },
     {
         "nID":  "206",
@@ -3874,8 +3772,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Business Activity Monitoring",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Business Activity Monitoring"
     },
     {
         "nID":  "207",
@@ -3888,8 +3785,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Completion;Geoscience :: Asset Exploration :: Seismic Modeling"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Completion;Geoscience :: Asset Exploration :: Seismic Modeling"
     },
     {
         "nID":  "207",
@@ -3902,8 +3798,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Completion;Geoscience :: Asset Exploration :: Seismic Modeling"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Completion;Geoscience :: Asset Exploration :: Seismic Modeling"
     },
     {
         "nID":  "207",
@@ -3916,8 +3811,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Well Construction :: Well Completion;Geoscience :: Asset Exploration :: Seismic Modeling"
+        "sCapability":  "Business :: Engineering :: Well Construction :: Well Completion;Geoscience :: Asset Exploration :: Seismic Modeling"
     },
     {
         "nID":  "209",
@@ -3930,8 +3824,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Project and Program Management :: Cost Control"
+        "sCapability":  "Business :: Enterprise :: Project and Program Management :: Cost Control"
     },
     {
         "nID":  "209",
@@ -3944,8 +3837,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Project and Program Management :: Cost Control"
+        "sCapability":  "Business :: Enterprise :: Project and Program Management :: Cost Control"
     },
     {
         "nID":  "211",
@@ -3958,8 +3850,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise"
+        "sCapability":  "Business :: Enterprise"
     },
     {
         "nID":  "212",
@@ -3972,8 +3863,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
+        "sCapability":  "Business :: Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation"
     },
     {
         "nID":  "213",
@@ -3986,8 +3876,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Spatial Data Management"
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Spatial Data Management"
     },
     {
         "nID":  "214",
@@ -4000,8 +3889,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Search :: Search Index Federation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Search :: Search Index Federation"
     },
     {
         "nID":  "214",
@@ -4014,8 +3902,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Search :: Search Index Federation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Content Delivery :: Search :: Search Index Federation"
     },
     {
         "nID":  "215",
@@ -4028,8 +3915,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Reporting",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Reporting"
     },
     {
         "nID":  "215",
@@ -4042,8 +3928,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Reporting",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Reporting"
     },
     {
         "nID":  "215",
@@ -4056,8 +3941,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Reporting",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Reporting"
     },
     {
         "nID":  "216",
@@ -4070,8 +3954,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Legal :: Audit :: Internal Audit;Enterprise :: Data and Information Management"
+        "sCapability":  "Business :: Legal :: Audit :: Internal Audit;Enterprise :: Data and Information Management"
     },
     {
         "nID":  "216",
@@ -4084,8 +3967,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Legal :: Audit :: Internal Audit;Enterprise :: Data and Information Management"
+        "sCapability":  "Business :: Legal :: Audit :: Internal Audit;Enterprise :: Data and Information Management"
     },
     {
         "nID":  "217",
@@ -4098,8 +3980,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Program Management;Environment, Health and Safety :: EHS Impact Management :: EHS Remediation Management"
+        "sCapability":  "Business :: Environment, Health and Safety :: EHS Program Management;Environment, Health and Safety :: EHS Impact Management :: EHS Remediation Management"
     },
     {
         "nID":  "218",
@@ -4112,8 +3993,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering;Geoscience"
+        "sCapability":  "Business :: Engineering;Geoscience"
     },
     {
         "nID":  "218",
@@ -4126,8 +4006,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering;Geoscience"
+        "sCapability":  "Business :: Engineering;Geoscience"
     },
     {
         "nID":  "218",
@@ -4140,8 +4019,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering;Geoscience"
+        "sCapability":  "Business :: Engineering;Geoscience"
     },
     {
         "nID":  "219",
@@ -4154,8 +4032,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)"
     },
     {
         "nID":  "219",
@@ -4168,8 +4045,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Integrated Development Environments (IDE)"
     },
     {
         "nID":  "221",
@@ -4182,8 +4058,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "221",
@@ -4196,8 +4071,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "222",
@@ -4210,8 +4084,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "222",
@@ -4224,8 +4097,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "222",
@@ -4238,8 +4110,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "223",
@@ -4252,8 +4123,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "223",
@@ -4266,8 +4136,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "224",
@@ -4280,8 +4149,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounts Payable and Receivable"
+        "sCapability":  "Business :: Finance and Accounting :: Accounts Payable and Receivable"
     },
     {
         "nID":  "224",
@@ -4294,8 +4162,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounts Payable and Receivable"
+        "sCapability":  "Business :: Finance and Accounting :: Accounts Payable and Receivable"
     },
     {
         "nID":  "224",
@@ -4308,8 +4175,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounts Payable and Receivable"
+        "sCapability":  "Business :: Finance and Accounting :: Accounts Payable and Receivable"
     },
     {
         "nID":  "226",
@@ -4322,8 +4188,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Messaging :: Electronic Fascimile",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Messaging :: Electronic Fascimile"
     },
     {
         "nID":  "226",
@@ -4336,8 +4201,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Messaging :: Electronic Fascimile",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Messaging :: Electronic Fascimile"
     },
     {
         "nID":  "226",
@@ -4350,8 +4214,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Messaging :: Electronic Fascimile",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Messaging :: Electronic Fascimile"
     },
     {
         "nID":  "227",
@@ -4364,8 +4227,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation"
     },
     {
         "nID":  "228",
@@ -4378,8 +4240,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Server Services;Middleware \u0026 Platform :: Application Platform Services :: Application Server Services :: .NET Application Server Services;Middleware \u0026 Platform :: Application Platform Se",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Server Services;Middleware \u0026 Platform :: Application Platform Services :: Application Server Services :: .NET Application Server Services;Middleware \u0026 Platform :: Application Platform Se"
     },
     {
         "nID":  "229",
@@ -4392,8 +4253,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Resource Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Resource Management"
     },
     {
         "nID":  "230",
@@ -4406,8 +4266,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management"
+        "sCapability":  "Business :: Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management"
     },
     {
         "nID":  "230",
@@ -4420,8 +4279,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management"
+        "sCapability":  "Business :: Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management"
     },
     {
         "nID":  "230",
@@ -4434,8 +4292,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management"
+        "sCapability":  "Business :: Finance and Accounting;Finance and Accounting :: Finance And Accounting Controls Management"
     },
     {
         "nID":  "231",
@@ -4448,8 +4305,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Tax Management;Finance and Accounting :: Tax Management :: Tax Management and Reporting"
+        "sCapability":  "Business :: Finance and Accounting :: Tax Management;Finance and Accounting :: Tax Management :: Tax Management and Reporting"
     },
     {
         "nID":  "231",
@@ -4462,8 +4318,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Tax Management;Finance and Accounting :: Tax Management :: Tax Management and Reporting"
+        "sCapability":  "Business :: Finance and Accounting :: Tax Management;Finance and Accounting :: Tax Management :: Tax Management and Reporting"
     },
     {
         "nID":  "231",
@@ -4476,8 +4331,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Tax Management;Finance and Accounting :: Tax Management :: Tax Management and Reporting"
+        "sCapability":  "Business :: Finance and Accounting :: Tax Management;Finance and Accounting :: Tax Management :: Tax Management and Reporting"
     },
     {
         "nID":  "232",
@@ -4487,11 +4341,14 @@
         "sProductManufacturer":  "HydroSOLVE, Inc.",
         "sProductName":  "AQTESOLV Pro",
         "dDateRequested":  "12/6/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience"
+        "sCapability":  "Business :: Geoscience"
     },
     {
         "nID":  "233",
@@ -4504,8 +4361,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations"
+        "sCapability":  "Business :: Operations"
     },
     {
         "nID":  "233",
@@ -4518,8 +4374,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations"
+        "sCapability":  "Business :: Operations"
     },
     {
         "nID":  "233",
@@ -4532,8 +4387,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations"
+        "sCapability":  "Business :: Operations"
     },
     {
         "nID":  "234",
@@ -4546,8 +4400,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations"
+        "sCapability":  "Business :: Operations"
     },
     {
         "nID":  "234",
@@ -4560,8 +4413,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Operations"
+        "sCapability":  "Business :: Operations"
     },
     {
         "nID":  "235",
@@ -4574,8 +4426,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Reporting and Analytics"
+        "sCapability":  "Business :: Enterprise :: Reporting and Analytics"
     },
     {
         "nID":  "235",
@@ -4588,8 +4439,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Reporting and Analytics"
+        "sCapability":  "Business :: Enterprise :: Reporting and Analytics"
     },
     {
         "nID":  "236",
@@ -4602,8 +4452,7 @@
         "sHostingModel":  "Not Applicable",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  ""
+        "sCapability":  "Integration"
     },
     {
         "nID":  "238",
@@ -4616,8 +4465,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test"
     },
     {
         "nID":  "238",
@@ -4630,8 +4478,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test"
     },
     {
         "nID":  "239",
@@ -4644,8 +4491,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning"
     },
     {
         "nID":  "240",
@@ -4658,8 +4504,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test"
     },
     {
         "nID":  "242",
@@ -4672,8 +4517,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks;Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Appl",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks;Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Appl"
     },
     {
         "nID":  "242",
@@ -4686,8 +4530,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks;Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Appl",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks;Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Appl"
     },
     {
         "nID":  "242",
@@ -4700,8 +4543,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks;Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Appl",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks;Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Appl"
     },
     {
         "nID":  "243",
@@ -4714,8 +4556,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning;Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Buil",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning;Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Buil"
     },
     {
         "nID":  "243",
@@ -4728,8 +4569,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning;Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Buil",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning;Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Buil"
     },
     {
         "nID":  "243",
@@ -4742,8 +4582,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning;Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Buil",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Development Work Items \u0026 Planning;Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Buil"
     },
     {
         "nID":  "244",
@@ -4756,8 +4595,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI);Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI);Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "244",
@@ -4770,8 +4608,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI);Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI);Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "244",
@@ -4784,8 +4621,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI);Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI);Information Delivery :: Reporting \u0026 Analytics :: Analytics"
     },
     {
         "nID":  "245",
@@ -4798,8 +4634,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Application Delivery :: Application Presentation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Application Delivery :: Application Presentation"
     },
     {
         "nID":  "245",
@@ -4812,8 +4647,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Application Delivery :: Application Presentation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Application Delivery :: Application Presentation"
     },
     {
         "nID":  "245",
@@ -4826,8 +4660,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Application Delivery :: Application Presentation",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Application Delivery :: Application Presentation"
     },
     {
         "nID":  "247",
@@ -4840,8 +4673,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics;Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics;Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI)"
     },
     {
         "nID":  "247",
@@ -4854,8 +4686,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics;Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics;Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI)"
     },
     {
         "nID":  "247",
@@ -4868,8 +4699,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics;Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI)",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics;Information Delivery :: Reporting \u0026 Analytics :: Dashboards and Key Performance Indicators (KPI)"
     },
     {
         "nID":  "249",
@@ -4882,8 +4712,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks"
     },
     {
         "nID":  "249",
@@ -4896,8 +4725,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks"
     },
     {
         "nID":  "249",
@@ -4910,8 +4738,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform :: JavaScript Frameworks"
     },
     {
         "nID":  "250",
@@ -4924,8 +4751,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Content Management"
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Content Management"
     },
     {
         "nID":  "250",
@@ -4938,8 +4764,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Enterprise :: Data and Information Management :: Content Management"
+        "sCapability":  "Business :: Enterprise :: Data and Information Management :: Content Management"
     },
     {
         "nID":  "251",
@@ -4952,8 +4777,7 @@
         "sHostingModel":  "Not Applicable",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  ""
+        "sCapability":  "Integration"
     },
     {
         "nID":  "253",
@@ -4966,8 +4790,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "True",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Middleware \u0026 Platform :: Integration \u0026 Data Management"
     },
     {
         "nID":  "255",
@@ -4980,8 +4803,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounting Management :: Production Revenue Accounting"
+        "sCapability":  "Business :: Finance and Accounting :: Accounting Management :: Production Revenue Accounting"
     },
     {
         "nID":  "256",
@@ -4994,8 +4816,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Disk Level Encryption",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Disk Level Encryption"
     },
     {
         "nID":  "256",
@@ -5008,8 +4829,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "True",
-        "sITCapability":  "Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Disk Level Encryption",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Digital Security :: Preventative Security :: Host Access Management \u0026 Control :: Disk Level Encryption"
     },
     {
         "nID":  "257",
@@ -5022,8 +4842,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Device Management;End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Image Provisioning;End User Computing :: Endpoint Computing :: Mobile Comput",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Device Management;End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Image Provisioning;End User Computing :: Endpoint Computing :: Mobile Comput"
     },
     {
         "nID":  "257",
@@ -5036,8 +4855,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Device Management;End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Image Provisioning;End User Computing :: Endpoint Computing :: Mobile Comput",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Device Management;End User Computing :: Endpoint Computing :: Desktop Computing Management :: Desktop Image Provisioning;End User Computing :: Endpoint Computing :: Mobile Comput"
     },
     {
         "nID":  "259",
@@ -5050,8 +4868,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Unified Communications (UC) :: Video Conferencing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Unified Communications (UC) :: Video Conferencing"
     },
     {
         "nID":  "259",
@@ -5064,8 +4881,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Unified Communications (UC) :: Video Conferencing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Unified Communications (UC) :: Video Conferencing"
     },
     {
         "nID":  "259",
@@ -5078,8 +4894,7 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Unified Communications (UC) :: Video Conferencing",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Unified Communications (UC) :: Video Conferencing"
     },
     {
         "nID":  "260",
@@ -5092,8 +4907,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Storage :: Network Attached Storage (NAS) :: NAS Storage Appliance Platforms",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Storage :: Network Attached Storage (NAS) :: NAS Storage Appliance Platforms"
     },
     {
         "nID":  "260",
@@ -5106,8 +4920,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Storage :: Network Attached Storage (NAS) :: NAS Storage Appliance Platforms",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Storage :: Network Attached Storage (NAS) :: NAS Storage Appliance Platforms"
     },
     {
         "nID":  "260",
@@ -5120,8 +4933,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Storage :: Network Attached Storage (NAS) :: NAS Storage Appliance Platforms",
-        "sBusinessCapability":  ""
+        "sCapability":  "Technology :: Infrastructure :: Storage :: Network Attached Storage (NAS) :: NAS Storage Appliance Platforms"
     },
     {
         "nID":  "261",
@@ -5134,8 +4946,12 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "",
         "sBusinessCapability":  "Geoscience"
+=======
+        "sCapability":  "Business :: Geoscience"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "262",
@@ -5148,8 +4964,12 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Digital Security :: Identity \u0026 Access Management :: Authorization :: Information Rights Management (IRM)",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management :: Authorization :: Information Rights Management (IRM)"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "262",
@@ -5162,8 +4982,12 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Digital Security :: Identity \u0026 Access Management :: Authorization :: Information Rights Management (IRM)",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Digital Security :: Identity \u0026 Access Management :: Authorization :: Information Rights Management (IRM)"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "263",
@@ -5176,8 +5000,12 @@
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "",
         "sBusinessCapability":  "Legal :: Compliance :: Legal anc Compliance Management;Information Technology :: IT Governance :: Risk Management"
+=======
+        "sCapability":  "Business :: Legal :: Compliance :: Legal anc Compliance Management;Information Technology :: IT Governance :: Risk Management"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "264",
@@ -5190,8 +5018,12 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Network Traffic Optimization :: Wide Area Network Optimization",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Network Traffic Optimization :: Wide Area Network Optimization"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "264",
@@ -5204,8 +5036,12 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Network Traffic Optimization :: Wide Area Network Optimization",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Network Traffic Optimization :: Wide Area Network Optimization"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "264",
@@ -5218,8 +5054,12 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Network Traffic Optimization :: Wide Area Network Optimization",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Infrastructure :: Voice \u0026 Data Communications :: Network Traffic Optimization :: Wide Area Network Optimization"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "265",
@@ -5232,8 +5072,12 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "265",
@@ -5246,8 +5090,12 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "265",
@@ -5260,8 +5108,12 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "True",
+<<<<<<< HEAD
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "268",
@@ -5274,8 +5126,12 @@
         "sHostingModel":  "Not Applicable",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Integration"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "268",
@@ -5288,8 +5144,12 @@
         "sHostingModel":  "Not Applicable",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Integration"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     },
     {
         "nID":  "269",
@@ -5302,7 +5162,11 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
         "bNewITCapability":  "False",
+<<<<<<< HEAD
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
         "sBusinessCapability":  ""
+=======
+        "sCapability":  "Technology :: Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics"
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
     }
 ]

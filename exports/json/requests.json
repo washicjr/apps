@@ -705,7 +705,11 @@
         "sProductManufacturer":  "HydroSOLVE, Inc.",
         "sProductName":  "AQTESOLV Pro",
         "dDateRequested":  "12/6/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -1530,7 +1534,11 @@
         "sProductManufacturer":  "Informatica",
         "sProductName":  "Informatica Cloud",
         "dDateRequested":  "9/20/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
@@ -1555,7 +1563,11 @@
         "sProductManufacturer":  "Dell",
         "sProductName":  "Dell Boomi",
         "dDateRequested":  "9/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
@@ -1580,7 +1592,11 @@
         "sProductManufacturer":  "SnapLogic",
         "sProductName":  "SnapLogic Enterprise Integration Cloud",
         "dDateRequested":  "9/13/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
@@ -1605,7 +1621,11 @@
         "sProductManufacturer":  "ManagedIQ.org",
         "sProductName":  "ManagedIQ",
         "dDateRequested":  "9/11/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
@@ -1655,7 +1675,11 @@
         "sProductManufacturer":  "MuleSoft",
         "sProductName":  "MuleSoft Anypoint Platform",
         "dDateRequested":  "9/10/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
@@ -2080,7 +2104,11 @@
         "sProductManufacturer":  "ELastic",
         "sProductName":  "Logstash",
         "dDateRequested":  "7/19/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -2130,7 +2158,11 @@
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Surface Hub 55\" \u0026 84\"",
         "dDateRequested":  "7/17/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
@@ -2180,7 +2212,11 @@
         "sProductManufacturer":  "Phantom ",
         "sProductName":  "Security Automation and Orchestration (SA\u0026O) Platform ",
         "dDateRequested":  "7/10/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -2305,7 +2341,11 @@
         "sProductManufacturer":  "AvePoint  ",
         "sProductName":  "Governance Automation Core for Microsoft SharePoint \u0026 Office 365",
         "dDateRequested":  "6/12/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "True",
@@ -2330,7 +2370,11 @@
         "sProductManufacturer":  "General Electric",
         "sProductName":  "3D Facilities Modeling",
         "dDateRequested":  "6/12/2017",
+<<<<<<< HEAD
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -2400,6 +2444,7 @@
         "nEstCapitalCost":  "45312"
     },
     {
+<<<<<<< HEAD
         "nID":  "150",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Schlumberger",
@@ -2407,84 +2452,118 @@
         "dDateRequested":  "5/26/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
-        "bCurrentAppWithCapabilities":  "True",
-        "sNumberOfUsers":  "Not Known at this Time",
-        "bIntegrationRequired":  "True",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Schlumberger | Schlumberger Cloud Solution Pilot",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "149",
-        "sContentType":  "AIGB Application Review",
-        "sProductManufacturer":  "Enthought Inc.",
-        "sProductName":  "Virtual Core Basic Viewer 1.8",
-        "dDateRequested":  "5/24/2017",
+=======
+        "nID":  "37",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Windows 10",
+        "dDateRequested":  "8/15/2016",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Exploration Strategy",
+        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Operating Systems",
+        "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "Less than  25",
+        "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
         "sIntegrationMethod":  "",
         "bExternalDataSources":  "False",
         "sDataObjectsInvolvedInIntegration":  "",
         "sSourceSystem":  "",
         "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Enthought Inc. | Virtual Core Basic Viewer 1.8",
+        "sProductNameWithManufacture":  "Microsoft | Windows 10",
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "149",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Enthought Inc.",
+        "sProductName":  "Virtual Core Basic Viewer 1.8",
+        "dDateRequested":  "5/24/2017",
+=======
+        "nID":  "36",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "OneDrive Univeral App",
+        "dDateRequested":  "8/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "End User Computing :: Worker Productivity Tools",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Microsoft | OneDrive Univeral App",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
         "nID":  "148",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Digi",
         "sProductName":  "Remote Manager",
         "dDateRequested":  "5/19/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
+=======
+        "nID":  "35",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Next Generation OneDrive Sync Client",
+        "dDateRequested":  "8/1/2016",
+        "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Raise Awareness",
+        "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Automation",
+        "sITCapability":  "End User Computing :: Worker Productivity Tools",
+        "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "Less than  25",
+        "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
         "sIntegrationMethod":  "",
         "bExternalDataSources":  "False",
         "sDataObjectsInvolvedInIntegration":  "",
         "sSourceSystem":  "",
         "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Digi | Remote Manager",
+        "sProductNameWithManufacture":  "Microsoft | Next Generation OneDrive Sync Client",
         "bOpenSource":  "No",
-        "nEstGaCost":  "3750",
+        "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000"
     },
     {
-        "nID":  "147",
+        "nID":  "34",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Project Pendleton",
         "dDateRequested":  "5/25/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
+=======
+        "sProductManufacturer":  "Jetbrains",
+        "sProductName":  "TeamCity",
+        "dDateRequested":  "6/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
+        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
         "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
         "sNumberOfUsers":  "",
@@ -2494,22 +2573,29 @@
         "sDataObjectsInvolvedInIntegration":  "",
         "sSourceSystem":  "",
         "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Microsoft | Project Pendleton",
+        "sProductNameWithManufacture":  "Jetbrains | TeamCity",
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000"
     },
     {
-        "nID":  "145",
+        "nID":  "33",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
         "sProductManufacturer":  "RISC Networks",
         "sProductName":  "CloudScape",
         "dDateRequested":  "5/11/2017",
         "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sProductManufacturer":  "Hewlett Packard (HPE)",
+        "sProductName":  "HPE Service Assistance",
+        "dDateRequested":  "10/1/2016",
+        "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
         "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
         "sNumberOfUsers":  "",
@@ -2519,12 +2605,13 @@
         "sDataObjectsInvolvedInIntegration":  "",
         "sSourceSystem":  "",
         "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "RISC Networks | CloudScape",
+        "sProductNameWithManufacture":  "Hewlett Packard (HPE) | HPE Service Assistance",
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
         "nID":  "144",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Accenture",
@@ -2532,59 +2619,52 @@
         "dDateRequested":  "5/12/2017",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
+=======
+        "nID":  "32",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "HangFire.io",
+        "sProductName":  "HangFire",
+        "dDateRequested":  "10/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Finance and Accounting :: Accounting Management",
+        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform",
+        "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "Less than  25",
-        "bIntegrationRequired":  "True",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
         "sIntegrationMethod":  "",
         "bExternalDataSources":  "False",
         "sDataObjectsInvolvedInIntegration":  "",
         "sSourceSystem":  "",
         "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Accenture | Automation Identification Diagnostic Tool",
-        "bOpenSource":  "No",
+        "sProductNameWithManufacture":  "HangFire.io | HangFire",
+        "bOpenSource":  "Yes",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000"
     },
     {
-        "nID":  "143",
+        "nID":  "31",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
         "sProductManufacturer":  "Apache Foundation",
         "sProductName":  "Storm",
         "dDateRequested":  "5/11/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Consultation/Guidance",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Apache Foundation | Storm",
-        "bOpenSource":  "Yes",
-        "nEstGaCost":  "35000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "142",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Postdot Technologies",
-        "sProductName":  "Postman",
-        "dDateRequested":  "5/11/2017",
+=======
+        "sProductManufacturer":  "Google",
+        "sProductName":  "Chrome Browser",
+        "dDateRequested":  "8/1/2016",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
+        "sITCapability":  "End User Computing :: Worker Productivity Tools",
         "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
         "sNumberOfUsers":  "",
@@ -2594,87 +2674,143 @@
         "sDataObjectsInvolvedInIntegration":  "",
         "sSourceSystem":  "",
         "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Postdot Technologies | Postman",
-        "bOpenSource":  "Yes",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "140",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "CloudEndure",
-        "sProductName":  "LiveMigration",
-        "dDateRequested":  "5/11/2017",
-        "sHostingModel":  "Hybrid Deployment Model",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "True",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "CloudEndure | LiveMigration",
+        "sProductNameWithManufacture":  "Google | Chrome Browser",
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000"
     },
     {
+        "nID":  "30",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Postdot Technologies",
+        "sProductName":  "Postman",
+        "dDateRequested":  "5/11/2017",
+=======
+        "sProductManufacturer":  "EQUINIX",
+        "sProductName":  "Cloud Exchange",
+        "dDateRequested":  "9/15/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Network Transport",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "EQUINIX | Cloud Exchange",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "300000",
+        "nEstCapitalCost":  "90000"
+    },
+    {
+        "nID":  "28",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "CloudEndure",
+        "sProductName":  "LiveMigration",
+        "dDateRequested":  "5/11/2017",
+        "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "sProductManufacturer":  "Dell / Startech",
+        "sProductName":  "New general purpose Desktop Hardware and docking solution",
+        "dDateRequested":  "9/1/2016",
+        "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Hardware and Peripherals",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Dell / Startech | New general purpose Desktop Hardware and docking solution",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
         "nID":  "139",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Articulate",
         "sProductName":  "Articulate 360",
         "dDateRequested":  "5/9/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Environment, Health and Safety :: EHS Training",
-        "bCurrentAppWithCapabilities":  "True",
-        "sNumberOfUsers":  "Less than  25",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Articulate | Articulate 360",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "8800",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "138",
-        "sContentType":  "AIGB Application Review",
-        "sProductManufacturer":  "Schlumberger",
-        "sProductName":  "Peep Bulk Update Plugin",
-        "dDateRequested":  "5/4/2017",
+=======
+        "nID":  "27",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Cloudera",
+        "sProductName":  "Impala ODBC Driver",
+        "dDateRequested":  "7/1/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation",
+        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
+        "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "Less than  25",
+        "sNumberOfUsers":  "",
         "bIntegrationRequired":  "False",
         "sIntegrationMethod":  "",
         "bExternalDataSources":  "False",
         "sDataObjectsInvolvedInIntegration":  "",
         "sSourceSystem":  "",
         "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Schlumberger | Peep Bulk Update Plugin",
+        "sProductNameWithManufacture":  "Cloudera | Impala ODBC Driver",
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "138",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Schlumberger",
+        "sProductName":  "Peep Bulk Update Plugin",
+        "dDateRequested":  "5/4/2017",
+=======
+        "nID":  "26",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Citrix",
+        "sProductName":  "XenServer",
+        "dDateRequested":  "11/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "End User Computing :: Application Delivery :: Desktop Presentation",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Citrix | XenServer",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
         "nID":  "137",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Harvard CBI",
@@ -2682,34 +2818,18 @@
         "dDateRequested":  "5/4/2017",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Geoscience",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "Less than  25",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Harvard CBI | Lightsheet CZI to TIFF Image  Converter",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "136",
+=======
+        "nID":  "25",
         "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Microsoft",
-        "sProductName":  "Visual Studio Mobile Center",
-        "dDateRequested":  "5/4/2017",
+        "sProductManufacturer":  "Trello",
+        "sProductName":  "Trello",
+        "dDateRequested":  "11/1/2016",
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management :: Mobile Application Management (MAM)",
+        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Team \u0026 Workgroup Collaboration",
         "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
         "sNumberOfUsers":  "",
@@ -2719,6 +2839,39 @@
         "sDataObjectsInvolvedInIntegration":  "",
         "sSourceSystem":  "",
         "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Trello | Trello",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "24",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Visual Studio Mobile Center",
+        "dDateRequested":  "5/4/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+=======
+        "sProductManufacturer":  "SAS",
+        "sProductName":  "SAS Deep Analytics Suite",
+        "dDateRequested":  "10/1/2016",
+        "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+<<<<<<< HEAD
         "sProductNameWithManufacture":  "Microsoft | Visual Studio Mobile Center",
         "bOpenSource":  "No",
         "nEstGaCost":  "4335",
@@ -2745,16 +2898,626 @@
         "sSourceSystem":  "",
         "sTargetSystem":  "",
         "sProductNameWithManufacture":  "Golder | FracMan",
+=======
+        "sProductNameWithManufacture":  "SAS | SAS Deep Analytics Suite",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "23",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "ExtraHop",
+        "sProductName":  "ExtraHop Discover Appliance",
+        "dDateRequested":  "4/19/2017",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Raise Awareness",
+=======
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Office 365 Yammer",
+        "dDateRequested":  "12/15/2016",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "bNewITCapability":  "True",
+        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Business Social",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Microsoft | Office 365 Yammer",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "128",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Agile Upstream",
+        "sProductName":  "Agile Land Insights (ALI)",
+        "dDateRequested":  "4/19/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+=======
+        "nID":  "21",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Bridge Communications",
+        "sProductName":  "Lync (Skype for Business) Integration for Cisco Call Manager (LICC)",
+        "dDateRequested":  "11/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Bridge Communications | Lync (Skype for Business) Integration for Cisco Call Manager (LICC)",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "20",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "TensorFlow",
+        "sProductName":  "TensorFlow",
+        "dDateRequested":  "4/27/2017",
+        "sHostingModel":  "Infrastructure as a Service (IaaS)",
+        "sDeploymentType":  "Research \u0026 Development",
+        "sPurposeForEngagement":  "Consultation/Guidance",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
+=======
+        "sProductManufacturer":  "Expertise Locator",
+        "sProductName":  "Expertise Locator",
+        "dDateRequested":  "11/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "True",
+        "sITCapability":  "Information Delivery :: Content Delivery :: Search :: Search Index Management",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Expertise Locator | Expertise Locator",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "124",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "IBM",
+        "sProductName":  "BPM Cloud - Bluemix",
+        "dDateRequested":  "3/28/2017",
+        "sHostingModel":  "Hybrid Deployment Model",
+=======
+        "nID":  "19",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "GoAnimate",
+        "sProductName":  "GoAnimate",
+        "dDateRequested":  "2/1/2016",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Human Resources :: Employee Management :: Career Management",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "GoAnimate | GoAnimate",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "150",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Schlumberger",
+        "sProductName":  "Schlumberger Cloud Solution Pilot",
+        "dDateRequested":  "5/26/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Geoscience",
+        "bCurrentAppWithCapabilities":  "True",
+        "sNumberOfUsers":  "Not Known at this Time",
+        "bIntegrationRequired":  "True",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Schlumberger | Schlumberger Cloud Solution Pilot",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "149",
+        "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Rose \u0026 Associates",
+        "sProductName":  "ProjectRA",
+        "dDateRequested":  "3/21/2017",
+        "sHostingModel":  "Hybrid Deployment Model",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Raise Awareness",
+=======
+        "sProductManufacturer":  "Enthought Inc.",
+        "sProductName":  "Virtual Core Basic Viewer 1.8",
+        "dDateRequested":  "5/24/2017",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Geoscience :: Asset Exploration :: Exploration Strategy",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Enthought Inc. | Virtual Core Basic Viewer 1.8",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "121",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Apache Foundation",
+        "sProductName":  "NiFi",
+        "dDateRequested":  "2/4/2016",
+        "sHostingModel":  "On Premise",
+=======
+        "nID":  "148",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Digi",
+        "sProductName":  "Remote Manager",
+        "dDateRequested":  "5/19/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Raise Awareness",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Automation",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Digi | Remote Manager",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "3750",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "147",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "VMWare",
+        "sProductName":  "Airwatch MDM / MAM",
+        "dDateRequested":  "2/4/2016",
+        "sHostingModel":  "Hybrid Deployment Model",
+        "sDeploymentType":  "Production",
+=======
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Project Pendleton",
+        "dDateRequested":  "5/25/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Microsoft | Project Pendleton",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "145",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Seeq",
+        "sProductName":  "Industrial Analytics",
+        "dDateRequested":  "6/16/2016",
+        "sHostingModel":  "On Premise",
+=======
+        "sProductManufacturer":  "RISC Networks",
+        "sProductName":  "CloudScape",
+        "dDateRequested":  "5/11/2017",
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "True",
+        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "RISC Networks | CloudScape",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "116",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "SAS",
+        "sProductName":  "IML",
+        "dDateRequested":  "6/16/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
+        "nID":  "144",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Accenture",
+        "sProductName":  "Automation Identification Diagnostic Tool",
+        "dDateRequested":  "5/12/2017",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Finance and Accounting :: Accounting Management",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "True",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Accenture | Automation Identification Diagnostic Tool",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "115",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "PMConnect",
+        "sProductName":  "KM/Enterprise Social",
+        "dDateRequested":  "6/16/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+=======
+        "nID":  "143",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Apache Foundation",
+        "sProductName":  "Storm",
+        "dDateRequested":  "5/11/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Research \u0026 Development",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sPurposeForEngagement":  "Consultation/Guidance",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Middleware \u0026 Platform :: Distributed Compute Platforms :: Distributed Computation",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Apache Foundation | Storm",
+        "bOpenSource":  "Yes",
+        "nEstGaCost":  "35000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "142",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "DigitizeIt",
+        "sProductName":  "DigitizeIt",
+        "dDateRequested":  "6/6/2016",
+=======
+        "sProductManufacturer":  "Postdot Technologies",
+        "sProductName":  "Postman",
+        "dDateRequested":  "5/11/2017",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management :: Application Build \u0026 Test",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Postdot Technologies | Postman",
+        "bOpenSource":  "Yes",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "113",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "SageRider",
+        "sProductName":  "Well Ranger",
+        "dDateRequested":  "7/14/2016",
+        "sHostingModel":  "On Premise",
+=======
+        "nID":  "140",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "CloudEndure",
+        "sProductName":  "LiveMigration",
+        "dDateRequested":  "5/11/2017",
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "True",
+        "sITCapability":  "Infrastructure :: Infrastructure Management :: Virtual Infrastructure Management",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "CloudEndure | LiveMigration",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "139",
+        "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Sanvean",
+        "sProductName":  "GameChanger",
+        "dDateRequested":  "7/14/2016",
+        "sHostingModel":  "On Premise",
+=======
+        "sProductManufacturer":  "Articulate",
+        "sProductName":  "Articulate 360",
+        "dDateRequested":  "5/9/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Environment, Health and Safety :: EHS Training",
+        "bCurrentAppWithCapabilities":  "True",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Articulate | Articulate 360",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "8800",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "111",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Test Architect",
+        "sProductName":  "Test Architect",
+        "dDateRequested":  "7/14/2016",
+=======
+        "nID":  "138",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Schlumberger",
+        "sProductName":  "Peep Bulk Update Plugin",
+        "dDateRequested":  "5/4/2017",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Engineering :: Reservoir Characterization :: Reservoir Financial Evaluation",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Schlumberger | Peep Bulk Update Plugin",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "110",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Project Jupyter",
+        "sProductName":  "Jupyter",
+        "dDateRequested":  "7/28/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
+        "nID":  "137",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Harvard CBI",
+        "sProductName":  "Lightsheet CZI to TIFF Image  Converter",
+        "dDateRequested":  "5/4/2017",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Geoscience",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Harvard CBI | Lightsheet CZI to TIFF Image  Converter",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "0.0000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "136",
+        "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Accenture",
+        "sProductName":  "iCARe - Informatica Code Audit and Review Tool",
+        "dDateRequested":  "7/28/2016",
+        "sHostingModel":  "On Premise",
+=======
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Visual Studio Mobile Center",
+        "dDateRequested":  "5/4/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "End User Computing :: Endpoint Computing :: Mobile Computing Management :: Mobile Application Management (MAM)",
+        "sBusinessCapability":  "",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "",
+        "bIntegrationRequired":  "False",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Microsoft | Visual Studio Mobile Center",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "4335",
+        "nEstCapitalCost":  "300"
+    },
+    {
+<<<<<<< HEAD
+        "nID":  "108",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "CVision",
+        "sProductName":  "PdfCompressor",
+        "dDateRequested":  "8/11/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
+        "nID":  "132",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Golder",
+        "sProductName":  "FracMan",
+        "dDateRequested":  "5/4/2017",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Geoscience",
+        "bCurrentAppWithCapabilities":  "True",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "True",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Golder | FracMan",
         "bOpenSource":  "No",
         "nEstGaCost":  "15000",
         "nEstCapitalCost":  "75000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "107",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "DNVGL",
+        "sProductName":  "Synergi Water",
+        "dDateRequested":  "9/8/2016",
+=======
         "nID":  "130",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "ExtraHop",
         "sProductName":  "ExtraHop Discover Appliance",
         "dDateRequested":  "4/19/2017",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
@@ -2777,10 +3540,17 @@
     {
         "nID":  "128",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "ATR",
+        "sProductName":  "Smart Procedures",
+        "dDateRequested":  "9/8/2016",
+        "sHostingModel":  "On Premise",
+=======
         "sProductManufacturer":  "Agile Upstream",
         "sProductName":  "Agile Land Insights (ALI)",
         "dDateRequested":  "4/19/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -2800,6 +3570,16 @@
         "nEstCapitalCost":  "50000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "105",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Siemens ",
+        "sProductName":  "PLC programming software",
+        "dDateRequested":  "9/8/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "127",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "TensorFlow",
@@ -2808,6 +3588,7 @@
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Consultation/Guidance",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Machine Learning",
         "sBusinessCapability":  "",
@@ -2825,13 +3606,23 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "104",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "NIST",
+        "sProductName":  "Reference Fluid Thermodynamic and Transport Properties Database 23 (REFPROP)",
+        "dDateRequested":  "9/8/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
         "nID":  "124",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "IBM",
         "sProductName":  "BPM Cloud - Bluemix",
         "dDateRequested":  "3/28/2017",
-        "sHostingModel":  "Hybrid Deployment Model",
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Business Process Management",
@@ -2852,12 +3643,21 @@
     {
         "nID":  "122",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Landmark",
+        "sProductName":  "DecisionSpace Well Planning",
+        "dDateRequested":  "9/22/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "sProductManufacturer":  "Rose \u0026 Associates",
         "sProductName":  "ProjectRA",
         "dDateRequested":  "3/21/2017",
-        "sHostingModel":  "Hybrid Deployment Model",
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Engineering :: Reservoir Characterization",
@@ -2877,9 +3677,15 @@
     {
         "nID":  "121",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Hewlett Packard (HPE)",
+        "sProductName":  "Operations Manager i (OMi)",
+        "dDateRequested":  "9/22/2016",
+=======
         "sProductManufacturer":  "Apache Foundation",
         "sProductName":  "NiFi",
         "dDateRequested":  "2/4/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -2902,10 +3708,17 @@
     {
         "nID":  "120",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Jaspersoft",
+        "sProductName":  "Jasper Dashboards",
+        "dDateRequested":  "9/22/2016",
+        "sHostingModel":  "On Premise",
+=======
         "sProductManufacturer":  "VMWare",
         "sProductName":  "Airwatch MDM / MAM",
         "dDateRequested":  "2/4/2016",
-        "sHostingModel":  "Hybrid Deployment Model",
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -2927,9 +3740,15 @@
     {
         "nID":  "117",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "SAS",
+        "sProductName":  "High-Performance Data Mining",
+        "dDateRequested":  "10/6/2016",
+=======
         "sProductManufacturer":  "Seeq",
         "sProductName":  "Industrial Analytics",
         "dDateRequested":  "6/16/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -2953,8 +3772,13 @@
         "nID":  "116",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "SAS",
+<<<<<<< HEAD
+        "sProductName":  "Sentiment Analysis",
+        "dDateRequested":  "10/6/2016",
+=======
         "sProductName":  "IML",
         "dDateRequested":  "6/16/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -2975,6 +3799,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "98",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "SAS",
+        "sProductName":  "Contextual Analysis",
+        "dDateRequested":  "10/6/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "115",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "PMConnect",
@@ -2983,6 +3817,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Consultation/Guidance",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Enterprise :: Data and Information Management :: Knowledge Management",
@@ -3002,9 +3837,15 @@
     {
         "nID":  "114",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "SAS",
+        "sProductName":  "Forecast Server",
+        "dDateRequested":  "10/6/2016",
+=======
         "sProductManufacturer":  "DigitizeIt",
         "sProductName":  "DigitizeIt",
         "dDateRequested":  "6/6/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -3027,9 +3868,15 @@
     {
         "nID":  "113",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Cerberus",
+        "sProductName":  "Cerberus",
+        "dDateRequested":  "10/6/2016",
+=======
         "sProductManufacturer":  "SageRider",
         "sProductName":  "Well Ranger",
         "dDateRequested":  "7/14/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -3052,12 +3899,21 @@
     {
         "nID":  "112",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Devon",
+        "sProductName":  "Convert Land Agreements to Structured Data",
+        "dDateRequested":  "10/13/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Research \u0026 Development",
+        "sPurposeForEngagement":  "Consultation/Guidance",
+=======
         "sProductManufacturer":  "Sanvean",
         "sProductName":  "GameChanger",
         "dDateRequested":  "7/14/2016",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Engineering :: Production Asset Facility Development",
@@ -3075,12 +3931,21 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "94",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "InBodyUSA",
+        "sProductName":  "Lookin\u0027Body 120",
+        "dDateRequested":  "10/20/2016",
+        "sHostingModel":  "Software as a Service (SaaS)",
+=======
         "nID":  "111",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Test Architect",
         "sProductName":  "Test Architect",
         "dDateRequested":  "7/14/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3100,12 +3965,21 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "93",
+        "sContentType":  "AIGB Integration Review",
+        "sProductManufacturer":  "",
+        "sProductName":  "",
+        "dDateRequested":  "10/20/2016",
+        "sHostingModel":  "Not Applicable",
+=======
         "nID":  "110",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Project Jupyter",
         "sProductName":  "Jupyter",
         "dDateRequested":  "7/28/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3125,12 +3999,21 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "92",
+        "sContentType":  "AIGB Integration Review",
+        "sProductManufacturer":  "",
+        "sProductName":  "",
+        "dDateRequested":  "10/20/2016",
+        "sHostingModel":  "Not Applicable",
+=======
         "nID":  "109",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Accenture",
         "sProductName":  "iCARe - Informatica Code Audit and Review Tool",
         "dDateRequested":  "7/28/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3150,12 +4033,21 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "91",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Devon",
+        "sProductName":  "Stock Ticker",
+        "dDateRequested":  "11/3/2016",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+=======
         "nID":  "108",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "CVision",
         "sProductName":  "PdfCompressor",
         "dDateRequested":  "8/11/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3177,11 +4069,19 @@
     {
         "nID":  "107",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Devon",
+        "sProductName":  "Image Slider",
+        "dDateRequested":  "11/3/2016",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Research \u0026 Development",
+=======
         "sProductManufacturer":  "DNVGL",
         "sProductName":  "Synergi Water",
         "dDateRequested":  "9/8/2016",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
         "sITCapability":  "",
@@ -3202,12 +4102,21 @@
     {
         "nID":  "106",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Devon",
+        "sProductName":  "Gallerific App",
+        "dDateRequested":  "11/3/2016",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Research \u0026 Development",
+        "sPurposeForEngagement":  "Raise Awareness",
+=======
         "sProductManufacturer":  "ATR",
         "sProductName":  "Smart Procedures",
         "dDateRequested":  "9/8/2016",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Environment, Health and Safety :: EHS Program Management",
@@ -3227,10 +4136,17 @@
     {
         "nID":  "105",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Devon",
+        "sProductName":  "Corporate News App",
+        "dDateRequested":  "11/3/2016",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+=======
         "sProductManufacturer":  "Siemens ",
         "sProductName":  "PLC programming software",
         "dDateRequested":  "9/8/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3252,10 +4168,17 @@
     {
         "nID":  "104",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Devon",
+        "sProductName":  "Picture Library Photo Wall",
+        "dDateRequested":  "11/3/2016",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+=======
         "sProductManufacturer":  "NIST",
         "sProductName":  "Reference Fluid Thermodynamic and Transport Properties Database 23 (REFPROP)",
         "dDateRequested":  "9/8/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3277,12 +4200,21 @@
     {
         "nID":  "103",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "LMKR",
+        "sProductName":  "GeoGraphix PRIZM",
+        "dDateRequested":  "11/3/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+        "sPurposeForEngagement":  "Raise Awareness",
+=======
         "sProductManufacturer":  "Landmark",
         "sProductName":  "DecisionSpace Well Planning",
         "dDateRequested":  "9/22/2016",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Geoscience :: Asset Exploration",
@@ -3300,6 +4232,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "85",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Value Navigator",
+        "sProductName":  "Energy Navigator",
+        "dDateRequested":  "11/17/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+        "sPurposeForEngagement":  "Raise Awareness",
+=======
         "nID":  "102",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Hewlett Packard (HPE)",
@@ -3308,6 +4250,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
         "sBusinessCapability":  "",
@@ -3327,10 +4270,17 @@
     {
         "nID":  "101",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Wombat Security Technologies",
+        "sProductName":  "Anti-Phishing Suite",
+        "dDateRequested":  "3/9/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+=======
         "sProductManufacturer":  "Jaspersoft",
         "sProductName":  "Jasper Dashboards",
         "dDateRequested":  "9/22/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3350,6 +4300,15 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "82",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "x.ai",
+        "sProductName":  "x.ai Personal Assistant",
+        "dDateRequested":  "3/7/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+=======
         "nID":  "100",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "SAS",
@@ -3357,6 +4316,7 @@
         "dDateRequested":  "10/6/2016",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Mining",
@@ -3375,12 +4335,21 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "80",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "Planview",
+        "sProductName":  "Troux ",
+        "dDateRequested":  "3/2/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+=======
         "nID":  "99",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "SAS",
         "sProductName":  "Sentiment Analysis",
         "dDateRequested":  "10/6/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3400,6 +4369,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "79",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "IKON Science",
+        "sProductName":  "RokDoc (GeoMechanics and Pressure Prediction)",
+        "dDateRequested":  "3/1/2017",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+        "sPurposeForEngagement":  "Raise Awareness",
+=======
         "nID":  "98",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "SAS",
@@ -3408,6 +4387,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Advanced Analytics",
         "sBusinessCapability":  "",
@@ -3427,10 +4407,17 @@
     {
         "nID":  "97",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Visual Studio Team Services",
+        "dDateRequested":  "2/27/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+=======
         "sProductManufacturer":  "SAS",
         "sProductName":  "Forecast Server",
         "dDateRequested":  "10/6/2016",
         "sHostingModel":  "On Premise",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3450,6 +4437,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "76",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Informatica",
+        "sProductName":  "Informatica Power Exchange for Cloud Applications - Azure Blob Storage",
+        "dDateRequested":  "2/16/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Research \u0026 Development",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "96",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Cerberus",
@@ -3458,6 +4455,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Engineering :: Well Construction :: Well Drilling",
@@ -3477,6 +4475,42 @@
     {
         "nID":  "95",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "CGG Hampson-Russell",
+        "sProductName":  "Hampson-Russell (RockSI and GeoSI modules)",
+        "dDateRequested":  "2/15/2017",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+        "sPurposeForEngagement":  "Raise Awareness",
+        "bNewITCapability":  "False",
+        "sITCapability":  "",
+        "sBusinessCapability":  "Geoscience",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "True",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "CGG Hampson-Russell | Hampson-Russell (RockSI and GeoSI modules)",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "20000",
+        "nEstCapitalCost":  "0.0000"
+    },
+    {
+        "nID":  "74",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Azure IaaS High Frequency Data Collection",
+        "dDateRequested":  "3/13/2017",
+        "sHostingModel":  "Hybrid Deployment Model",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Raise Awareness",
+        "bNewITCapability":  "True",
+        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
+        "sBusinessCapability":  "",
+=======
         "sProductManufacturer":  "Devon",
         "sProductName":  "Convert Land Agreements to Structured Data",
         "dDateRequested":  "10/13/2016",
@@ -3486,6 +4520,7 @@
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Land",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentAppWithCapabilities":  "False",
         "sNumberOfUsers":  "Not Known at this Time",
         "bIntegrationRequired":  "False",
@@ -3502,15 +4537,51 @@
     {
         "nID":  "94",
         "sContentType":  "AIGB Application Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Vertex, Inc.",
+        "sProductName":  "Vertex Indirect Tax O Series  (i.e. Vertex O Series)",
+        "dDateRequested":  "3/8/2017",
+        "sHostingModel":  "Hybrid Deployment Model",
+=======
         "sProductManufacturer":  "InBodyUSA",
         "sProductName":  "Lookin\u0027Body 120",
         "dDateRequested":  "10/20/2016",
         "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "",
+<<<<<<< HEAD
+        "sBusinessCapability":  "Corporate :: Corporate Management :: Public Relations",
+        "bCurrentAppWithCapabilities":  "False",
+        "sNumberOfUsers":  "Less than  25",
+        "bIntegrationRequired":  "True",
+        "sIntegrationMethod":  "",
+        "bExternalDataSources":  "False",
+        "sDataObjectsInvolvedInIntegration":  "",
+        "sSourceSystem":  "",
+        "sTargetSystem":  "",
+        "sProductNameWithManufacture":  "Vertex, Inc. | Vertex Indirect Tax O Series  (i.e. Vertex O Series)",
+        "bOpenSource":  "No",
+        "nEstGaCost":  "21500",
+        "nEstCapitalCost":  "148100"
+    },
+    {
+        "nID":  "70",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "EPI Use Labs",
+        "sProductName":  "Data Sync Manager",
+        "dDateRequested":  "3/7/2017",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "True",
+        "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management",
+        "sBusinessCapability":  "",
+=======
         "sBusinessCapability":  "Human Resources :: Employee Management",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bCurrentAppWithCapabilities":  "False",
         "sNumberOfUsers":  "Greater than 50",
         "bIntegrationRequired":  "False",
@@ -3525,6 +4596,14 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "67",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Veracode",
+        "sProductName":  "Veracode Application Security Software",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Software as a Service (SaaS)",
+=======
         "nID":  "93",
         "sContentType":  "AIGB Integration Review",
         "sProductManufacturer":  "",
@@ -3581,6 +4660,7 @@
         "sProductName":  "Stock Ticker",
         "dDateRequested":  "11/3/2016",
         "sHostingModel":  "Platform as a Service (PaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3600,6 +4680,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "66",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Azure Machine Learning",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "90",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Devon",
@@ -3608,6 +4698,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Raise Awareness",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications",
@@ -3625,6 +4716,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "65",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Hortonworks",
+        "sProductName":  "HDInsight",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "89",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Devon",
@@ -3633,6 +4734,7 @@
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Research \u0026 Development",
         "sPurposeForEngagement":  "Raise Awareness",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Corporate :: Corporate Operations :: Corporate Communications",
@@ -3650,6 +4752,15 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "64",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Azure Data Factory",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+=======
         "nID":  "88",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Devon",
@@ -3657,6 +4768,7 @@
         "dDateRequested":  "11/3/2016",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "",
@@ -3675,6 +4787,15 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "63",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Azure Stream Analytics",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+=======
         "nID":  "87",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Devon",
@@ -3682,6 +4803,7 @@
         "dDateRequested":  "11/3/2016",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "",
@@ -3700,6 +4822,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "62",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Azure IoT Hub",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "86",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "LMKR",
@@ -3708,6 +4840,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Geoscience :: Asset Exploration",
@@ -3725,6 +4858,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "61",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Azure Event Hub",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "85",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Value Navigator",
@@ -3733,6 +4876,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Capital Project Management/Budget :: Planning and Budgeting",
@@ -3752,11 +4896,19 @@
     {
         "nID":  "84",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Azure Data Lake Analytics",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+=======
         "sProductManufacturer":  "Wombat Security Technologies",
         "sProductName":  "Anti-Phishing Suite",
         "dDateRequested":  "3/9/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Digital Security :: Preventative Security",
@@ -3775,6 +4927,15 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "59",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Azure Data Lake Store",
+        "dDateRequested":  "2/4/2017",
+        "sHostingModel":  "Platform as a Service (PaaS)",
+        "sDeploymentType":  "Proof of Concept/Technology",
+=======
         "nID":  "82",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "x.ai",
@@ -3782,6 +4943,7 @@
         "dDateRequested":  "3/7/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "",
@@ -3800,11 +4962,19 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "56",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Office 365 InTune (Enterprise Mobility Suite)",
+        "dDateRequested":  "2/4/2017",
+=======
         "nID":  "80",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Planview",
         "sProductName":  "Troux ",
         "dDateRequested":  "3/2/2017",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -3825,6 +4995,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "55",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Citrix",
+        "sProductName":  "Goto Assist",
+        "dDateRequested":  "12/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "79",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "IKON Science",
@@ -3833,6 +5013,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Geoscience",
@@ -3853,9 +5034,15 @@
         "nID":  "78",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Microsoft",
+<<<<<<< HEAD
+        "sProductName":  "Window Server 2016, HyperV",
+        "dDateRequested":  "11/1/2016",
+        "sHostingModel":  "On Premise",
+=======
         "sProductName":  "Visual Studio Team Services",
         "dDateRequested":  "2/27/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3877,11 +5064,19 @@
     {
         "nID":  "76",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "DevExpress",
+        "sProductName":  "WPF Controls",
+        "dDateRequested":  "11/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
         "sProductManufacturer":  "Informatica",
         "sProductName":  "Informatica Power Exchange for Cloud Applications - Azure Blob Storage",
         "dDateRequested":  "2/16/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Research \u0026 Development",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration",
@@ -3900,6 +5095,16 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "51",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Puppet Labs",
+        "sProductName":  "Puppet  w/Foreman console",
+        "dDateRequested":  "8/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+=======
         "nID":  "75",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "CGG Hampson-Russell",
@@ -3908,6 +5113,7 @@
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Pilot (Small Production Sample)",
         "sPurposeForEngagement":  "Raise Awareness",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "",
         "sBusinessCapability":  "Geoscience",
@@ -3927,14 +5133,25 @@
     {
         "nID":  "74",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Palo Alto Networks",
+        "sProductName":  "Palo Alto Next Generation Firewall",
+        "dDateRequested":  "7/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Seeking Approval",
+        "bNewITCapability":  "False",
+        "sITCapability":  "Digital Security :: Preventative Security :: Network Access Management \u0026 Control :: Network Firewall Security",
+=======
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure IaaS High Frequency Data Collection",
         "dDateRequested":  "3/13/2017",
-        "sHostingModel":  "Hybrid Deployment Model",
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "True",
         "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics :: Data Exploration",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sBusinessCapability":  "",
         "bCurrentAppWithCapabilities":  "False",
         "sNumberOfUsers":  "",
@@ -3950,12 +5167,21 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "49",
+        "sContentType":  "TGB Technology Review",
+        "sProductManufacturer":  "Node.js Foundation",
+        "sProductName":  "Node.js and npm",
+        "dDateRequested":  "8/1/2016",
+        "sHostingModel":  "On Premise",
+=======
         "nID":  "72",
         "sContentType":  "AIGB Application Review",
         "sProductManufacturer":  "Vertex, Inc.",
         "sProductName":  "Vertex Indirect Tax O Series  (i.e. Vertex O Series)",
         "dDateRequested":  "3/8/2017",
-        "sHostingModel":  "Hybrid Deployment Model",
+        "sHostingModel":  "Hybrid (Combination of Service Delivery Models)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -3977,11 +5203,19 @@
     {
         "nID":  "70",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Office 365 Yammer | Well-Centric Collaboration Tools",
+        "dDateRequested":  "8/1/2016",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Pilot (Small Production Sample)",
+=======
         "sProductManufacturer":  "EPI Use Labs",
         "sProductName":  "Data Sync Manager",
         "dDateRequested":  "3/7/2017",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
         "sITCapability":  "Information Delivery :: Content Delivery :: Enterprise Content Management",
@@ -4002,10 +5236,17 @@
     {
         "nID":  "67",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Devon",
+        "sProductName":  "Attribute Assisted Seismic Processing \u0026 Interpretation (AASPI)",
+        "dDateRequested":  "6/1/2016",
+        "sHostingModel":  "On Premise",
+=======
         "sProductManufacturer":  "Veracode",
         "sProductName":  "Veracode Application Security Software",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "True",
@@ -4027,10 +5268,17 @@
     {
         "nID":  "66",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Streamsets",
+        "sProductName":  "Streamsets Data Connector",
+        "dDateRequested":  "8/15/2016",
+        "sHostingModel":  "On Premise",
+=======
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure Machine Learning",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -4052,11 +5300,19 @@
     {
         "nID":  "65",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "ServiceNow",
+        "sProductName":  "ServiceNow IT Service Management Suite",
+        "dDateRequested":  "10/1/2016",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Production",
+=======
         "sProductManufacturer":  "Hortonworks",
         "sProductName":  "HDInsight",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
@@ -4077,11 +5333,19 @@
     {
         "nID":  "64",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Sailpoint",
+        "sProductName":  "Sailpoint",
+        "dDateRequested":  "8/15/2016",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Production",
+=======
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure Data Factory",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Extract Transform \u0026 Load (ETL)",
@@ -4102,11 +5366,19 @@
     {
         "nID":  "63",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "RedHat",
+        "sProductName":  "Satellite Server 6.X",
+        "dDateRequested":  "8/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure Stream Analytics",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration",
@@ -4128,10 +5400,17 @@
         "nID":  "62",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Microsoft",
+<<<<<<< HEAD
+        "sProductName":  "Azure IaaS Calgary OSI Soft PI",
+        "dDateRequested":  "9/15/2016",
+        "sHostingModel":  "Infrastructure as a Service (IaaS)",
+        "sDeploymentType":  "Production",
+=======
         "sProductName":  "Azure IoT Hub",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Application Integration :: Message Queing",
@@ -4153,11 +5432,19 @@
         "nID":  "61",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Microsoft",
+<<<<<<< HEAD
+        "sProductName":  "Azure IaaS OSISoft PI",
+        "dDateRequested":  "9/15/2016",
+        "sHostingModel":  "Infrastructure as a Service (IaaS)",
+        "sDeploymentType":  "Production",
+        "sPurposeForEngagement":  "Raise Awareness",
+=======
         "sProductName":  "Azure Event Hub",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
         "sPurposeForEngagement":  "Seeking Approval",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing",
         "sBusinessCapability":  "",
@@ -4178,10 +5465,17 @@
         "nID":  "60",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Microsoft",
+<<<<<<< HEAD
+        "sProductName":  "Windows 10",
+        "dDateRequested":  "8/15/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
         "sProductName":  "Azure Data Lake Analytics",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
@@ -4203,10 +5497,17 @@
         "nID":  "59",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Microsoft",
+<<<<<<< HEAD
+        "sProductName":  "OneDrive Univeral App",
+        "dDateRequested":  "8/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
         "sProductName":  "Azure Data Lake Store",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Platform as a Service (PaaS)",
         "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
@@ -4228,9 +5529,15 @@
         "nID":  "56",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Microsoft",
+<<<<<<< HEAD
+        "sProductName":  "Next Generation OneDrive Sync Client",
+        "dDateRequested":  "8/1/2016",
+        "sHostingModel":  "On Premise",
+=======
         "sProductName":  "Office 365 InTune (Enterprise Mobility Suite)",
         "dDateRequested":  "2/4/2017",
         "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -4252,9 +5559,15 @@
     {
         "nID":  "55",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Jetbrains",
+        "sProductName":  "TeamCity",
+        "dDateRequested":  "6/1/2016",
+=======
         "sProductManufacturer":  "Citrix",
         "sProductName":  "Goto Assist",
         "dDateRequested":  "12/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -4277,9 +5590,15 @@
     {
         "nID":  "54",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Hewlett Packard (HPE)",
+        "sProductName":  "HPE Service Assistance",
+        "dDateRequested":  "10/1/2016",
+=======
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Window Server 2016, HyperV",
         "dDateRequested":  "11/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -4302,9 +5621,15 @@
     {
         "nID":  "53",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "HangFire.io",
+        "sProductName":  "HangFire",
+        "dDateRequested":  "10/1/2016",
+=======
         "sProductManufacturer":  "DevExpress",
         "sProductName":  "WPF Controls",
         "dDateRequested":  "11/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -4352,9 +5677,15 @@
     {
         "nID":  "50",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "EQUINIX",
+        "sProductName":  "Cloud Exchange",
+        "dDateRequested":  "9/15/2016",
+=======
         "sProductManufacturer":  "Palo Alto Networks",
         "sProductName":  "Palo Alto Next Generation Firewall",
         "dDateRequested":  "7/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -4377,9 +5708,15 @@
     {
         "nID":  "49",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Dell / Startech",
+        "sProductName":  "New general purpose Desktop Hardware and docking solution",
+        "dDateRequested":  "9/1/2016",
+=======
         "sProductManufacturer":  "Node.js Foundation",
         "sProductName":  "Node.js and npm",
         "dDateRequested":  "8/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -4402,11 +5739,19 @@
     {
         "nID":  "48",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Cloudera",
+        "sProductName":  "Impala ODBC Driver",
+        "dDateRequested":  "7/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Production",
+=======
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Office 365 Yammer | Well-Centric Collaboration Tools",
         "dDateRequested":  "8/1/2016",
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Pilot (Small Production Sample)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Business Social",
@@ -4427,9 +5772,15 @@
     {
         "nID":  "47",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Citrix",
+        "sProductName":  "XenServer",
+        "dDateRequested":  "11/1/2016",
+=======
         "sProductManufacturer":  "Devon",
         "sProductName":  "Attribute Assisted Seismic Processing \u0026 Interpretation (AASPI)",
         "dDateRequested":  "6/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -4452,11 +5803,19 @@
     {
         "nID":  "46",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Trello",
+        "sProductName":  "Trello",
+        "dDateRequested":  "11/1/2016",
+        "sHostingModel":  "Software as a Service (SaaS)",
+        "sDeploymentType":  "Production",
+=======
         "sProductManufacturer":  "Streamsets",
         "sProductName":  "Streamsets Data Connector",
         "dDateRequested":  "8/15/2016",
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Proof of Concept/Technology",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Integration :: Complex Event Processing",
@@ -4480,7 +5839,11 @@
         "sProductManufacturer":  "ServiceNow",
         "sProductName":  "ServiceNow IT Service Management Suite",
         "dDateRequested":  "10/1/2016",
+<<<<<<< HEAD
+        "sHostingModel":  "On Premise",
+=======
         "sHostingModel":  "Software as a Service (SaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
@@ -4502,9 +5865,15 @@
     {
         "nID":  "43",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Microsoft",
+        "sProductName":  "Office 365 Yammer",
+        "dDateRequested":  "12/15/2016",
+=======
         "sProductManufacturer":  "Sailpoint",
         "sProductName":  "Sailpoint",
         "dDateRequested":  "8/15/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "Software as a Service (SaaS)",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -4527,9 +5896,15 @@
     {
         "nID":  "42",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Bridge Communications",
+        "sProductName":  "Lync (Skype for Business) Integration for Cisco Call Manager (LICC)",
+        "dDateRequested":  "11/1/2016",
+=======
         "sProductManufacturer":  "RedHat",
         "sProductName":  "Satellite Server 6.X",
         "dDateRequested":  "8/1/2016",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sHostingModel":  "On Premise",
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Seeking Approval",
@@ -4552,11 +5927,19 @@
     {
         "nID":  "39",
         "sContentType":  "TGB Technology Review",
+<<<<<<< HEAD
+        "sProductManufacturer":  "Expertise Locator",
+        "sProductName":  "Expertise Locator",
+        "dDateRequested":  "11/1/2016",
+        "sHostingModel":  "On Premise",
+        "sDeploymentType":  "Proof of Concept/Technology",
+=======
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure IaaS Calgary OSI Soft PI",
         "dDateRequested":  "9/15/2016",
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
         "sDeploymentType":  "Production",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sPurposeForEngagement":  "Seeking Approval",
         "bNewITCapability":  "False",
         "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Business Process Management (BPM) \u0026 Workflow :: Machine Workflow",
@@ -4575,12 +5958,21 @@
         "nEstCapitalCost":  "0.0000"
     },
     {
+<<<<<<< HEAD
+        "nID":  "19",
+        "sContentType":  "AIGB Application Review",
+        "sProductManufacturer":  "GoAnimate",
+        "sProductName":  "GoAnimate",
+        "dDateRequested":  "2/1/2016",
+        "sHostingModel":  "Software as a Service (SaaS)",
+=======
         "nID":  "38",
         "sContentType":  "TGB Technology Review",
         "sProductManufacturer":  "Microsoft",
         "sProductName":  "Azure IaaS OSISoft PI",
         "dDateRequested":  "9/15/2016",
         "sHostingModel":  "Infrastructure as a Service (IaaS)",
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "sDeploymentType":  "Production",
         "sPurposeForEngagement":  "Raise Awareness",
         "bNewITCapability":  "False",
@@ -4595,431 +5987,6 @@
         "sSourceSystem":  "",
         "sTargetSystem":  "",
         "sProductNameWithManufacture":  "Microsoft | Azure IaaS OSISoft PI",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "37",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Microsoft",
-        "sProductName":  "Windows 10",
-        "dDateRequested":  "8/15/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Operating Systems",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Microsoft | Windows 10",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "36",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Microsoft",
-        "sProductName":  "OneDrive Univeral App",
-        "dDateRequested":  "8/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Microsoft | OneDrive Univeral App",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "35",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Microsoft",
-        "sProductName":  "Next Generation OneDrive Sync Client",
-        "dDateRequested":  "8/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Microsoft | Next Generation OneDrive Sync Client",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "34",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Jetbrains",
-        "sProductName":  "TeamCity",
-        "dDateRequested":  "6/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Lifecycle Management",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Jetbrains | TeamCity",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "33",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Hewlett Packard (HPE)",
-        "sProductName":  "HPE Service Assistance",
-        "dDateRequested":  "10/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Infrastructure Management :: Monitoring \u0026 Event Correlation",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Hewlett Packard (HPE) | HPE Service Assistance",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "32",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "HangFire.io",
-        "sProductName":  "HangFire",
-        "dDateRequested":  "10/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Application Platform Services :: Application Development Framework Services :: Web Application Platform",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "HangFire.io | HangFire",
-        "bOpenSource":  "Yes",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "31",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Google",
-        "sProductName":  "Chrome Browser",
-        "dDateRequested":  "8/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Worker Productivity Tools",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Google | Chrome Browser",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "30",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "EQUINIX",
-        "sProductName":  "Cloud Exchange",
-        "dDateRequested":  "9/15/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications :: Network Transport",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "EQUINIX | Cloud Exchange",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "300000",
-        "nEstCapitalCost":  "90000"
-    },
-    {
-        "nID":  "28",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Dell / Startech",
-        "sProductName":  "New general purpose Desktop Hardware and docking solution",
-        "dDateRequested":  "9/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Endpoint Computing :: Desktop Computing :: Desktop Hardware and Peripherals",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Dell / Startech | New general purpose Desktop Hardware and docking solution",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "27",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Cloudera",
-        "sProductName":  "Impala ODBC Driver",
-        "dDateRequested":  "7/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Middleware \u0026 Platform :: Integration \u0026 Data Management :: Data Management",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Cloudera | Impala ODBC Driver",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "26",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Citrix",
-        "sProductName":  "XenServer",
-        "dDateRequested":  "11/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "End User Computing :: Application Delivery :: Desktop Presentation",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Citrix | XenServer",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "25",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Trello",
-        "sProductName":  "Trello",
-        "dDateRequested":  "11/1/2016",
-        "sHostingModel":  "Software as a Service (SaaS)",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Team \u0026 Workgroup Collaboration",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Trello | Trello",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "24",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "SAS",
-        "sProductName":  "SAS Deep Analytics Suite",
-        "dDateRequested":  "10/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Information Delivery :: Reporting \u0026 Analytics :: Analytics",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "SAS | SAS Deep Analytics Suite",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "23",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Microsoft",
-        "sProductName":  "Office 365 Yammer",
-        "dDateRequested":  "12/15/2016",
-        "sHostingModel":  "Software as a Service (SaaS)",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Knowledge Management :: Business Social",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Microsoft | Office 365 Yammer",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "21",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Bridge Communications",
-        "sProductName":  "Lync (Skype for Business) Integration for Cisco Call Manager (LICC)",
-        "dDateRequested":  "11/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "Infrastructure :: Voice \u0026 Data Communications",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Bridge Communications | Lync (Skype for Business) Integration for Cisco Call Manager (LICC)",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "20",
-        "sContentType":  "TGB Technology Review",
-        "sProductManufacturer":  "Expertise Locator",
-        "sProductName":  "Expertise Locator",
-        "dDateRequested":  "11/1/2016",
-        "sHostingModel":  "On Premise",
-        "sDeploymentType":  "Proof of Concept/Technology",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "True",
-        "sITCapability":  "Information Delivery :: Content Delivery :: Search :: Search Index Management",
-        "sBusinessCapability":  "",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "Expertise Locator | Expertise Locator",
-        "bOpenSource":  "No",
-        "nEstGaCost":  "0.0000",
-        "nEstCapitalCost":  "0.0000"
-    },
-    {
-        "nID":  "19",
-        "sContentType":  "AIGB Application Review",
-        "sProductManufacturer":  "GoAnimate",
-        "sProductName":  "GoAnimate",
-        "dDateRequested":  "2/1/2016",
-        "sHostingModel":  "Software as a Service (SaaS)",
-        "sDeploymentType":  "Production",
-        "sPurposeForEngagement":  "Seeking Approval",
-        "bNewITCapability":  "False",
-        "sITCapability":  "",
-        "sBusinessCapability":  "Human Resources :: Employee Management :: Career Management",
-        "bCurrentAppWithCapabilities":  "False",
-        "sNumberOfUsers":  "Less than  25",
-        "bIntegrationRequired":  "False",
-        "sIntegrationMethod":  "",
-        "bExternalDataSources":  "False",
-        "sDataObjectsInvolvedInIntegration":  "",
-        "sSourceSystem":  "",
-        "sTargetSystem":  "",
-        "sProductNameWithManufacture":  "GoAnimate | GoAnimate",
         "bOpenSource":  "No",
         "nEstGaCost":  "0.0000",
         "nEstCapitalCost":  "0.0000"

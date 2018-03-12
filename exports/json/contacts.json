@@ -506,7 +506,7 @@
     {
         "nID":  "170",
         "sRequesters":  "Scipior, Mark",
-        "sRequesterDepartment":  "Solution Design",
+        "sRequesterDepartment":  "Advanced Analytics Solutions",
         "sTitle":  "Application Services Professional"
     },
     {
@@ -1611,6 +1611,7 @@
         "nID":  "647",
         "sRequesters":  "Drain, Josh",
         "sRequesterDepartment":  "Network Services",
+<<<<<<< HEAD
         "sTitle":  "IT Services Professional"
     },
     {
@@ -1626,6 +1627,23 @@
         "sTitle":  "IT Services Professional"
     },
     {
+=======
+        "sTitle":  "IT Services Professional"
+    },
+    {
+        "nID":  "654",
+        "sRequesters":  "Thakur, Gharmanshu (Contract)",
+        "sRequesterDepartment":  "IT Operations",
+        "sTitle":  "Contractor"
+    },
+    {
+        "nID":  "656",
+        "sRequesters":  "Sutterfield, Jason",
+        "sRequesterDepartment":  "Network Services",
+        "sTitle":  "IT Services Professional"
+    },
+    {
+>>>>>>> ed7589016acd4c5e61278e897b55394ed87cdbe0
         "nID":  "663",
         "sRequesters":  "Reddy, Tirumal",
         "sRequesterDepartment":  "Platform Support",
